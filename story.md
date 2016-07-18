@@ -104,5 +104,7 @@ Vespertines are stout humanoids descended from bats, and like the Corvidines hav
 
 Restrictions: Vespertines may become any single class. They are required to have a minimum Charisma of 9, and a maximum Strength of 17 due to their small stature. Vespertines never roll larger than a d6 for hit points, regardless of class. Vespertines may not use Large weapons, and must hold Medium weapons with both hands.
 
-Special Abilities: Vespertines have Darkvision with a 60' range.
+Special Abilities: Vespertines have Darkvision with a 60' range. Also, Vespertines have the ability to create a shrill noise in a line for a 100' range, dealing 1d4 points of damage to any creatures on that line.
+
+Saving Throws: Vespertines save at +1 against Death Ray or Poison, Magic Wands, Paralysis or Petrify and Spells.
 
