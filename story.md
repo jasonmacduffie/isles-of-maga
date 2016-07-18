@@ -74,7 +74,7 @@ The Lacertines are semi-aquatic humanoids descended from lizards. They have a re
 
 Restrictions: Lacertines may become any single class. They are required to have a minimum Intelligence of 9, and a maximum Charisma of 17.
 
-Special Abilities: Lacertines are able to hold their breath for 30 minutes at a time comfortably. They can continue for another 30 minutes with discomfort, after which they will take damage like an ordinary Human. Because of their natural claws, unarmed melee attacks deal 1d4 damage, and may be lethal.
+Special Abilities: Lacertines are able to hold their breath for 30 minutes at a time comfortably. They can continue for another 5 minutes with discomfort, after which they will take damage like an ordinary Human. Because of their natural claws, unarmed melee attacks deal 1d4 damage, and may be lethal.
 
 Saving Throws: Lacertines save at +4 at Death Ray or Poison, and +3 at Paralysis or Petrify.
 
