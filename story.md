@@ -100,5 +100,5 @@ Saving Throws: Corvidines save at +3 against Magic Wands, Paralysis or Petrify, 
 
 ### Vespertines
 
-
+Vespertines are stout humanoids descended from bats, and like the Corvidines have lost the ability to fly due to their size. They have a reputation for being cheerful and sociable, but also disloyal and scheming.
 
