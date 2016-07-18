@@ -92,7 +92,7 @@ worship a patron or matron Demon Lord rather than Gora (although some do
 worship Gora), and have a much more positive perception of the Demon 
 Lord they follow. Some trades also have their share of followers with a 
 similar view as the beast races: there are merchants who worship 
-Opulentum, and sailors who worship Nautam, for example.
+Opulentum, and sailors who worship Nautarum, for example.
 
 Demon Lords all have their own plane of existance, called the Demonic 
 Planes. Each Lord also has their own kind of demons that fit their 
@@ -101,11 +101,11 @@ nature.
 These are some of the major Demon Lords (feel free to make new ones):
 
 - Pastorum, Patron of Ghosts
-- Umbram, Matron of Shadows (worshipped by Vespertines and Corvidines)
+- Umbrarum, Matron of Shadows (worshipped by Vespertines and Corvidines)
 - Solum, Matron of Purity (worshipped by Felidines)
-- Vitam, Matron of Nature (worshipped by Lacertines)
-- Morbum, Patron of Plague
+- Vitarum, Matron of Nature (worshipped by Lacertines)
+- Morborum, Patron of Plague
 - Opulentum, Patron of Deals
-- Nautam, Matron of the Seas
+- Nautarum, Matron of the Seas
 - Terror, Patron of Fear
 - Ultimatum, Patron of the End Times
