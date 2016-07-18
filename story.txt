@@ -61,7 +61,8 @@ Technology and Magic
 The technology is around that of the European middle ages, although 
 there is room for flexibility. For example, it is possible that 
 gunpowder has been discovered recently leading to the invention of 
-cannons and guns.
+cannons and guns. There are also magical constructs, which are mindless 
+machines that were animated by magic.
 
 Magic comes from a person's internal "life energy," so, in principle, 
 anybody can cast magic. However, it is a difficult talent to acquire, 
