@@ -70,9 +70,9 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 
 ### Lacertines
 
-**Description:** The Lacertines are semi-aquatic humanoids descended from lizards. They have a reputation for being thoughtful and independent, but also lazy and selfish. Their unique ancestry allows them to hold their breath comfortably for around 30 minutes if necessary. They have difficulty with facial expressions, making them seem unemotional to the human-like races, although the other beast races have a better understanding.
+**Description:** The Lacertines are semi-aquatic humanoids descended from lizards. They have a reputation for being thoughtful and independent, but also lazy and selfish. Their unique ancestry allows them to hold their breath comfortably for around 30 minutes if necessary. They are not as naturally social as the other races, and generally keep to small tribes at the largest. While some have adapted to civilization, it is a struggle for their nature.
 
-**Restrictions:** Lacertines may become any single class. They are required to have a minimum Intelligence of 9, and a maximum Charisma of 17.
+**Restrictions:** Lacertines may become any single class. They are required to have a minimum Intelligence of 9, and a maximum Charisma of 17 due to their solitary tendencies.
 
 **Special Abilities:** Lacertines are able to hold their breath for 30 minutes at a time comfortably. They can continue for another 5 minutes with discomfort, after which they will take damage like an ordinary Human. Because of their natural claws, unarmed melee attacks deal 1d4 damage, and may be lethal.
 
