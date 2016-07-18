@@ -1,6 +1,6 @@
 The Isles of Maga
 =================
-The history of Maga is scattered and mysterious, but here is what is common knowledge.
+The history of Maga is scattered and mysterious, but here is what is common knowledge. The date of this information is 5E308 (the 308th year of the fifth era).
 
 Physical Geography
 ------------------
@@ -16,11 +16,11 @@ The capital of the country is Thronerock, located in the Otris Mountains in Maga
 
 Magathos has an area of 5,000 square kilometers, and is the largest island in Maga. The other islands listed vary in size, and are anywhere from 1,000 to 4,000 square kilometers. There are other important trade islands that are much smaller, being no more than 100 or so square kilometers.
 
-Although the inside of the Otris Mountains are very developed by dwarves, the outside of the mountains have not largely been touched by civilization. A great number of unique wildlife make their homes there, as well as some unintegrated beast races.
+Although the inside of the Otris Mountains are very developed by Dwarves, the outside of the mountains have not largely been touched by civilization. A great number of unique wildlife make their homes there, as well as some unintegrated beast races.
 
 Political System
 ----------------
-The Modern Republic has a president as head of state. The representatives are chosen by the Electorate, who are the descendants of the revolutionaries who violently overthrew the Elven Kingdoms that preceded the Republic. The majority of the Electorate are dwarves, with a significant minority of humans and halflings. Elves represent a very small minority of the Electorate; less than 1% are elves, who are the descendants of those elves that rebelled against their own kingdom. None of the beast races (Lacertines, Felidines, Corvidines, and Vespertines) have any members in the Electorate.
+The Modern Republic has a president as head of state. The representatives are chosen by the Electorate, who are the descendants of the revolutionaries who violently overthrew the Elven Kingdoms that preceded the Republic. The majority of the Electorate are Dwarves, with a significant minority of Humans and Halflings. Elves represent a very small minority of the Electorate; less than 1% are Elves, who are the descendants of those Elves that rebelled against their own kingdom. None of the beast races (Lacertines, Felidines, Corvidines, and Vespertines) have any members in the Electorate. As of 5E308, the president is Grulth Skullstone, an elderly Dwarf who personally participated in the establishing of the Republic in a minor role.
 
 Technology and Magic
 --------------------
@@ -47,3 +47,11 @@ These are some of the major Demon Lords (feel free to make new ones):
 - Nautarum, Matron of the Seas
 - Terror, Patron of Fear
 - Ultimatum, Patron of the End Times
+
+Races/Species
+-------------
+Aside from the four human-like races (Dwarves, Elves, Halflings, and Humans), there are four beast races: Lacertines (lizard people), Felidines (cat people), Corvidines (crow people), and Vespertines (bat people). Because the four non-beast races already have details in the BFRPG rules, they are mainly described in terms of their political relationships.
+
+### Dwarves
+
+Politically, Dwarves are the most powerful race in Maga, having initiated the revolution that overthrew the Elven Kingdoms and established the Modern Republic, and now occupy more than 50% of the Electorate. Their rule is harsh and heavy-handed, but not outrageously so. Due to their political status, Dwar
