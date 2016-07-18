@@ -38,8 +38,8 @@ Demon Lords all have their own plane of existance, called the Demonic Planes. Ea
 
 These are some of the major Demon Lords (feel free to make new ones):
 
-- Pastorum, Patron of Ghosts
-- Umbrarum, Matron of Shadows (worshipped by Vespertines and Corvidines)
+- Pastorum, Patron of Ghosts (worshipped by Corvidines)
+- Umbrarum, Matron of Shadows (worshipped by Vespertines)
 - Solum, Matron of Purity (worshipped by Felidines)
 - Vitarum, Matron of Nature (worshipped by Lacertines)
 - Morborum, Patron of Plague
@@ -89,4 +89,16 @@ Special Abilities: Felidines have Darkvision within a 60' range. Furthermore, th
 Saving Throws: Felidines save at +3 at Dragon Breath.
 
 ### Corvidines
+
+Corvidines are humanoids descended from crows, but have lost the ability to fly due to their size. They have a reputation for being wise and crafty, but also grim and mysterious. Their association with death is compounded by their relationship to their patron deity, Pastorum. They are relatively frail due to their weaker bones from their bird ancestry.
+
+Restrictions: Corvidines may become Clerics, Magic-Users or Thieves. They can also multi-class a Magic-User and Thief. They are required to have a minimum Wisdom of 9, and a maximum Constitution of 17 due to their natural fragility.
+
+Special Abilities: Corvidines have an uncanny knowledge of secrecy, and can find hidden doors on 1-2 on 1d6 rather than 1. They also have a 1 on 1d6 chance of discovering a secret door on a cursory look. Their natural talons give unarmed melee attacks 1d4 damage, which may be lethal.
+
+Saving Throws: Corvidines save at +3 against Magic Wands, Paralysis or Petrify, and Spells.
+
+### Vespertines
+
+
 
