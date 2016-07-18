@@ -92,7 +92,7 @@ Saving Throws: Felidines save at +3 at Dragon Breath.
 
 Corvidines are humanoids descended from crows, but have lost the ability to fly due to their size. They have a reputation for being wise and crafty, but also grim and mysterious. Their association with death is compounded by their relationship to their patron deity, Pastorum. They are relatively frail due to their weaker bones from their bird ancestry.
 
-Restrictions: Corvidines may become Clerics, Magic-Users or Thieves. They can also multi-class a Magic-User and Thief. They are required to have a minimum Wisdom of 9, and a maximum Constitution of 17 due to their natural fragility.
+Restrictions: Corvidines may become Clerics, Magic-Users or Thieves. They can also multi-class a Magic-User and Thief. They are required to have a minimum Wisdom of 9, and a maximum Constitution of 17 due to their natural fragility. Corvidines never roll larger than a d6 for hit points, regardless of class.
 
 Special Abilities: Corvidines have an uncanny knowledge of secrecy, and can find hidden doors on 1-2 on 1d6 rather than 1. They also have a 1 on 1d6 chance of discovering a secret door on a cursory look. Their natural talons give unarmed melee attacks 1d4 damage, which may be lethal.
 
@@ -100,5 +100,9 @@ Saving Throws: Corvidines save at +3 against Magic Wands, Paralysis or Petrify, 
 
 ### Vespertines
 
-Vespertines are stout humanoids descended from bats, and like the Corvidines have lost the ability to fly due to their size. They have a reputation for being cheerful and sociable, but also disloyal and scheming.
+Vespertines are stout humanoids descended from bats, and like the Corvidines have lost the ability to fly due to their size. They have a reputation for being cheerful and sociable, but also disloyal and scheming. They tend to live in large congregations both in the forest and underground, and occasionally have competed with Dwarves for space, although recently things have been stable between them. Their small size limits the weapons they can use, but they would prefer sharpness of tongue than blade in most cases.
+
+Restrictions: Vespertines may become any single class. They are required to have a minimum Charisma of 9, and a maximum Strength of 17 due to their small stature. Vespertines never roll larger than a d6 for hit points, regardless of class. Vespertines may not use Large weapons, and must hold Medium weapons with both hands.
+
+Special Abilities: Vespertines have Darkvision with a 60' range.
 
