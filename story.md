@@ -108,3 +108,6 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 
 **Saving Throws:** Vespertines save at +1 against Death Ray or Poison, Magic Wands, Paralysis or Petrify and Spells.
 
+Classes
+-------
+Magic-Users do not use the default system of magic in BFRPG. Instead, they use a magic point system as in the Sorcerer class, which is available as a supplement on the BFRPG website. However, they learn spells in the same way as a Magic-User.
