@@ -50,7 +50,7 @@ These are some of the major Demon Lords (feel free to make new ones):
 
 Races/Species
 -------------
-Aside from the four human-like races (Dwarves, Elves, Halflings, and Humans), there are four beast races: Lacertines (lizard people), Felidines (cat people), Corvidines (crow people), and Vespertines (bat people). Because the four non-beast races already have details in the BFRPG rules, they are mainly described in terms of their political relationships.
+Aside from the four human-like races (Dwarves, Elves, Halflings, and Humans), there are four beast races: Lacertines (lizard people), Felidines (cat people), Corvidines (crow people), and Vespertines (bat people). Because the four non-beast races already have details in the BFRPG rules, they are mainly described in terms of their political relationships. The beast races have full descriptions for player characters.
 
 ### Dwarves
 
@@ -67,4 +67,14 @@ Along with Humans, the Halflings occupy a rung on the power structure between Dw
 ### Humans
 
 Humans occupy a rung on the power structure between Dwarves and Elves, but not in the same way as Halflings. While the Halflings are notable for being generally benign during the revolution, Humans are notable for taking the extremes on both sides: some of the greatest heroes of the revolution, and greatest villains loyal to the Kingdoms, were Human. As a result, Humans manage to occupy around 30% of the Electorate. Their role in society is complicated by the fact that Humans held a relatively high regard in the Elven Kingdoms, being seen as greater than the other non-Elf races, although nowhere near the position of Elves. Some Humans think that life was better for them before the Republic, and seek to restore the Kingdoms back to their former glory.
+
+### Lacertines
+
+The Lacertines are semi-aquatic humanoids descended from lizards. They have a reputation for being thoughtful and independent, but also lazy and selfish. Their unique ancestry allows them to hold their breath comfortably for around 30 minutes if necessary. They have difficulty with facial expressions, making them seem unemotional to the human-like races, although the other beast races have a better understanding.
+
+Restrictions: Lacertines may become any single class. They are required to have a minimum Intelligence of 9, and a maximum Charisma of 17.
+
+Special Abilities: Lacertines are able to hold their breath for 30 minutes at a time comfortably. They can continue for another 30 minutes with discomfort, after which they will take damage like an ordinary Human. Because of their natural claws, unarmed melee attacks deal 1d4 damage, and may be lethal.
+
+Saving Throws: Lacertines save at +4 at Death Ray or Poison, and +3 at Paralysis.
 
