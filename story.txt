@@ -1,6 +1,5 @@
 The Isles of Maga
 =================
-
 The history of Maga is scattered and mysterious, but here is what is
 common knowledge.
 
@@ -33,6 +32,11 @@ and Sorrowport. Nearby major islands are Veldoth, Ruzark, Eyedea,
 Northsky, Olivon, Hosland, Brightwater, and Shaleport. Each island
 has at least one port city, which is the center of most trade. The cities
 on Magathos also have a significant inland trade.
+
+Although the inside of the Otris Mountains are very developed by dwarves,
+the outside of the mountains have not largely been touched by civilization.
+A great number of unique wildlife make their homes there, as well as
+some unintegrated beast races.
 
 Political System
 ----------------
