@@ -76,5 +76,17 @@ Restrictions: Lacertines may become any single class. They are required to have 
 
 Special Abilities: Lacertines are able to hold their breath for 30 minutes at a time comfortably. They can continue for another 30 minutes with discomfort, after which they will take damage like an ordinary Human. Because of their natural claws, unarmed melee attacks deal 1d4 damage, and may be lethal.
 
-Saving Throws: Lacertines save at +4 at Death Ray or Poison, and +3 at Paralysis.
+Saving Throws: Lacertines save at +4 at Death Ray or Poison, and +3 at Paralysis or Petrify.
+
+### Felidines
+
+The Felidines are humanoids descended from large cats. They have a reputation for being stealthy and curious, but also aloof and cowardly. They are especially nimble and cunning, and make excellent thieves or scouts. Like the other beast races, they hold a lesser position in Maga society.
+
+Restrictions: Felidines may become Fighters, Magic-Users or Thieves. They are required to have a minimum Dexterity of 9, and a maximum Wisdom of 17 due to their natural impulsiveness.
+
+Special Abilities: Felidines have Darkvision within a 60' range. Furthermore, their stealth allows them to have only a 10% chance of being detected when in the forest, or a 30% chance in other terrain. Their natural claws give unarmed melee attacks 1d4 damage, which may be lethal.
+
+Saving Throws: Felidines save at +3 at Dragon Breath.
+
+### Corvidines
 
