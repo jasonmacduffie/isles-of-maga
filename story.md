@@ -41,7 +41,7 @@ These are some of the major Demon Lords (feel free to make new ones):
 - Pastorum, Patron of Ghosts (worshipped by Corvidines). His demons are called Nonces, which are the ghosts of deceased sentient races. Upon death, a Nonce retains the memories of its life, but loses its sense of identity.
 - Umbrarum, Matron of Shadows (worshipped by Vespertines)
 - Solum, Matron of Purity (worshipped by Felidines)
-- Vitarum, Matron of Nature (worshipped by Lacertines)
+- Vitarum, Matron of the Woods (worshipped by Lacertines)
 - Morborum, Patron of Plague
 - Opulentum, Patron of Deals
 - Nautarum, Matron of the Seas
