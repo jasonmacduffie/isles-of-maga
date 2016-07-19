@@ -121,3 +121,7 @@ Classes
 Magic-Users do not use the default system of magic in BFRPG. Instead, they use a magic point system as in the Sorcerer class, which is available as a supplement on the BFRPG website. However, they learn spells in the same way as a Magic-User.
 
 Raise Dead and Reincarnate still work as per the BFRPG rules, however doing so may raise the anger of Pastorum, who expected a new ghost to serve him. Therefore, bringing people back to life is uncommon and taboo in Maga, but still possible if they died recently and not of old age.
+
+Language
+--------
+The languages are the same as per the BFRPG rules, there are some changes in the significance however. "Common" is actually a modern dialect of the Dwarven language, and "Dwarven" refers to an ancient, no longer used dialect.
