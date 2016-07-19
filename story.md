@@ -100,7 +100,7 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 
 ### Vespertines
 
-**Description:** Vespertines are stout humanoids descended from bats, and like the Corvidines have lost the ability to fly due to their size. They have a reputation for being cheerful and sociable, but also disloyal and scheming. They tend to live in large congregations both in the forest and underground, and occasionally have competed with Dwarves for space, although recently things have been stable between them. Their small size limits the weapons they can use, but they would prefer sharpness of tongue than blade in most cases.
+**Description:** Vespertines are short humanoids descended from bats, and like the Corvidines have lost the ability to fly due to their size. They have a reputation for being cheerful and sociable, but also disloyal and scheming. They tend to live in large congregations both in the forest and underground, and occasionally have competed with Dwarves for space, although recently things have been stable between them. Their small size limits the weapons they can use, but they would prefer sharpness of tongue than blade in most cases.
 
 **Restrictions:** Vespertines may become any single class. They are required to have a minimum Charisma of 9, and a maximum Strength of 17 due to their small stature. Vespertines never roll larger than a d6 for hit points, regardless of class. Vespertines may not use Large weapons, and must hold Medium weapons with both hands.
 
