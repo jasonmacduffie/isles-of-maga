@@ -48,6 +48,7 @@ These are some of the major Demon Lords (feel free to make new ones):
 - Opulentum, Patron of Deals
 - Nautarum, Matron of the Seas
 - Terror, Patron of Fear
+- Nefastum, Matron of Thuggery
 - Ultimatum, Patron of the End Times
 
 Races/Species
