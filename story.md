@@ -135,9 +135,9 @@ These are the additional racial languages:
 - Vespertinean, the language of Vespertines (Dwarvish alphabet)
 
 More exotic languages:
-- Bosquean, the language of Dryads and Spriggans (Demonic alphabet)
 - Demonic, the language of Demons (Demonic alphabet)
 - Dragonish, the language of Dragons (Demonic alphabet)
 - Goblinish, the language of Goblins (Orcish alphabet)
 - Giantish, the language of Giants (Orcish alphabet)
 - Orcish, the language of Orcs (Orcish alphabet)
+- Sylvish, the language of Dryads, Spriggans, Treants, and other forest spirits (Demonic alphabet)
