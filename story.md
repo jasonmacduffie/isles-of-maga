@@ -1,5 +1,7 @@
 The Isles of Maga
 =================
+![Region Map](region-map.png)
+
 The history of Maga is scattered and mysterious, but here is what is common knowledge. The date of this information is 5E308 (the 308th year of the fifth era, which began with the founding of the Modern Republic).
 
 Physical Geography
