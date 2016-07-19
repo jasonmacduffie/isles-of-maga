@@ -125,3 +125,19 @@ Raise Dead and Reincarnate still work as per the BFRPG rules, however doing so m
 Language
 --------
 The languages are the same as per the BFRPG rules, there are some changes in the significance however. "Common" is actually a modern dialect of the Dwarven language, and "Dwarven" refers to an ancient, no longer used dialect.
+
+Dwarven, Halfling, Elvish, and Common all use the Dwarven alphabet.
+
+These are the additional racial languages:
+- Lacertinean, the language of Lacertines (Dwarven alphabet)
+- Felidinean, the language of Felidines (Dwarven alphabet)
+- Corvidinean, the language of Corvidines (Dwarven alphabet)
+- Vespertinean, the language of Vespertines (Dwarven alphabet)
+
+More exotic languages:
+- Bosquean, the language of Dryads and Spriggans (Demonic alphabet)
+- Demonic, the language of Demons (Demonic alphabet)
+- Dragonish, the language of Dragons (Demonic alphabet)
+- Goblinish, the language of Goblins (Orcish alphabet)
+- Giantish, the language of Giants (Orcish alphabet)
+- Orcish, the language of Orcs (Orcish alphabet)
