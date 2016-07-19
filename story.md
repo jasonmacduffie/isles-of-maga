@@ -104,9 +104,13 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 
 ![vespertine.png](vespertine.png)
 
-**Description:** Vespertines are short humanoids descended from bats, and like the Corvidines have lost the ability to fly due to their size. They have a reputation for being cheerful and sociable, but also disloyal and scheming. They tend to live in large congregations both in the forest and underground, and occasionally have competed with Dwarves for space, although recently things have been stable between them. Their small size limits the weapons they can use, but they would prefer sharpness of tongue than blade in most cases.
+**Description:** Vespertines are a small humanoid beast race descended from bats that lost their ability to fly due to their size. They tend to be between 3 and 4 feet tall, and weigh between 60 and 90 pounds. Their fur is usually brown, grey, or black, though white fur is not unheard of. They always have black beady eyes. Vespertines live in large tribal communities, and usually make their homes in caves in the middle of rainforests. Vespertine communities are sometimes hostile, but always in self-defense and not aggressively.
 
-**Restrictions:** Vespertines may become any single class. They are required to have a minimum Charisma of 9, and a maximum Strength of 17 due to their small stature. Vespertines never roll larger than a d6 for hit points, regardless of class. Vespertines may not use Large weapons, and must hold Medium weapons with both hands.
+Vespertines have an omnivorous diet of insects and fruit. Vespertines tend to dress plainly, in cloth or leather. Vespertines reach adulthood at 10 years, and have a lifespan of between 30 and 40 years.
+
+Vespertines speak their own language, Vespertinean, and most know Common. Vespertines do not tend toward any particular class, and generally prefer to use diplomacy before entering combat. They are varied in their skills, having capable fighters, clerics, magic-users, and thieves among them. Vespertines have a reputation for being cheerful and sociable, but also sometimes disloyal and scheming.
+
+**Restrictions:** Vespertines may become any single class, as well as Fighter/Magic-Users and Magic-User/Thieves. They are required to have a minimum Charisma of 9, and a maximum Strength of 17 due to their small stature. Vespertines never roll larger than a d6 for hit points, regardless of class. Vespertines may not use Large weapons, and must hold Medium weapons with both hands.
 
 **Special Abilities:** Vespertines can use sonar to "see" in total darkness, which mechanically works like 60' of Darkvision. Also, Vespertines have the ability to create a shrill noise in a line for a 100' range, dealing 1d4 points of damage to any creatures on that line.
 
