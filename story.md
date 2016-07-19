@@ -38,7 +38,7 @@ Demon Lords all have their own plane of existance, called the Demonic Planes. Ea
 
 These are some of the major Demon Lords (feel free to make new ones):
 
-- Pastorum, Patron of Ghosts (worshipped by Corvidines)
+- Pastorum, Patron of Ghosts (worshipped by Corvidines). His demons are called Nonces, which are the ghosts of deceased sentient races. Upon death, a Nonce retains the memories of its life, but loses its sense of identity.
 - Umbrarum, Matron of Shadows (worshipped by Vespertines)
 - Solum, Matron of Purity (worshipped by Felidines)
 - Vitarum, Matron of Nature (worshipped by Lacertines)
@@ -111,3 +111,5 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 Classes
 -------
 Magic-Users do not use the default system of magic in BFRPG. Instead, they use a magic point system as in the Sorcerer class, which is available as a supplement on the BFRPG website. However, they learn spells in the same way as a Magic-User.
+
+Raise Dead and Reincarnate still work as per the BFRPG rules, however doing so may raise the anger of Pastorum, who expected a new ghost to serve him. Therefore, bringing people back to life is uncommon and taboo in Maga, but still possible if they died recently and not of old age.
