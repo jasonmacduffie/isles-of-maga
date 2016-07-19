@@ -62,6 +62,8 @@ Politically, Dwarves are the most powerful race in Maga, having initiated the re
 
 While the Dwarves are celebrated in Maga, the Elves are shunned. Once ruling several glorious kingdoms during the Fourth Era, known as the Elven Kingdoms, since the revolution they have been completely disgraced. The Elven Kingdoms were famous for their cruelty towards non-Elves, and their numerous violent purges of Demon Lord worship. Although few Elves today were even alive during that time, the actions of the past still haunt them. Only the few descendants of those Elves who rebelled are in the Electorate, making less than 1%. Most Elves simply want to move on with life, but others long for the day of their return to rule.
 
+Elves have a much shorter lifespan in Maga than in the BFRPG rules: 300 to 400 years is typical.
+
 ### Halflings
 
 Along with Humans, the Halflings occupy a rung on the power structure between Dwarves and Elves. They assisted with the overthrow of the Elven Kingdoms, but did not play a central role. Halflings occupy around 20% of the Electorate, and have their own political interests. The Halflings have mainly contributed economically in the role of farmers, although there are a few Halfling traders as well.
