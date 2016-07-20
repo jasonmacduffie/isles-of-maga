@@ -201,7 +201,7 @@ The languages are the same as per the BFRPG rules, there are some changes in the
 Dwarvish, Halfling, Elvish, and Common all use the Dwarvish alphabet.
 
 These are the additional racial languages:
-- Lacertinean, the language of Lacertines and Troglodytes (Dwarvish alphabet)
+- Lacertinean, the language of Lacertines and Troglodytes (Dwarvish alphabet for Lacertines, Orcish alphabet for Troglodytes)
 - Felidinean, the language of Felidines (Dwarvish alphabet)
 - Corvidinean, the language of Corvidines (Dwarvish alphabet)
 - Vespertinean, the language of Vespertines (Dwarvish alphabet)
