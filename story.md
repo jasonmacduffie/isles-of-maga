@@ -121,6 +121,8 @@ Vespertines speak their own language, Vespertinean, and most know Common. Vesper
 
 Classes
 -------
+Any race/class combination is possible for NPCs, including multi-classing. It is up to the DM whether to limit the players in this way. In particular, Fighter/Magic-Users are common in Maga among Dwarves and Humans, and Magic-Users are common among Halflings.
+
 Magic-Users and Clerics do not use the default system of magic in BFRPG. Instead, they use a magic point system as in the Sorcerer class, which is available as a supplement on the BFRPG website. However, they learn spells in the same way as a Magic-User or Cleric (respectively). Also, the DM may opt for the default system in BFRPG to simplify mechanics, while acknowledging that is a simplification and not a representation of how magic actually works.
 
 Raise Dead and Reincarnate still work as per the BFRPG rules, however doing so may raise the anger of Pastorum, who expected a new ghost to serve him. Therefore, bringing people back to life is uncommon and taboo in Maga, but still possible if they died recently and not of old age.
