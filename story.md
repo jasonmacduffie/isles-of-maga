@@ -44,9 +44,13 @@ In particular, the Orcs were resistant to what they perceived as invaders. Up to
 
 The second era was a time of peace, after the Orcish residents and other hostile races were mostly cleared out, and before the beginning of the formation of states that would prevail during the third era. What were formerly small villages began to grow and eventually become cities. Dwarves continued to build underground, and the other races continued forming new villages and cities on the various islands. This era also marked the beginning of interaction with beast-races, and when people began to learn about the local worship of Demon Lords and share their religion.
 
+Trade flourished during this time, and industries were becoming better established to fight off hostile races, sail the rougher parts of the waters, clearing out of the jungle terrain, and the development under the Otris Mountains by the Dwarves.
+
 ### 3E: The Third Era
 
 During the third era, the separate races formed their own states. The greatest state belonged to the kingdom of the Dwarves, which held the seat of Thronerock which is still the location of the council during the fifth era. Elves, Humans, and Halflings had smaller city states, but many were strong enough to compare to the unified Dwarven kingdom.
+
+The Elves had worshipped Gora for many ages before, but for the first time worship of Gora was organized into churches as an organized religion. They viewed the demon worship of the natives as well as the other human-like races as disgusting and evil given the misanthropic tendencies of some Demon Lords. However, they were not in a position to do anything about it, and traded with these races anyway.
 
 The Dwarves were proud of their strength as a country, and limited their interaction with the other races during this time. They would continue carving out huge castles underground in and around the Otris Mountains and the rest of Magathos. The other races, on the other hand, had more or less amicable relations with each other and traded with one another.
 
