@@ -129,9 +129,13 @@ Magic-Users and Clerics do not use the default system of magic in BFRPG. Instead
 
 Raise Dead and Reincarnate still work as per the BFRPG rules, however doing so may raise the anger of Pastorum, who expected a new ghost to serve him. Therefore, bringing people back to life is uncommon and taboo in Maga, but still possible if they died recently and not of old age.
 
+Animate Dead for use as mindless minions such as zombies or skeletons is considered necromancy in Maga, which is outlawed. Note that Magic-Users and Clerics are still *able* to do so, but not in the open.
+
 Some spells are tweaked to make more sense in the setting:
 
-- **Detect Evil** becomes **Detect Demonic**: The spell is only useful for detecting the presence of demons and demonic powers; it has nothing to do with evil intentions. There is no reverse spell. The exact same principle applies to **Protection from Evil** becoming **Protection from Demonic**, and **Dispel Evil** becoming **Dispel Demonic**.
+- **Detect Evil** becomes **Detect Demonic**: The spell is only useful for detecting the presence of demons and demonic powers; it has nothing to do with evil intentions. The reverse is **Detect Anti-Demonic**. The exact same principle applies to **Protection from Evil** becoming **Protection from Demonic** (reverse **Protection from Anti-Demonic**), and **Dispel Evil** becoming **Dispel Demonic**. Note that undead creatures in particular are not considered demonic (though they are magical). Anti-Demonic objects are ones that are imbued with the power to cause great harm to demons.
+
+- **Commune** does not contact a patron deity; instead it contacts a particular Demon Lord, or at least a servant demon if the Lord is not available. The Demon Lord must be willing to talk to the Cleric for the spell to work, however.
 
 Language
 --------
