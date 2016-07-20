@@ -38,21 +38,31 @@ During this time, the beast races (Lacertines, Felidines, Corvidines, and Vesper
 
 The first era saw the first Humans, Dwarves, Elves, and Halflings reach the shores of Maga. In the beginning their numbers were few, but as they explored more and more of Maga they became more prevalant. Eventually the majority of Maga became populated with these human-like races. There were not many conflicts within these races, instead the focus being on clearing out the area of the hostile locals, including the beast races.
 
+In particular, the Orcs were resistant to what they perceived as invaders. Up to the fifth era, the various Orcish tribes continue to put up a fight, although their numbers have diminished significantly. It is this continued hostility that has prevented from them being integrated with any of the upcoming civilizations, unlike the beast-races.
+
 ### 2E: The Second Era
 
-
+The second era was a time of peace, after the Orcish residents and other hostile races were mostly cleared out, and before the beginning of the formation of states that would prevail during the third era.
 
 ### 3E: The Third Era
 
-During the third era, the separate races formed their own states.
+During the third era, the separate races formed their own states. The greatest state belonged to the kingdom of the Dwarves, which held the seat of Thronerock which is still the location of the council during the fifth era.
 
 ### 4E: The Elven Kingdoms
 
-The beginning of the fourth era saw the first unification of the races under one banner: the banner of the Elves. There was not a centralized government, but a number of allied kingdoms, each with an Elf as monarch. Elvish was the Common language, although this was not strictly enforced and many regions had the majority race's language as a co-official language. Each race was still free to use its own alphabet for their language.
+The beginning of the fourth era saw the first unification of the races under one banner: the banner of the Elves. There was not a centralized government, but a number of allied kingdoms, each with an Elf as monarch. One after another, each region was conquered by the Elves, and the greatest Elf kingdom was on Magathos, seated at Thronerock.
+
+Elvish was the Common language, although this was not strictly enforced and many regions had the majority race's language as a co-official language. Each race was still free to use its own alphabet for their language.
+
+This era also saw the greatest attempt to completely stamp out demon worship. By the end of the fourth era, worship of Demon Lords among Humans, Dwarves, Elves, and Halflings was nearly completely obliterated, and all worshipped the more abstract deity Gora. Less effort was put into stamping out worship among the beast-races due to the fact that they were not integrated as citizens, although some minor missions were carried out.
+
+Although in the beginning the Elven kings and queens were careful to be even-handed, the descendants who would inherit their thrones became increasingly unconcerned with the needs of their subjects. Many of the monarchs during the end of the period were incredibly harsh, even to Humans who held the highest positions in society besides Elves. Halfling farmers and Dwarf miners were taxed more and more onerously.
 
 ### 5E: The Modern Republic
 
 The revolution that ended the fourth era gave rise to the Modern Republic. A contemporary, standardized form of Dwarvish became the Common language instead of Elvish; the human-like and beast races were also required to use the Dwarvish alphabet when writing in their own languages, even though not all sounds could be properly pronounced with it. This has been the source of some minor friction with the Republic.
+
+The Republic continued the goal of the Elves to stamp out demon worship. However, their task was not as great due to the work already accomplished. The main area of focus was the beast-races and their patron/matron Demon Lords, now that they were considered full citizens of the Republic.
 
 Technology
 ----------
