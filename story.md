@@ -32,9 +32,15 @@ Although it has been touched upon, here is an organized account of the history o
 
 Before the arrival of Dwarves, Elves, Humans, and Halflings, there is strong evidence that Maga was under the rule of a powerful Orcish civilization. This is evidenced by the presence of the Orcish alphabet among the languages of Goblins and Gnomes, as well as the huge number of monsters that share the language of Orcs entirely. Furthermore, there are ancient ruins that have a distinct Orcish architecture. However, the Orcs did not keep a history of their civilization, so very little is known about it. The arrival of the human-like races did not disrupt their civilization; it had collapsed into the tribal society that is seen among Orcs up to the 5th era some time before that, for reasons that may never be known.
 
+During this time, the beast races (Lacertines, Felidines, Corvidines, and Vespertines) also populated the region. They likely were also ruled by the Orcish civilization.
+
 ### 1E: The First Era
 
+The first era saw the first Humans, Dwarves, Elves, and Halflings reach the shores of Maga. In the beginning their numbers were few, but as they explored more and more of Maga they became more prevalant. Eventually the majority of Maga became populated with these human-like races. There were not many conflicts within these races, instead the focus being on clearing out the area of the hostile locals, including the beast races.
+
 ### 2E: The Second Era
+
+
 
 ### 3E: The Third Era
 
@@ -42,11 +48,11 @@ During the third era, the separate races formed their own states.
 
 ### 4E: The Elven Kingdoms
 
-The beginning of the fourth era saw the first unification of the races under one banner: the banner of the Elves. There was not a centralized government, but a number of allied kingdoms, each with an Elf as monarch.
+The beginning of the fourth era saw the first unification of the races under one banner: the banner of the Elves. There was not a centralized government, but a number of allied kingdoms, each with an Elf as monarch. Elvish was the Common language, although this was not strictly enforced and many regions had the majority race's language as a co-official language. Each race was still free to use its own alphabet for their language.
 
 ### 5E: The Modern Republic
 
-The revolution that ended the fourth era gave rise to the Modern Republic.
+The revolution that ended the fourth era gave rise to the Modern Republic. A contemporary, standardized form of Dwarvish became the Common language instead of Elvish; the human-like and beast races were also required to use the Dwarvish alphabet when writing in their own languages, even though not all sounds could be properly pronounced with it. This has been the source of some minor friction with the Republic.
 
 Technology
 ----------
