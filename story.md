@@ -48,7 +48,7 @@ These are some of the major Demon Lords (feel free to make new ones):
 - **Morborum**, Patron of Plague
 - **Opulentum**, Patron of Deals
 - **Nautarum**, Matron of the Seas
-- **Terror**, Patron of Fear
+- **Terror**, Patron of Fear. His demons are called Angstworms, which are worm-like creatures as large as an alligator and with reptilian hide. Angstworms have no head, face, or eyes, although they do have a mouth with sharp teeth. Terror's Barony is called The Void Realms, and is made of large rocks floating in space. The Angstworms are able to fly and move around freely in this medium. It is possible for a human to fall off one of the rocks and into an abyss. Terror's appearance is that of a deformed man, with tentacles coming from random parts of his body, and one eye completely overtaken by a large tumor. Slime pours from his mouth. To some extent he is a shapeshifter, but all of his forms are equally horrible.
 - **Nefastum**, Matron of Thuggery
 - **Ultimatum**, Patron of the End Times
 
