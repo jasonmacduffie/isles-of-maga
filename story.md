@@ -44,6 +44,7 @@ These are some of the major Demon Lords (feel free to make new ones):
 - Umbrarum, Matron of Shadows (worshipped by Vespertines)
 - Solum, Matron of Purity (worshipped by Felidines)
 - Vitarum, Matron of the Woods (worshipped by Lacertines)
+- Primarium, Patron of Disaster. His demons are called Elementals, which are intelligent beings made of fire, water, air, or earth.
 - Morborum, Patron of Plague
 - Opulentum, Patron of Deals
 - Nautarum, Matron of the Seas
@@ -138,6 +139,8 @@ Some spells are tweaked to make more sense in the setting:
 - **Detect Evil** becomes **Detect Demonic**: The spell is only useful for detecting the presence of demons and demonic powers; it has nothing to do with evil intentions. The reverse is **Detect Anti-Demonic**. The exact same principle applies to **Protection from Evil** becoming **Protection from Demonic** (reverse **Protection from Anti-Demonic**), and **Dispel Evil** becoming **Dispel Demonic**. Note that undead creatures in particular are not considered demonic (though they are magical). Anti-Demonic objects are ones that are imbued with the power to cause great harm to demons.
 
 - **Commune** does not contact a patron deity; instead it contacts a particular Demon Lord, or at least a servant demon if the Lord is not available. The Demon Lord must be willing to talk to the Cleric for the spell to work, however.
+
+- **Conjure Elemental** summons one of Primarium's demons to fight for you. Elementals are all Primarium's servants, but when you summon one it is under your control.
 
 Language
 --------
