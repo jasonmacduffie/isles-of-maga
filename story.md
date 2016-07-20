@@ -34,19 +34,19 @@ Before the arrival of Dwarves, Elves, Humans, and Halflings, there is strong evi
 
 During this time, the beast races (Lacertines, Felidines, Corvidines, and Vespertines) also populated the region. They likely were also ruled by the Orcish civilization.
 
-### 1E: The First Era
+### 1E: The Era of Exploration
 
 The first era saw the first Humans, Dwarves, Elves, and Halflings reach the shores of Maga. In the beginning their numbers were few, but as they explored more and more of Maga they became more prevalant. Eventually the majority of Maga became populated with these human-like races. There were not many conflicts within these races, instead the focus being on clearing out the area of the hostile locals, including the beast races.
 
 In particular, the Orcs were resistant to what they perceived as invaders. Up to the fifth era, the various Orcish tribes continue to put up a fight, although their numbers have diminished significantly. It is this continued hostility that has prevented from them being integrated with any of the upcoming civilizations, unlike the beast-races.
 
-### 2E: The Second Era
+### 2E: The Era of Industry
 
 The second era was a time of peace, after the Orcish residents and other hostile races were mostly cleared out, and before the beginning of the formation of states that would prevail during the third era. What were formerly small villages began to grow and eventually become cities. Dwarves continued to build underground, and the other races continued forming new villages and cities on the various islands. This era also marked the beginning of interaction with beast-races, and when people began to learn about the local worship of Demon Lords and share their religion.
 
 Trade flourished during this time, and industries were becoming better established to fight off hostile races, sail the rougher parts of the waters, clearing out of the jungle terrain, and the development under the Otris Mountains by the Dwarves.
 
-### 3E: The Third Era
+### 3E: The Era of Statecraft
 
 During the third era, the separate races formed their own states. The greatest state belonged to the kingdom of the Dwarves, which held the seat of Thronerock which is still the location of the council during the fifth era. Elves, Humans, and Halflings had smaller city states, but many were strong enough to compare to the unified Dwarven kingdom.
 
