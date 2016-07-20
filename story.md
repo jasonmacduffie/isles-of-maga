@@ -24,11 +24,9 @@ Political System
 ----------------
 The Modern Republic has a president as head of state. The representatives are chosen by the Electorate, who are the descendants of the revolutionaries who violently overthrew the Elven Kingdoms that preceded the Republic. The majority of the Electorate are Dwarves, with a significant minority of Humans and Halflings. Elves represent a very small minority of the Electorate; less than 1% are Elves, who are the descendants of those Elves that rebelled against their own kingdom. None of the beast races (Lacertines, Felidines, Corvidines, and Vespertines) have any members in the Electorate. As of 5E308, the president is Grulth Skullstone, an elderly Dwarf who personally participated in the establishing of the Republic in a minor role.
 
-Technology and Magic
---------------------
+Technology
+----------
 The technology is around that of the European middle ages, although there is room for flexibility. For example, it is possible that gunpowder has been discovered recently leading to the invention of cannons and guns. There are also magical constructs, which are mindless machines that were animated by magic.
-
-Magic comes from a person's internal "life energy," so, in principle, anybody can cast magic. However, it is a difficult talent to acquire, and the arts are very secretive. Therefore, most people will not have even seen a magic user in their life. A great deal of effort is taken by magic users to keep magic out of the hands of the public and kept the domain of specially trained magicians who can handle its power.
 
 Religion
 --------
@@ -123,9 +121,17 @@ Classes
 -------
 Any race/class combination is possible for NPCs, including multi-classing. It is up to the DM whether to limit the players in this way. In particular, Fighter/Magic-Users are common in Maga among Dwarves and Humans, and Magic-Users are common among Halflings.
 
+Magic
+-----
+Magic comes from a person's internal "life energy," so, in principle, anybody can cast magic. However, it is a difficult talent to acquire, and the arts are very secretive. Therefore, most people will not have even seen a magic user in their life. A great deal of effort is taken by magic users to keep magic out of the hands of the public and kept the domain of specially trained magicians who can handle its power.
+
 Magic-Users and Clerics do not use the default system of magic in BFRPG. Instead, they use a magic point system as in the Sorcerer class, which is available as a supplement on the BFRPG website. However, they learn spells in the same way as a Magic-User or Cleric (respectively). Also, the DM may opt for the default system in BFRPG to simplify mechanics, while acknowledging that is a simplification and not a representation of how magic actually works.
 
 Raise Dead and Reincarnate still work as per the BFRPG rules, however doing so may raise the anger of Pastorum, who expected a new ghost to serve him. Therefore, bringing people back to life is uncommon and taboo in Maga, but still possible if they died recently and not of old age.
+
+Some spells are tweaked to make more sense in the setting:
+
+- **Detect Evil** becomes **Detect Demonic**: The spell is only useful for detecting the presence of demons and demonic powers; it has nothing to do with evil intentions. There is no reverse spell. The exact same principle applies to **Protection from Evil** becoming **Protection from Demonic**, and **Dispel Evil** becoming **Dispel Demonic**.
 
 Language
 --------
