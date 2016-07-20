@@ -40,7 +40,7 @@ Demon Lords all have their own region in the land of Demonia. Demonia is located
 
 These are some of the major Demon Lords (feel free to make new ones):
 
-- Pastorum, Patron of Ghosts (worshipped by Corvidines). His demons are called Nonces, which are the ghosts of deceased sentient races. Upon death, a Nonce retains the memories of its life, but loses its sense of identity.
+- Pastorum, Patron of Ghosts (worshipped by Corvidines). His demons are called Nonces, which are the ghosts of deceased sentient races. Upon death, a Nonce retains the memories of its life, but loses its sense of identity. His Barony is called Arcadia, a land of rolling hills and meadows that are perpetually lit by moonlight. His appearance is of a human skeleton in a robe, with the skull of a bull. In one hand he holds a shepherd's crook, and in the other hand he holds a box lantern.
 - Umbrarum, Matron of Shadows (worshipped by Vespertines)
 - Solum, Matron of Purity (worshipped by Felidines)
 - Vitarum, Matron of the Woods (worshipped by Lacertines)
