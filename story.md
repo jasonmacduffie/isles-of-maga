@@ -44,7 +44,7 @@ These are some of the major Demon Lords (feel free to make new ones):
 - Umbrarum, Matron of Shadows (worshipped by Vespertines)
 - Solum, Matron of Purity (worshipped by Felidines)
 - Vitarum, Matron of the Woods (worshipped by Lacertines)
-- Primarium, Patron of Disaster. His demons are called Elementals, which are intelligent beings made of fire, water, air, or earth.
+- Primarium, Patron of Disaster. His demons are called Elementals, which are intelligent beings made of fire, water, air, or earth. His Barony is called Tormentia, a region where the land never sits still. There are constant earthquakes and landslides, incredible gusts and lightning, and tremendous fires and tsunamis. His appearance is as chaotic as his domain: he is a mixture of flames, water, wind, and rock. He does not hold a constant shape, but typically presents himself as humanoid.
 - Morborum, Patron of Plague
 - Opulentum, Patron of Deals
 - Nautarum, Matron of the Seas
