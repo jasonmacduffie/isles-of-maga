@@ -30,9 +30,11 @@ The technology is around that of the European middle ages, although there is roo
 
 Religion
 --------
-The "good" religion in Maga is monotheistic, worshipping the deity called Gora. However, Gora does not actively perform miracles, and the power of clerics comes from their faith itself rather than an actual blessing from Gora. In fact, there is no physical evidence that Gora exists, but rather his existence is based on an oral tradition dating thousands of years that eventually became a written tradition and organized into churches.
+The "good" religion in Maga is monotheistic, worshipping the deity called Gora. However, Gora does not actively perform miracles, and the power of Clerics, like Magic-Users, comes from their life energy rather than a blessing from Gora. In fact, there is no physical evidence that Gora exists, but rather his existence is based on an oral tradition dating thousands of years that eventually became a written tradition and organized into churches.
 
 However, there are a large number of "evil" religions in Maga, each serving a Demon Lord. Unlike Gora, the existence of Demon Lords is undeniable and apparent. Although the worship of the Demon Lords is forbidden culturally and legally, they all have their own share of worshippers. Demon Lords are considered evil compared to Gora, and while they generally tend to be misanthropic, some actually follow a more complex grey morality. Furthermore, all the beast races traditionally worship a patron or matron Demon Lord rather than Gora (although some do worship Gora), and have a much more positive perception of the Demon Lord they follow. Some trades also have their share of followers with a similar view as the beast races: there are merchants who worship Opulentum, and sailors who worship Nautarum, for example.
+
+A Cleric, then, is permitted to serve a Demon Lord as a patron/matron deity, but they cannot do so openly. As stated earlier, the power of Clerics does not come from a blessing, but from their life-energy.
 
 Demon Lords all have their own region in the land of Demonia. Demonia is located deep underground, far deeper than any mortal could possibly go. The different regions are called Baronies of Demonia. Each Lord also has their own kind of demons that fit their nature.
 
