@@ -42,11 +42,17 @@ In particular, the Orcs were resistant to what they perceived as invaders. Up to
 
 ### 2E: The Second Era
 
-The second era was a time of peace, after the Orcish residents and other hostile races were mostly cleared out, and before the beginning of the formation of states that would prevail during the third era.
+The second era was a time of peace, after the Orcish residents and other hostile races were mostly cleared out, and before the beginning of the formation of states that would prevail during the third era. What were formerly small villages began to grow and eventually become cities. Dwarves continued to build underground, and the other races continued forming new villages and cities on the various islands. This era also marked the beginning of interaction with beast-races, and when people began to learn about the local worship of Demon Lords and share their religion.
 
 ### 3E: The Third Era
 
-During the third era, the separate races formed their own states. The greatest state belonged to the kingdom of the Dwarves, which held the seat of Thronerock which is still the location of the council during the fifth era.
+During the third era, the separate races formed their own states. The greatest state belonged to the kingdom of the Dwarves, which held the seat of Thronerock which is still the location of the council during the fifth era. Elves, Humans, and Halflings had smaller city states, but many were strong enough to compare to the unified Dwarven kingdom.
+
+The Dwarves were proud of their strength as a country, and limited their interaction with the other races during this time. They would continue carving out huge castles underground in and around the Otris Mountains and the rest of Magathos. The other races, on the other hand, had more or less amicable relations with each other and traded with one another.
+
+The Elves saw an increase of power through non-military means, by enveloping Human and Halfling city states with the promise of greater protection from hostile races like the Orcs, and access to important islands for trade. The city states retained their autonomy in terms of laws, but would swear fealty towards these Elven kings and paid a small tax to them.
+
+Towards the end of the era, the various Elven kings controlled most of Maga, except for around the Magathos region. Seeing that the Dwarves were weakened, and the economic importance of Magathos, the Elves launched a full scale invasion. The Dwarves were completely unprepared for this. They fought valiantly, but in the end the Elves controlled Magathos and the surrounding area, and the Magathos region established its own kingdom ruled by an Elf monarch.
 
 ### 4E: The Elven Kingdoms
 
