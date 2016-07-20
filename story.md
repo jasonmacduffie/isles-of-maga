@@ -32,7 +32,7 @@ Although it has been touched upon, here is an organized account of the history o
 
 #### Before Colonization
 
-Before the arrival of Dwarves, Elves, Humans, and Halflings, there is strong evidence that Maga was under the rule of a powerful Orcish civilization. This is evidenced by the presence of the Orcish alphabet among the languages of Goblins and Gnomes, as well as the huge number of monsters that share the language of Orcs entirely. Furthermore, there are ancient ruins that have a distinct Orcish architecture. However, the Orcs did not keep a history of their civilization, so very little is known about it. The arrival of the human-like races did not disrupt their civilization; it had collapsed into the tribal society that is seen among Orcs up to the second era some time before that, for reasons that may never be known.
+Before the arrival of Dwarves, Elves, Humans, and Halflings, there is strong evidence that Maga was under the rule of a powerful Orcish civilization. This is evidenced by the presence of the Orcish alphabet among the languages of Goblins and Gnomes, as well as the huge number of monsters that share the language of Orcs entirely. Furthermore, there are ancient ruins that have a distinct Orcish architecture. However, the Orcs did not keep a history of their civilization, so very little is known about it. The arrival of the human-like races did not disrupt their civilization; it had collapsed into the tribal society prior to that. The reasons for this are unknown. Orcs are still organized in this manner today.
 
 During this time, the beast races (Lacertines, Felidines, Corvidines, and Vespertines) also populated the region. They likely were also ruled by the Orcish civilization.
 
