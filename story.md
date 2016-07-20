@@ -134,7 +134,7 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 
 **Special Abilities:** Lacertines are able to hold their breath for 30 minutes at a time comfortably. They can continue for another 5 minutes with discomfort, after which they will take damage like an ordinary Human. Because of their natural claws, unarmed melee attacks deal 1d4 damage, and may be lethal.
 
-**Saving Throws:** Lacertines save at +4 at Death Ray or Poison, and +3 at Paralysis or Petrify.
+**Saving Throws:** Lacertines save at +4 at Death Ray or Poison, +3 at Magic Wands, Paralysis or Petrify, and Spells, and +2 at Dragon Breath.
 
 ### Felidines
 
@@ -144,7 +144,7 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 
 **Special Abilities:** Felidines have Darkvision within a 60' range. Furthermore, their stealth allows them to have only a 10% chance of being detected when in the forest, or a 30% chance in other terrain. Their natural claws give unarmed melee attacks 1d4 damage, which may be lethal.
 
-**Saving Throws:** Felidines save at +3 at Dragon Breath.
+**Saving Throws:** Felidines save at +4 at Death Ray or Poison, at Magic Wands, Paralysis or Petrify, and Spells, and +3 at Dragon Breath.
 
 ### Corvidines
 
@@ -154,7 +154,7 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 
 **Special Abilities:** Corvidines have an uncanny knowledge of secrecy, and can find hidden doors on 1-2 on 1d6 rather than 1. They also have a 1 on 1d6 chance of discovering a secret door on a cursory look. Their natural talons give unarmed melee attacks 1d4 damage, which may be lethal.
 
-**Saving Throws:** Corvidines save at +3 against Magic Wands, Paralysis or Petrify, and Spells.
+**Saving Throws:** Corvidines save at +4 at Death Ray or Poison, at Magic Wands, Paralysis or Petrify, and Spells, and +3 at Dragon Breath.
 
 ### Vespertines
 
@@ -170,7 +170,7 @@ Vespertines speak their own language, Vespertinean, and most know Common. Vesper
 
 **Special Abilities:** Vespertines can use sonar to "see" in total darkness, which mechanically works like 60' of Darkvision. Also, Vespertines have the ability to create a shrill noise in a line for a 100' range, dealing 1d4 points of damage to any creatures on that line.
 
-**Saving Throws:** Vespertines save at +1 against Death Ray or Poison, Magic Wands, Paralysis or Petrify and Spells.
+**Saving Throws:** Vespertines save at +4 at Death Ray or Poison, at Magic Wands, Paralysis or Petrify, and Spells, and +3 at Dragon Breath.
 
 Classes
 -------
