@@ -2,7 +2,7 @@ The Isles of Maga
 =================
 ![Region Map](region-map.png)
 
-The history of Maga is scattered and mysterious, but here is what is common knowledge. The date of this information is 2E308 (the 308th year of the second era, which began with the founding of the Modern Republic).
+The history of Maga is scattered and mysterious, and you are free to make alterations in your campaign to suit yourself. Here is the basic information for how things work in the year 2E308 (the 308th year of the Modern Republic).
 
 Physical Geography
 ------------------
