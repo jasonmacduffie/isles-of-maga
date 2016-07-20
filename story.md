@@ -30,7 +30,7 @@ Although it has been touched upon, here is an organized account of the history o
 
 ### Before 1E (before colonization by the four human-like races)
 
-Before the arrival of Dwarves, Elves, Humans, and Halflings, there is strong evidence that Maga was under the rule of a powerful Orcish civilization. This is evidenced by the presence of the Orcish alphabet among the languages of Goblins, Gnomes, Kobolds, as well as the Trolls and Ogres sharing the language of Orcs. Furthermore, there are ancient ruins that have a distinct Orcish architecture. However, the Orcs did not keep a history of their civilization, so very little is known about it. The arrival of the human-like races did not disrupt their civilization; it had collapsed into the tribal society that is seen among Orcs up to the 5th era some time before that, for reasons that may never be known.
+Before the arrival of Dwarves, Elves, Humans, and Halflings, there is strong evidence that Maga was under the rule of a powerful Orcish civilization. This is evidenced by the presence of the Orcish alphabet among the languages of Goblins and Gnomes, as well as the huge number of monsters that share the language of Orcs entirely. Furthermore, there are ancient ruins that have a distinct Orcish architecture. However, the Orcs did not keep a history of their civilization, so very little is known about it. The arrival of the human-like races did not disrupt their civilization; it had collapsed into the tribal society that is seen among Orcs up to the 5th era some time before that, for reasons that may never be known.
 
 ### 1E: The First Era
 
@@ -79,6 +79,8 @@ These are some of the major Demon Lords (feel free to make new ones):
 Races/Species
 -------------
 Aside from the four human-like races (Dwarves, Elves, Halflings, and Humans), there are four beast races: Lacertines (lizard people), Felidines (cat people), Corvidines (crow people), and Vespertines (bat people). Because the four non-beast races already have details in the BFRPG rules, they are mainly described in terms of their political relationships. The beast races have full descriptions for player characters.
+
+Note that Lizard Men do not exist in this setting (being redundant with the existence of Lacertines); in cases where you would encounter Lizard Men, instead you encounter hostile Lacertines (or non-hostile, depending on the context).
 
 ### Dwarves
 
@@ -173,7 +175,7 @@ The languages are the same as per the BFRPG rules, there are some changes in the
 Dwarvish, Halfling, Elvish, and Common all use the Dwarvish alphabet.
 
 These are the additional racial languages:
-- Lacertinean, the language of Lacertines (Dwarvish alphabet)
+- Lacertinean, the language of Lacertines and Troglodytes (Dwarvish alphabet)
 - Felidinean, the language of Felidines (Dwarvish alphabet)
 - Corvidinean, the language of Corvidines (Dwarvish alphabet)
 - Vespertinean, the language of Vespertines (Dwarvish alphabet)
@@ -183,6 +185,6 @@ More exotic languages:
 - Dragonish, the language of Dragons (Demonic alphabet)
 - Goblinish, the language of Goblins (and Hobgoblins, etc.) (Orcish alphabet)
 - Giantish, the language of Giants (Demonic alphabet)
-- Gnomish, the language of Gnomes and Kobolds (Orcish alphabet)
-- Orcish, the language of Orcs, Ogres, and Trolls (Orcish alphabet)
+- Gnomish, the language of Gnomes (Orcish alphabet)
+- Orcish, the language of Orcs, Gnolls, Kobolds, Ogres, and Trolls (Orcish alphabet)
 - Sylvish, the language of Dryads, Spriggans, Treants, and other forest spirits (Demonic alphabet)
