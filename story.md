@@ -24,6 +24,30 @@ Political System
 ----------------
 The Modern Republic has a president as head of state. The representatives are chosen by the Electorate, who are the descendants of the revolutionaries who violently overthrew the Elven Kingdoms that preceded the Republic. The majority of the Electorate are Dwarves, with a significant minority of Humans and Halflings. Elves represent a very small minority of the Electorate; less than 1% are Elves, who are the descendants of those Elves that rebelled against their own kingdom. None of the beast races (Lacertines, Felidines, Corvidines, and Vespertines) have any members in the Electorate. As of 5E308, the president is Grulth Skullstone, an elderly Dwarf who personally participated in the establishing of the Republic in a minor role.
 
+History
+-------
+Although it has been touched upon, here is an organized account of the history of Maga.
+
+### Before 1E (before colonization by the four human-like races)
+
+Before the arrival of Dwarves, Elves, Humans, and Halflings, there is strong evidence that Maga was under the rule of a powerful Orcish civilization. This is evidenced by the presence of the Orcish alphabet among the languages of Goblins, Gnomes, Kobolds, as well as the Trolls and Ogres sharing the language of Orcs. Furthermore, there are ancient ruins that have a distinct Orcish architecture. However, the Orcs did not keep a history of their civilization, so very little is known about it. The arrival of the human-like races did not disrupt their civilization; it had collapsed into the tribal society that is seen among Orcs up to the 5th era some time before that, for reasons that may never be known.
+
+### 1E: The First Era
+
+### 2E: The Second Era
+
+### 3E: The Third Era
+
+During the third era, the separate races formed their own states.
+
+### 4E: The Elven Kingdoms
+
+The beginning of the fourth era saw the first unification of the races under one banner: the banner of the Elves. There was not a centralized government, but a number of allied kingdoms, each with an Elf as monarch.
+
+### 5E: The Modern Republic
+
+The revolution that ended the fourth era gave rise to the Modern Republic.
+
 Technology
 ----------
 The technology is around that of the European middle ages, although there is room for flexibility. For example, it is possible that gunpowder has been discovered recently leading to the invention of cannons and guns. There are also magical constructs, which are mindless machines that were animated by magic.
@@ -157,7 +181,8 @@ These are the additional racial languages:
 More exotic languages:
 - Demonic, the language of Demons (Demonic alphabet)
 - Dragonish, the language of Dragons (Demonic alphabet)
-- Goblinish, the language of Goblins (Orcish alphabet)
-- Giantish, the language of Giants (Orcish alphabet)
-- Orcish, the language of Orcs (Orcish alphabet)
+- Goblinish, the language of Goblins (and Hobgoblins, etc.) (Orcish alphabet)
+- Giantish, the language of Giants (Demonic alphabet)
+- Gnomish, the language of Gnomes and Kobolds (Orcish alphabet)
+- Orcish, the language of Orcs, Ogres, and Trolls (Orcish alphabet)
 - Sylvish, the language of Dryads, Spriggans, Treants, and other forest spirits (Demonic alphabet)
