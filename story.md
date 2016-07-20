@@ -4,10 +4,6 @@ The Isles of Maga
 
 The history of Maga is scattered and mysterious, but here is what is common knowledge. The date of this information is 5E308 (the 308th year of the fifth era, which began with the founding of the Modern Republic).
 
-<a name="toc">Table of Contents</a>
------------------------------------
-[Table of Contents](#toc)
-
 Physical Geography
 ------------------
 Maga is an island chain spanning a tremendous area of nearly one million square kilometers (approximately the size of Kazakhstan) and contains thousands of islands if not more. The islands all have a tropical climate, although the flora and fauna varies somewhat between subregions. The various subregions vary in the length and severity of their wet and dry seasons. The largest island of Magathos has a mountain range called the Otris Mountains, the peaks of which are tall enough to be snow-capped. As a result of the difference of elevation, this island has alpine grasslands, forests, and tundra.
