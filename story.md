@@ -2,7 +2,7 @@ The Isles of Maga
 =================
 ![Region Map](region-map.png)
 
-The history of Maga is scattered and mysterious, but here is what is common knowledge. The date of this information is 5E308 (the 308th year of the fifth era, which began with the founding of the Modern Republic).
+The history of Maga is scattered and mysterious, but here is what is common knowledge. The date of this information is 2E308 (the 308th year of the second era, which began with the founding of the Modern Republic).
 
 Physical Geography
 ------------------
@@ -22,33 +22,35 @@ Although the inside of the Otris Mountains are very developed by Dwarves, the ou
 
 Political System
 ----------------
-The Modern Republic has a president as head of state. The representatives are chosen by the Electorate, who are the descendants of the revolutionaries who violently overthrew the Elven Kingdoms that preceded the Republic. The majority of the Electorate are Dwarves, with a significant minority of Humans and Halflings. Elves represent a very small minority of the Electorate; less than 1% are Elves, who are the descendants of those Elves that rebelled against their own kingdom. None of the beast races (Lacertines, Felidines, Corvidines, and Vespertines) have any members in the Electorate. As of 5E308, the president is Grulth Skullstone, an elderly Dwarf who personally participated in the establishing of the Republic in a minor role.
+The Modern Republic has a president as head of state. The representatives are chosen by the Electorate, who are the descendants of the revolutionaries who violently overthrew the Elven Kingdoms that preceded the Republic. The majority of the Electorate are Dwarves, with a significant minority of Humans and Halflings. Elves represent a very small minority of the Electorate; less than 1% are Elves, who are the descendants of those Elves that rebelled against their own kingdom. None of the beast races (Lacertines, Felidines, Corvidines, and Vespertines) have any members in the Electorate. As of 2E308, the president is Grulth Skullstone, an elderly Dwarf who personally participated in the establishing of the Republic in a minor role.
 
 History
 -------
 Although it has been touched upon, here is an organized account of the history of Maga.
 
-### Before 1E (before colonization by the four human-like races)
+### Before 1E
 
-Before the arrival of Dwarves, Elves, Humans, and Halflings, there is strong evidence that Maga was under the rule of a powerful Orcish civilization. This is evidenced by the presence of the Orcish alphabet among the languages of Goblins and Gnomes, as well as the huge number of monsters that share the language of Orcs entirely. Furthermore, there are ancient ruins that have a distinct Orcish architecture. However, the Orcs did not keep a history of their civilization, so very little is known about it. The arrival of the human-like races did not disrupt their civilization; it had collapsed into the tribal society that is seen among Orcs up to the 5th era some time before that, for reasons that may never be known.
+#### Before Colonization
+
+Before the arrival of Dwarves, Elves, Humans, and Halflings, there is strong evidence that Maga was under the rule of a powerful Orcish civilization. This is evidenced by the presence of the Orcish alphabet among the languages of Goblins and Gnomes, as well as the huge number of monsters that share the language of Orcs entirely. Furthermore, there are ancient ruins that have a distinct Orcish architecture. However, the Orcs did not keep a history of their civilization, so very little is known about it. The arrival of the human-like races did not disrupt their civilization; it had collapsed into the tribal society that is seen among Orcs up to the second era some time before that, for reasons that may never be known.
 
 During this time, the beast races (Lacertines, Felidines, Corvidines, and Vespertines) also populated the region. They likely were also ruled by the Orcish civilization.
 
-### 1E: The Era of Exploration
+#### The Age of Exploration
 
-The first era saw the first Humans, Dwarves, Elves, and Halflings reach the shores of Maga. In the beginning their numbers were few, but as they explored more and more of Maga they became more prevalant. Eventually the majority of Maga became populated with these human-like races. There were not many conflicts within these races, instead the focus being on clearing out the area of the hostile locals, including the beast races.
+The first Humans, Dwarves, Elves, and Halflings reach the shores of Maga. In the beginning their numbers were few, but as they explored more and more of Maga they became more prevalant. Eventually the majority of Maga became populated with these human-like races. There were not many conflicts within the human-like races, instead the focus being on clearing out the area of the hostile locals, including the beast races.
 
-In particular, the Orcs were resistant to what they perceived as invaders. Up to the fifth era, the various Orcish tribes continue to put up a fight, although their numbers have diminished significantly. It is this continued hostility that has prevented from them being integrated with any of the upcoming civilizations, unlike the beast-races.
+In particular, the Orcs were resistant to what they perceived as invaders. Up to the second era, the various Orcish tribes continue to put up a fight, although their numbers have diminished significantly. It is this continued hostility that has prevented from them being integrated with any of the upcoming civilizations, unlike the beast-races.
 
-### 2E: The Era of Industry
+#### The Age of Industry
 
-The second era was a time of peace, after the Orcish residents and other hostile races were mostly cleared out, and before the beginning of the formation of states that would prevail during the third era. What were formerly small villages began to grow and eventually become cities. Dwarves continued to build underground, and the other races continued forming new villages and cities on the various islands. This era also marked the beginning of interaction with beast-races, and when people began to learn about the local worship of Demon Lords and share their religion.
+Following was a time of peace, after the Orcish residents and other hostile races were mostly cleared out, and before the beginning of the formation of states that would develop soon. What were formerly small villages began to grow and eventually become cities. Dwarves continued to build underground, and the other races continued forming new villages and cities on the various islands. This time also marked the beginning of interaction with beast-races, and when people began to learn about the local worship of Demon Lords and share their religion.
 
 Trade flourished during this time, and industries were becoming better established to fight off hostile races, sail the rougher parts of the waters, clearing out of the jungle terrain, and the development under the Otris Mountains by the Dwarves.
 
-### 3E: The Era of Statecraft
+#### The Age of Statecraft
 
-During the third era, the separate races formed their own states. The greatest state belonged to the kingdom of the Dwarves, which held the seat of Thronerock which is still the location of the council during the fifth era. Elves, Humans, and Halflings had smaller city states, but many were strong enough to compare to the unified Dwarven kingdom.
+As industry continued, separate races formed their own states. The greatest state belonged to the kingdom of the Dwarves, which held the seat of Thronerock which is still the location of the capital of the Modern Republic during the second era. Elves, Humans, and Halflings had smaller city states, but many were strong enough to compare to the unified Dwarven kingdom during the early days.
 
 The Elves had worshipped Gora for many ages before, but for the first time worship of Gora was organized into churches as an organized religion. They viewed the demon worship of the natives as well as the other human-like races as disgusting and evil given the misanthropic tendencies of some Demon Lords. However, they were not in a position to do anything about it, and traded with these races anyway.
 
@@ -56,21 +58,19 @@ The Dwarves were proud of their strength as a country, and limited their interac
 
 The Elves saw an increase of power through non-military means, by enveloping Human and Halfling city states with the promise of greater protection from hostile races like the Orcs, and access to important islands for trade. The city states retained their autonomy in terms of laws, but would swear fealty towards these Elven kings and paid a small tax to them.
 
-Towards the end of the era, the various Elven kings controlled most of Maga, except for around the Magathos region. Seeing that the Dwarves were weakened, and the economic importance of Magathos, the Elves launched a full scale invasion. The Dwarves were completely unprepared for this. They fought valiantly, but in the end the Elves controlled Magathos and the surrounding area, and the Magathos region established its own kingdom ruled by an Elf monarch.
+Before the first era began, the various Elven kings controlled most of Maga, except for around the Magathos region. Seeing that the Dwarves were weakened, and the economic importance of Magathos, the Elves launched a full scale invasion. The Dwarves were completely unprepared for this. They fought valiantly, but in the end the Elves controlled Magathos and the surrounding area, and the Magathos region established its own kingdom ruled by an Elf monarch.
 
-### 4E: The Elven Kingdoms
+### 1E: The Elven Kingdoms
 
-The beginning of the fourth era saw the first unification of the races under one banner: the banner of the Elves. There was not a centralized government, but a number of allied kingdoms, each with an Elf as monarch. One after another, each region was conquered by the Elves, and the greatest Elf kingdom was on Magathos, seated at Thronerock.
+The beginning of the first era saw the first unification of the races under one banner: the banner of the Elves. This unification marks the first era. There was not a centralized government, but a number of allied kingdoms, each with an Elf as monarch. Elvish was the Common language, although this was not strictly enforced and many regions had the majority race's language as a co-official language. Each race was still free to use its own alphabet for their language.
 
-Elvish was the Common language, although this was not strictly enforced and many regions had the majority race's language as a co-official language. Each race was still free to use its own alphabet for their language.
-
-This era also saw the greatest attempt to completely stamp out demon worship. By the end of the fourth era, worship of Demon Lords among Humans, Dwarves, Elves, and Halflings was nearly completely obliterated, and all worshipped the more abstract deity Gora. Less effort was put into stamping out worship among the beast-races due to the fact that they were not integrated as citizens, although some minor missions were carried out.
+This era also saw the greatest attempt to completely stamp out demon worship. By the end of the first era, worship of Demon Lords among Humans, Dwarves, Elves, and Halflings was nearly completely obliterated, and all worshipped the more abstract deity Gora. Less effort was put into stamping out worship among the beast-races due to the fact that they were not integrated as citizens, although some minor missions were carried out.
 
 Although in the beginning the Elven kings and queens were careful to be even-handed, the descendants who would inherit their thrones became increasingly unconcerned with the needs of their subjects. Many of the monarchs during the end of the period were incredibly harsh, even to Humans who held the highest positions in society besides Elves. Halfling farmers and Dwarf miners were taxed more and more onerously.
 
-### 5E: The Modern Republic
+### 2E: The Modern Republic
 
-The revolution that ended the fourth era gave rise to the Modern Republic. A contemporary, standardized form of Dwarvish became the Common language instead of Elvish; the human-like and beast races were also required to use the Dwarvish alphabet when writing in their own languages, even though not all sounds could be properly pronounced with it. This has been the source of some minor friction with the Republic.
+The revolution that ended the first era gave rise to the Modern Republic. A contemporary, standardized form of Dwarvish became the Common language instead of Elvish; the human-like and beast races were also required to use the Dwarvish alphabet when writing in their own languages, even though not all sounds could be properly pronounced with it. This has been the source of some minor friction with the Republic.
 
 The Republic continued the goal of the Elves to stamp out demon worship. However, their task was not as great due to the work already accomplished. The main area of focus was the beast-races and their patron/matron Demon Lords, now that they were considered full citizens of the Republic.
 
@@ -114,7 +114,7 @@ Politically, Dwarves are the most powerful race in Maga, having initiated the re
 
 ### Elves
 
-While the Dwarves are celebrated in Maga, the Elves are shunned. Once ruling several glorious kingdoms during the Fourth Era, known as the Elven Kingdoms, since the revolution they have been completely disgraced. The Elven Kingdoms were famous for their cruelty towards non-Elves, and their numerous violent purges of Demon Lord worship. Although few Elves today were even alive during that time, the actions of the past still haunt them. Only the few descendants of those Elves who rebelled are in the Electorate, making less than 1%. Most Elves simply want to move on with life, but others long for the day of their return to rule.
+While the Dwarves are celebrated in Maga, the Elves are shunned. Once ruling several glorious kingdoms during the First Era, known as the Elven Kingdoms, since the revolution they have been completely disgraced. The Elven Kingdoms were famous for their cruelty towards non-Elves, and their numerous violent purges of Demon Lord worship. Although few Elves today were even alive during that time, the actions of the past still haunt them. Only the few descendants of those Elves who rebelled are in the Electorate, making less than 1%. Most Elves simply want to move on with life, but others long for the day of their return to rule.
 
 Elves have a much shorter lifespan in Maga than in the BFRPG rules: 300 to 400 years is typical.
 
