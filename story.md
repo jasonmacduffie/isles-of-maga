@@ -134,7 +134,7 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 
 **Special Abilities:** Lacertines are able to hold their breath for 30 minutes at a time comfortably. They can continue for another 5 minutes with discomfort, after which they will take damage like an ordinary Human. Because of their natural claws, unarmed melee attacks deal 1d4 damage, and may be lethal.
 
-**Saving Throws:** Lacertines save at +4 at Death Ray or Poison, +3 at Magic Wands, Paralysis or Petrify, and Spells, and +2 at Dragon Breath.
+**Saving Throws:** Lacertines save at +5 at Death Ray or Poison, +4 at Magic Wands, Paralysis or Petrify, and Spells, and +3 at Dragon Breath.
 
 ### Felidines
 
