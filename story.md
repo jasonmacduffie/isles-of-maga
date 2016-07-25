@@ -206,11 +206,18 @@ These are the additional racial languages:
 - Corvidinean, the language of Corvidines (Dwarvish alphabet)
 - Vespertinean, the language of Vespertines (Dwarvish alphabet)
 
+Orc-aligned racial languages:
+- Orcish, the language of Orcs, but which is commonly used by other Orc-aligned races (Orcish alphabet)
+- Gnollish, the language of Gnolls (Orcish alphabet)
+- Gnomish, the language of Gnomes (Orcish alphabet)
+- Goblinish, the language of Goblins (Orcish alphabet)
+- Koboldish, the language of Kobolds (Orcish alphabet)
+- Ogrish, the language of Ogres (Orcish alphabet)
+- Trollish, the language of Trolls (Orcish alphabet)
+
 More exotic languages:
 - Demonic, the language of Demons (Demonic alphabet)
 - Dragonish, the language of Dragons (Demonic alphabet)
-- Goblinish, the language of Goblins (and Hobgoblins, etc.) (Orcish alphabet)
 - Giantish, the language of Giants (Demonic alphabet)
-- Gnomish, the language of Gnomes (Orcish alphabet)
-- Orcish, the language of Orcs, Gnolls, Kobolds, Ogres, and Trolls (Orcish alphabet)
-- Sylvish, the language of Dryads, Spriggans, Treants, and other forest spirits (Demonic alphabet)
+- Sylvish, the language of Dryads and Treants (Demonic alphabet)
+
