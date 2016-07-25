@@ -176,6 +176,23 @@ Vespertines speak their own language, Vespertinean, and most know Common. Vesper
 
 **Saving Throws:** Vespertines save at +4 at Death Ray or Poison, at Magic Wands, Paralysis or Petrify, and Spells, and +3 at Dragon Breath.
 
+#### Typical names
+
+Vespertinean is composed of chirp-like vocalizations. Their alphabet is difficult to reproduce in our language, but approximately their language has these sounds:
+
+A,B,BL,CH,D,I,K,PR,SP,T,TW
+
+Vowels are often times elongated, noted by three repeating vowels. Other races can ignore the elongation and still be understood.
+
+Examples of names could be:
+
+- Adikprit
+- Twiblitriii
+- Blidkit
+- Priblid
+- Chitwiiik
+- Kiblaaachi
+
 ### Orc-aligned Races
 
 These races are hostile to both the beast-races and the human-like races in Maga. The Orcs are not organized like the Republic, but rather have a decentralized system of tribes. In the past these tribes tended to war with each other, but as of late they have been united in spirit and aggression is directed toward the Republic that claims ownership of their lands. However, there is still not a central administration. The other races that are aligned with Orcs also precede the colonization of Maga, and share similar stake in the conflict.
