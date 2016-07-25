@@ -167,6 +167,25 @@ There is only a single generic vowel in Lacertinean, sometimes denoted by "E" wh
 
 **Saving Throws:** Felidines save at +4 at Death Ray or Poison, at Magic Wands, Paralysis or Petrify, and Spells, and +3 at Dragon Breath.
 
+#### Typical names
+
+Felidines use a wide variety of vocalizations that cannot be accessed by other races. This means there is a severe transformation in traditional names to something pronounceable by other races. The vocalizations are:
+
+- Purr (denoted by r)
+- Meow (denoted by m, followed by a vowel)
+- Hiss (denoted by s)
+- Huff (denoted by h)
+- Chirp (denoted by ch, followed by a vowel)
+
+Here are examples of names:
+
+- Rumiaschi
+- Chasisi
+- Harascha
+- Sachara
+- Miascha
+- Mirmia
+
 ### Corvidines
 
 **Description:** Corvidines are humanoids descended from crows, but have lost the ability to fly due to their size. They have a reputation for being wise and crafty, but also grim and mysterious. Their association with death is compounded by their relationship to their patron deity, Pastorum. They are relatively frail due to their weaker bones from their bird ancestry.
