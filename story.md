@@ -112,6 +112,8 @@ Aside from the four human-like races (Dwarves, Elves, Halflings, and Humans), th
 
 It is up to the GM whether to include Lizard Men in the setting or to substitute them for Lacertines. To leave this ambiguous, no references to Lizard Men outside of Lacertines are made in these documents.
 
+The beast races are all given some traditional names to choose from. However, many choose or are given Common or Dwarven names, depending on where they are from. Some also choose descriptive titles as a substitute for their names, such as Swift-runner (for a particularly fast individual).
+
 ### Dwarves
 
 Politically, Dwarves are the most powerful race in Maga, having initiated the revolution that overthrew the Elven Kingdoms and established the Modern Republic, and now occupy more than 50% of the Electorate. Their rule is heavy-handed, but not outrageously so to most citizens of Maga who know of the horror stories from the Elven Kingdoms. Due to their political status, Dwarves have somewhat of a privileged position in society, which some other races are wary of.
@@ -139,6 +141,21 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 **Special Abilities:** Lacertines are able to hold their breath for 30 minutes at a time comfortably. They can continue for another 5 minutes with discomfort, after which they will take damage like an ordinary Human. Because of their natural claws, unarmed melee attacks deal 1d4 damage, and may be lethal.
 
 **Saving Throws:** Lacertines save at +5 at Death Ray or Poison, +4 at Magic Wands, Paralysis or Petrify, and Spells, and +3 at Dragon Breath.
+
+#### Typical names
+
+Lacertinean is composed of fewer sounds than Commons. Here is approximately their alphabet:
+
+D,L,N,S,T,TH,Z
+
+There is only a single generic vowel in Lacertinean, sometimes denoted by "E" when necessary but also left out sometimes. Here are examples of Lacertine names with the vowel:
+
+- Lenedeth
+- Zesteth
+- Thedent
+- Tenthez
+- Sezeth
+- Nesteth
 
 ### Felidines
 
