@@ -4,9 +4,11 @@ The Isles of Maga
 
 The history of Maga is scattered and mysterious, and you are free to make alterations in your campaign to suit yourself. Here is the basic information for how things work in the year 2E308 (the 308th year of the Modern Republic).
 
+Although the greatest information is given about the Magathos region, it is expected that you will create adventures in remote locations with more or less contact with the capital district. The idea behind this is to give players and GMs a frame of reference without binding them to the history of any one particular region. There should be no complete listing of all the regions in Maga; all lists are incomplete. While the entirety of Maga is claimed by the Republic, certain regions are technically outside of its rule. This gives plenty of room for a variety of complex political situations, and the scale of area and elevation gives some flexibility in climate.
+
 Physical Geography
 ------------------
-Maga is an island chain spanning a tremendous area of nearly ten million square kilometers (approximately the size of Europe) and contains thousands of islands if not more.
+Maga is an island chain spanning a tremendous area of nearly 10,000,000 square kilometers (approximately the size of Europe) and contains thousands of islands if not more.
 
 The islands all have a tropical climate, although the flora and fauna varies somewhat between subregions. The various subregions vary in the length and severity of their wet and dry seasons. The largest island of Magathos has a mountain range called the Otris Mountains, the peaks of which are tall enough to be snow-capped. As a result of the difference of elevation, this island has alpine grasslands, forests, and tundra. There are other islands in Maga that have mountains tall enough to be snow-capped, but none as tremendous as the Otris range.
 
@@ -210,13 +212,13 @@ Trolls do not have a warring culture like the Orcs, nor do they have a territori
 
 Classes
 -------
-Any race/class combination is possible for NPCs, including multi-classing. It is up to the DM whether to limit the players in this way. In particular, Fighter/Magic-Users are common in Maga among Dwarves and Humans, and Magic-Users are common among Halflings.
+Any race/class combination is possible for NPCs, including multi-classing. It is up to the GM whether to limit the players in this way. In particular, Fighter/Magic-Users are common in Maga among Dwarves and Humans, and Magic-Users are common among Halflings.
 
 Magic
 -----
 Magic comes from a person's internal "life energy," so, in principle, anybody can cast magic. However, it is a difficult talent to acquire, and the arts are very secretive. Therefore, most people will not have even seen a magic user in their life. A great deal of effort is taken by magic users to keep magic out of the hands of the public and kept the domain of specially trained magicians who can handle its power.
 
-Magic-Users and Clerics do not use the default system of magic in BFRPG. Instead, they use a magic point system as in the Sorcerer class, which is available as a supplement on the BFRPG website. However, they learn spells in the same way as a Magic-User or Cleric (respectively). Also, the DM may opt for the default system in BFRPG to simplify mechanics, while acknowledging that is a simplification and not a representation of how magic actually works.
+Magic-Users and Clerics do not use the default system of magic in BFRPG. Instead, they use a magic point system as in the Sorcerer class, which is available as a supplement on the BFRPG website. However, they learn spells in the same way as a Magic-User or Cleric (respectively). Also, the GM may opt for the default system in BFRPG to simplify mechanics, while acknowledging that is a simplification and not a representation of how magic actually works.
 
 Raise Dead and Reincarnate still work as per the BFRPG rules, however doing so may raise the anger of Pastorum, who expected a new ghost to serve him. Therefore, bringing people back to life is uncommon and taboo in Maga, but still possible if they died recently and not of old age.
 
