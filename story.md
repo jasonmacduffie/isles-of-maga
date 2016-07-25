@@ -10,7 +10,7 @@ Physical Geography
 ------------------
 Maga is an island chain spanning a tremendous area of nearly 10,000,000 square kilometers (approximately the size of Europe) and contains thousands of islands if not more.
 
-The islands all have a tropical climate, although the flora and fauna varies somewhat between subregions. The various subregions vary in the length and severity of their wet and dry seasons. The largest island of Magathos has a mountain range called the Otris Mountains, the peaks of which are tall enough to be snow-capped. As a result of the difference of elevation, this island has alpine grasslands, forests, and tundra. There are other islands in Maga that have mountains tall enough to be snow-capped, but none as tremendous as the Otris range.
+The islands all have a tropical climate, although the flora and fauna varies somewhat between subregions. The various subregions vary in the length and severity of their wet and dry seasons. The largest island of Magathos is a single large mountain, which is tall enough to be snow-capped. As a result of the difference of elevation, this island has alpine grasslands, forests, and tundra. There are other islands in Maga that are tall enough to be snow-capped, but none as tremendous as Magathos.
 
 The Isles of Maga are in the Sunbound Ocean, far away from any mainland continent, although some exist. Historically there has been trade with the closest mainland in the west, called Honstrad, but in recent history travel has been cut off.
 
@@ -18,9 +18,9 @@ Political Geography
 -------------------
 Maga is governed by the Modern Republic. Clusterings of islands form a district; the district that gets the most attention in this document is the Capital District, which contains the capital and nearby islands.
 
-The capital of the country is Thronerock, located in the Otris Mountains in Magathos. Other large cities in Magathos are Honuda, Grostine, Ledalia, and Sorrowport, with smaller towns and villages dotting the island. Nearby major islands are Veldoth, Ruzark, Eyedea, Northsky, Olivon, Hosland, Brightwater, and Shaleport. Each island has at least one large port city, which is the center of most trade. The larger islands generally also have significant insland trade.
+The capital of the country is Thronerock, located in the mountain of Magathos. Other large cities on the surface of Magathos are Honuda, Grostine, Ledalia, and Sorrowport, with smaller towns and villages dotting the island. Nearby major islands are Veldoth, Ruzark, Eyedea, Northsky, Olivon, Hosland, Brightwater, and Shaleport. Each island has at least one large port city, which is the center of most trade. The larger islands generally also have significant insland trade.
 
-Magathos has an area of 500,000 square kilometers (approximately the size of Spain), and is the largest island in Maga. The other islands in Maga vary greatly in size, ranging from 100 to 300,000 square kilometers.
+Magathos has an area of 10,000 square kilometers (approximately the size of Big Island, Hawaii), and is the largest island in Maga. The other islands in Maga vary greatly in size, ranging from 100 to 8,000 square kilometers.
 
 Although the inside of the Otris Mountains are very developed by Dwarves, the outside of the mountains have not largely been touched by civilization. A great number of unique wildlife make their homes there, as well as some unintegrated beast races.
 
