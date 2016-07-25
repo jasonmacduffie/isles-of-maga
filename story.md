@@ -22,7 +22,7 @@ The capital of the country is Thronerock, located in the mountain of Magathos. O
 
 Magathos has an area of 10,000 square kilometers (approximately the size of Big Island, Hawaii), and is the largest island in Maga. The other islands in Maga vary greatly in size, ranging from 100 to 8,000 square kilometers.
 
-Although the inside of the Otris Mountains are very developed by Dwarves, the outside of the mountains have not largely been touched by civilization. A great number of unique wildlife make their homes there, as well as some unintegrated beast races.
+Although the inside of Magathos is very developed by Dwarves, the higher elevations have largely been touched by civilization. The coastal cities are connected by water travel and tunnels through the mountain. A great number of unique wildlife make their homes on the higher elevations, as well as some unintegrated beast races.
 
 Political System
 ----------------
@@ -50,7 +50,7 @@ In particular, the Orcs were resistant to what they perceived as invaders. Up to
 
 Following was a time of peace, after the Orcish residents and other hostile races were mostly cleared out, and before the beginning of the formation of states that would develop soon. What were formerly small villages began to grow and eventually become cities. Dwarves continued to build underground, and the other races continued forming new villages and cities on the various islands. This time also marked the beginning of interaction with beast-races, and when people began to learn about the local worship of Demon Lords and share their religion.
 
-Trade flourished during this time, and industries were becoming better established to fight off hostile races, sail the rougher parts of the waters, clearing out of the jungle terrain, and the development under the Otris Mountains by the Dwarves.
+Trade flourished during this time, and industries were becoming better established to fight off hostile races, sail the rougher parts of the waters, clearing out of the jungle terrain, and the development under Magathos by the Dwarves.
 
 #### The Age of Statecraft
 
@@ -58,7 +58,7 @@ As industry continued, separate races formed their own states. The greatest stat
 
 The Elves had worshipped Gora for many ages before, but for the first time worship of Gora was organized into churches as an organized religion. They viewed the demon worship of the natives as well as the other human-like races as disgusting and evil given the misanthropic tendencies of some Demon Lords. However, they were not in a position to do anything about it, and traded with these races anyway.
 
-The Dwarves were proud of their strength as a country, and limited their interaction with the other races during this time. They would continue carving out huge castles underground in and around the Otris Mountains and the rest of Magathos. The other races, on the other hand, had more or less amicable relations with each other and traded with one another.
+The Dwarves were proud of their strength as a country, and limited their interaction with the other races during this time. They would continue carving out huge castles under Magathos. The other races, on the other hand, had more or less amicable relations with each other and traded with one another.
 
 The Elves saw an increase of power through non-military means, by enveloping Human and Halfling city states with the promise of greater protection from hostile races like the Orcs, and access to important islands for trade. The city states retained their autonomy in terms of laws, but would swear fealty towards these Elven kings and paid a small tax to them.
 
