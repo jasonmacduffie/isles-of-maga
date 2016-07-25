@@ -1,0 +1,12 @@
+Bestiary
+========
+There is no limit to the kinds of monsters you may find in Maga, and certainly all the ones from the BFRPG materials are meant to be compatible. Here is a non-exhaustive list of species particular to the region.
+
+Dolphin Turtle
+--------------
+Dolphin Turtles have the head and tail of a dolphin, with the shell and fins of a sea turtle. They are large enough to be used as aquatic mounts. Dolphin Turtles can also travel on land, but only for short distances and not as a mount.
+
+Hoverpede
+---------
+Hoverpedes are giant centipedes that float above the ground using natural magic. They are large enough to be mounted. Note that Hoverpedes to not fly, so falling into a giant abyss is completely possible while mounting a Hoverpede. Hoverpedes cannot travel over water, only solid surfaces.
+
