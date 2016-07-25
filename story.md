@@ -178,17 +178,33 @@ These races are hostile to both the beast-races and the human-like races in Maga
 
 #### Orcs
 
+Unlike many other settings, Orcs are not inherently bent on domination as a species. As a culture, however, a great deal of their social customs have developed from a spirit of war and conquest. Historically, the various Orc tribes would fight against each other. Today, they use their warrior spirit to battle against the Republic that claims their lands.
+
+It would also be incorrect to paint Orcs are merely misunderstood. They are perhaps the most aggressive of the intelligent races, and most likely to reject surrender, retreat, or diplomacy. Their history is painted with war, and they are known to have subjugated all of the other Orc-aligned races in a powerful civilization before the colonization began.
+
 #### Gnolls
+
+Gnolls are fairly intelligent, and may be users of sword, bow, or magic depending on its individual talent. They tend to live in loosely knit tribes, similarly to Ogres but with much more organization and intelligence. Gnolls are not as integrated with Orcish society as Goblins, but some are fairly close. They tend to form separate tribes but will occasionally join Orcs in battle against the Republic.
 
 #### Gnomes
 
+Gnomes are the least likely to harm a stranger. They are unhappy with the current political situation, but see resistance against the Republic as futile. Gnomes are more likely to have diplomatic and economic relations with Orcish society than the Republic, but have a tendency to trade with both when it is advantageous. The highest level of conflict is between Gnomes and Dwarves, but some degree of territorial understanding has been met and there has not been much fighting as of late. Some Gnome societies have a higher degree of loyalty to the Orcs, but view themselves as an independent entity not bound by Orcish rule.
+
 #### Goblins
+
+Goblins are about as intelligent as Orcs, and have a very close history with them. They are the most likely of Orc-aligned races to join them in arms, and the most integrated in Orcish society. However, they still represent a lower social caste than Orcs. Advanced Goblins, such as Hobgoblins, are of particular intelligence and skill, and make for warriors that are a match for Orcs. Although Goblins have their own culture and tradition separate from Orcs, the influence of Orcish society has been overwhelming and to some degree Goblin society has influenced Orcish culture.
 
 #### Kobolds
 
+Kobolds are not inherently aggressive, but will attack any races they do not trust out of concern for their own safety. They are far more intelligent and cunning than most other Orc-aligned races, being on a similar level to Gnomes. They have a highly cohesive tribal structure which is outside of Orcish society, but also sometimes overlaps in areas where Kobolds have integrated. Kobolds are excellent ranged fighters and trappers.
+
 #### Ogres
 
+Ogres form small clans, but are far less social and civilized than the Orcs. They tend to live in the woods, caves, or vacant ruins rather than to construct their own buildings. They are aggressive in a territorial way, but do not actively engage in battle with the Republic unless sided with an Orc tribe. They are not intelligent enough to understand the complex politics involved, and just tend to side with Orcs because of their historical connection under the Orcish empire.
+
 #### Trolls
+
+Trolls do not have a warring culture like the Orcs, nor do they have a territorial nature like the Ogres. Instead, they tend to hunt the human-like races for the fun of the hunt. They are more animalistic than the other Orc-aligned races, but still have the ability to communicate in their own language and Orcish. Again, like the other races, their tendency to occasionally side with Orcs comes with the historical connection under the Orcish empire, and thus some are integrated well with Orcish society as warriors.
 
 Classes
 -------
