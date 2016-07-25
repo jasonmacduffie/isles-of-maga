@@ -4,9 +4,9 @@ There is no limit to the kinds of monsters you may find in Maga, and certainly a
 
 Dolphin Turtle
 --------------
-Dolphin Turtles have the head and tail of a dolphin, with the shell and fins of a sea turtle. They are large enough to be used as aquatic mounts. Dolphin Turtles can also travel on land, but only for short distances and not as a mount.
+Dolphin Turtles have the head and tail of a dolphin, with the shell and fins of a sea turtle. They are large enough to be used as aquatic mounts for a party in addition to carrying a load. Dolphin Turtles can also travel on land, but only for short distances and not as a mount.
 
 Hoverpede
 ---------
-Hoverpedes are giant centipedes that float above the ground using natural magic. They are large enough to be mounted. Note that Hoverpedes to not fly, so falling into a giant abyss is completely possible while mounting a Hoverpede. Hoverpedes cannot travel over water, only solid surfaces.
+Hoverpedes are giant centipedes that float above the ground using natural magic. They are large enough to be mounted by one person in addition to a load, and multiple could carry a wagon. Note that Hoverpedes to not fly, so falling into a giant abyss is completely possible while mounting a Hoverpede. Hoverpedes cannot travel over water, only solid surfaces.
 
