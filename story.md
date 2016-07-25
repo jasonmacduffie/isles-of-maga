@@ -110,7 +110,7 @@ Races/Species
 -------------
 Aside from the four human-like races (Dwarves, Elves, Halflings, and Humans), there are four beast races: Lacertines (lizard people), Felidines (cat people), Corvidines (crow people), and Vespertines (bat people). Because the four non-beast races already have details in the BFRPG rules, they are mainly described in terms of their political relationships. The beast races have full descriptions for player characters.
 
-Note that Lizard Men do not exist in this setting (being redundant with the existence of Lacertines); in cases where you would encounter Lizard Men, instead you encounter hostile Lacertines (or non-hostile, depending on the context).
+It is up to the GM whether to include Lizard Men in the setting or to substitute them for Lacertines. To leave this ambiguous, no references to Lizard Men outside of Lacertines are made in these documents.
 
 ### Dwarves
 
