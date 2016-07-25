@@ -172,6 +172,24 @@ Vespertines speak their own language, Vespertinean, and most know Common. Vesper
 
 **Saving Throws:** Vespertines save at +4 at Death Ray or Poison, at Magic Wands, Paralysis or Petrify, and Spells, and +3 at Dragon Breath.
 
+### Orc-aligned Races
+
+These races are hostile to both the beast-races and the human-like races in Maga, with the exception of Gnomes who are neutral but are still wary of them and get along better with Orcs. The Orcs are not organized like the Republic, but rather have a decentralized system of tribes. In the past these tribes tended to war with each other, but as of late they have been united in spirit and aggression is directed toward the Republic that claims ownership of their lands. However, there is still not a central administration. The other races that are aligned with Orcs also precede the colonization of Maga, and share similar stake in the conflict.
+
+#### Orcs
+
+#### Gnolls
+
+#### Gnomes
+
+#### Goblins
+
+#### Kobolds
+
+#### Ogres
+
+#### Trolls
+
 Classes
 -------
 Any race/class combination is possible for NPCs, including multi-classing. It is up to the DM whether to limit the players in this way. In particular, Fighter/Magic-Users are common in Maga among Dwarves and Humans, and Magic-Users are common among Halflings.
