@@ -196,6 +196,17 @@ Here are examples of names:
 
 **Saving Throws:** Corvidines save at +4 at Death Ray or Poison, at Magic Wands, Paralysis or Petrify, and Spells, and +3 at Dragon Breath.
 
+#### Typical names
+
+Corvidines are the most difficult names to translate, because their language is largely communicated through bird songs with few consonants. However, over the ages they have developed names that continue a cultural distinction while being available to other races to pronounce. Here are some typical names:
+
+- Korooko
+- Frookoo
+- Kawrook
+- Badoot
+- Zooka
+- Daboota
+
 ### Vespertines
 
 ![vespertine.png](vespertine.png)
