@@ -16,7 +16,7 @@ Evil beings infest our world. Their names are Ignorance, Superstition, and Bigot
 
 - **"Evil" Gods are Close; the "Good" God is Distant:** The existence of Demon Lords is undeniable, and they do hold power in this world. However, worship of Gora is the only recognized legitimate religion in Maga, but there is scarce evidence for the existence of Gora.
 
-- **Magic is Regulated:** Anybody can use magic if they learn the correct incantation. However, there are only a few practitioners of magic in Maga. The Mages Guild specifically exists to sanction and regulate the use of magic, and to limit public access to magical knowledge.
+- **Magic is Regulated:** Anybody can use magic if they learn the correct incantation. However, there are only a few practitioners of magic in Maga. The Mages Guild specifically exists to sanction and regulate the use of magic, and to limit public access to magical knowledge. It is illegal for non-members of the Mages Guild to cast magic, but some do it anyway.
 
 - **Demon Lords are human-like:** Demon Lords are not very different from humans. They can be petty, jealous, angry, or sad, and this will govern their actions. Look at Greek mythology for a better understanding of what I mean. Out of jealousy Hera tried to kill Hercules, a son of Zeus (her husband) and a human woman. Two important human-like things are present here: gods can feel lust (and cheat), and gods can feel jealous (and get revenge). While Demon Lords are somewhat more detached from our reality than the Greek gods were, they are still not abstract entities.
 
@@ -296,9 +296,9 @@ Any race/class combination is possible for NPCs, including multi-classing. It is
 
 Magic
 -----
-Magic (both divine and arcane) comes from a person's internal "life energy," so, in principle, anybody can cast magic. However, arcane magic is a difficult talent to acquire, and the arts are very controlled by the Mages Guild. Therefore, most people will not have even seen a magic user in their life. A great deal of effort is taken by magic users to keep magic out of the hands of the public and kept the domain of specially trained magicians who can handle its power.
+Magic (both divine and arcane) comes from a person's internal "life energy," so, in principle, anybody can cast magic. However, arcane magic is a difficult talent to acquire, and the arts are very controlled by the Mages Guild. Therefore, most people will not have even seen a magic user in their life unless there is a local Mages Guild. A great deal of effort is taken by magic users to keep magic out of the hands of the public and kept the domain of specially trained magicians who can handle its power. In fact, it is illegal for non-members of the Mages Guild to cast arcane spells.
 
-Divine magic is less regulated than arcane magic, and your local neighborhood priest probably knows a healing spell or two. The Mages Guild holds no responsibility for the magic of Clerics.
+Divine magic is not regulated at all, unlike arcane magic, and your local neighborhood priest probably knows a healing spell or two. The Mages Guild holds no responsibility for the magic of Clerics.
 
 Magic-Users and Clerics do not use the default system of magic in BFRPG. Instead, they use a magic point system as in the Sorcerer class, which is available as a supplement on the BFRPG website. However, they learn spells in the same way as a Magic-User or Cleric (respectively). Also, the GM may opt for the default system in BFRPG to simplify mechanics, while acknowledging that is a simplification and not a representation of how magic actually works.
 
@@ -379,7 +379,7 @@ The Mercenaries Guild is an organization sanctioned by the Republic to take cont
 
 #### Mages Guild
 
-The Mages Guild is responsible for researching and dispensing magical knowledge. In particular, the Mages Guild makes a strong attempt to prevent magic from being accessible to the general public because of its immense power.
+The Mages Guild is responsible for researching and dispensing magical knowledge. In particular, the Mages Guild makes a strong attempt to prevent magic from being accessible to the general public because of its immense power. Most Magic-Users should start out as members of the Mages Guild, otherwise their practice of arcane magic is illegal.
 
 #### Thieves Guild
 
