@@ -318,3 +318,23 @@ More exotic languages:
 - Giantish, the language of Giants (Giantish alphabet)
 - Sylvish, the language of Dryads and Treants (Demonic alphabet)
 
+Factions
+--------
+Although Maga is united under the banner of the Republic, the reach of the government is not universal and there is discord across the isles. Here are some of the factions you may interact with:
+
+### Republicans
+
+Republican is a general term for those politically aligned with the Modern Republic. This includes loyal citizens of the Republic, public officials, and organizations employed by the Republic.
+
+#### The Order of Skulls
+
+The Order of Skulls is not officially recognized as being part of the Republic, and some attempt is made to keep its existence secret. Nonetheless, rumors of its existence are abundant, and evidence of its actions stand. The Order of Skulls is the covert branch of the Republican government, acting for the office of the President in ensuring that the Republic continues to stand strong, sometimes using technically illegal methods.
+
+#### The Moonguard
+
+The Moonguard, unlike the Order of Skulls, is an officially recognized organization within the Republic. The Moonguard have the responsibility to ensure order is kept under the Republic, and have chapters spread throughout the regions. Unlike the Order of Skulls, public scrutiny means they cannot resort to illegal action.
+
+### Monarchists
+
+A significant number of Elves, and some Humans, still advocate the return of the Elven Kingdoms. These people are known as monarchists. While advocating monarchism is not illegal, it is cause for suspicion, and even minor rouses to action can be a basis for arrest. Many monarchists go further, plotting the overthrow of the Republic. Although they are not representative of the general public feeling, there are enough monarchists to present a real threat if they become organized.
+
