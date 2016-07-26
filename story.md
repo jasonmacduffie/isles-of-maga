@@ -323,6 +323,7 @@ Factions
 Although Maga is united under the banner of the Republic, the reach of the government is not universal and there is discord across the isles. Here are some of the factions you may interact with:
 
 ### Republicans
+![Republic Flag](republic_flag.png)
 
 Republican is a general term for those politically aligned with the Modern Republic. This includes loyal citizens of the Republic, public officials, and organizations employed by the Republic.
 
