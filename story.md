@@ -339,3 +339,45 @@ The Moonguard, unlike the Order of Skulls, is an officially recognized organizat
 
 A significant number of Elves, and some Humans, still advocate the return of the Elven Kingdoms. These people are known as monarchists. While advocating monarchism is not illegal, it is cause for suspicion, and even minor rouses to action can be a basis for arrest. Many monarchists go further, plotting the overthrow of the Republic. Although they are not representative of the general public feeling, there are enough monarchists to present a real threat if they become organized.
 
+### Orcish Tribes
+
+### Guilds
+
+There are a number of trade associations, called guilds, in Maga. They are not aligned with each other but are kept here for organizational purposes.
+
+#### Mercenaries Guild
+
+The Mercenaries Guild is an organization sanctioned by the Republic to take contracts that require violence to resolve.
+
+#### Mages Guild
+
+The Mages Guild is responsible for researching and dispensing magical knowledge. In particular, the Mages Guild makes a strong attempt to prevent magic from being accessible to the general public because of its immense power.
+
+#### Thieves Guild
+
+The Thieves Guild is a highly organized crime syndicate with branches all throughout Maga.
+
+#### Bards Guild
+
+The Bards Guild is an association of bards, or epic poem writers.
+
+### Church of Gora
+
+The Church of Gora is the collective name for the adherents and clergy of the worship of Gora, the only officially recognized religion in Maga. Gora worshippers will sometimes go on missions to convert members of beast-races throughout Maga, who often times worship Demon Lords.
+
+#### The Silver Sword
+
+The Silver Sword is an organization dedicated to hunting demon worshippers, necromancy, vampires, werewolves, and other creatures they deem unholy.
+
+### Demonic Cults
+
+Every Demon Lord has his or her own group of worshippers. In particular, the patron/matron deities of the beast-races have large numbers of followers. Not all cults are inherently malicious, but some are, and all must practice in secret due to the illegal status of their religion.
+
+### Vampire Clans
+
+Vampires will sometimes form clans.
+
+### Bandit/Pirate Groups and Crime Syndicates
+
+Aside from the Thieves Guild, there are a number of bandit and pirates that group together, as well as organized crime syndicates. They are not named here, but they are not uncommon in the less ruly parts of Maga.
+
