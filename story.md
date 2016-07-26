@@ -347,6 +347,8 @@ The Order of Ancients is a secretive organization that is not aligned with the R
 
 ### Orcish Tribes
 
+To this day, Orcish Tribes and their allies continue to take up arms against the Republic and refuse integration with it out of principle.
+
 ### Guilds
 
 There are a number of trade associations, called guilds, in Maga. They are not aligned with each other but are kept here for organizational purposes.
