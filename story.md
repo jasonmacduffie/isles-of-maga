@@ -250,6 +250,8 @@ Unlike many other settings, Orcs are not inherently bent on domination as a spec
 
 It would also be incorrect to paint Orcs are merely misunderstood. They are perhaps the most aggressive of the intelligent races, and most likely to reject surrender, retreat, or diplomacy. Their history is painted with war, and they are known to have subjugated all of the other Orc-aligned races in a powerful civilization before the colonization began.
 
+Also, Orcs are more likely to form relationships with humans than in other settings. Although it is still unlikely given the political turmoil involved, there have been a number of Half-Orcs born under loving relationships. However, these children are destined to be completely unintegrated both in Republican society, as well as Orcish society, and potentially attacked by either one.
+
 #### Gnolls
 
 Gnolls are fairly intelligent, and may be users of sword, bow, or magic depending on its individual talent. They tend to live in loosely knit tribes, similarly to Ogres but with much more organization and intelligence. Gnolls are not as integrated with Orcish society as Goblins, but some are fairly close. They tend to form separate tribes but will occasionally join Orcs in battle against the Republic.
