@@ -341,6 +341,10 @@ The Moonguard, unlike the Order of Skulls, is an officially recognized organizat
 
 A significant number of Elves, and some Humans, still advocate the return of the Elven Kingdoms. These people are known as monarchists. While advocating monarchism is not illegal, it is cause for suspicion, and even minor rouses to action can be a basis for arrest. Many monarchists go further, plotting the overthrow of the Republic. Although they are not representative of the general public feeling, there are enough monarchists to present a real threat if they become organized.
 
+### The Order of Ancients
+
+The Order of Ancients is a secretive organization that is not aligned with the Republic, Monarchists, or the Orcish Tribes. Rather, they adapt to each political circumstance, and attempt to influence policy to benefit their own ends. It is unknown whether the Order of Ancients really exists, or is just a rumor.
+
 ### Orcish Tribes
 
 ### Guilds
