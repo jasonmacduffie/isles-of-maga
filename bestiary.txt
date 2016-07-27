@@ -14,3 +14,7 @@ Hoverpedes are giant centipedes that float above the ground using natural magic.
 
 **Movement:** 30'
 
+Squiblins
+---------
+Goblins with squids for heads. Not as hostile as other goblins, but often hired help for villains or Orc allies. They are able to breathe underwater or on dry land indefinitely, but they need to moisturize once every hour before taking damage.
+
