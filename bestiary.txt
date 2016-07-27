@@ -12,6 +12,10 @@ Funkupine
 ---------
 Rabbit-human-porcupine creature. They are intelligent and not generally hostile. They form their own communities, and while not hostile to the Republic neither are they integrated as citizens.
 
+Hexapod
+-------
+These human-like creatures lack intelligence above that of an animal, and differ from the form of ordinary humans by their lack of legs, instead having six arms and hands it walks on. They are usually aggressive.
+
 Hoverpede
 ---------
 Hoverpedes are giant centipedes that float above the ground using natural magic. They are large enough to be mounted by one person in addition to a load, and multiple could carry a wagon. Note that Hoverpedes to not fly, so falling into a giant abyss is completely possible while mounting a Hoverpede. Hoverpedes cannot travel over water, only solid surfaces.
