@@ -10,7 +10,7 @@ Dolphin Turtles have the head and tail of a dolphin, with the shell and fins of 
 
 Funkupine
 ---------
-Rabbit-human-porcupine creature. They are intelligent and not generally hostile. They form their own communities, and while not hostile to the Republic neither are they integrated as citizens.
+Funkupines are rabbit-human-porcupine creature. They are intelligent and not generally hostile. They form their own communities, and while not hostile to the Republic neither are they integrated as citizens.
 
 Hexapod
 -------
@@ -22,7 +22,15 @@ Hoverpedes are giant centipedes that float above the ground using natural magic.
 
 **Movement:** 30'
 
-Squiblins
----------
-Goblins with squids for heads. Not as hostile as other goblins, but often hired help for villains or Orc allies. They are able to breathe underwater or on dry land indefinitely, but they need to moisturize once every hour before taking damage.
+Noclin
+------
+Noclins are goblins that are dark skinned and nocturnal. They sleep in caves and dungeons during the day, and go into the woods to hunt at night. They are usually aggressive.
+
+Squiblin
+--------
+Squiblins are goblins with squids for heads. Not as hostile as other goblins, but often hired help for villains or Orc allies. They are able to breathe underwater or on dry land indefinitely, but they need to moisturize once every hour before taking damage.
+
+Uniblin
+-------
+Uniblins are goblins with a single eye, and are stronger than an ordinary goblin. They take a strong liking for clubs. They are typically aggressive.
 
