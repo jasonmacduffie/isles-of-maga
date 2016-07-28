@@ -286,7 +286,9 @@ Magic (both divine and arcane) comes from a person's internal "life energy," so,
 
 Divine magic is not regulated at all, unlike arcane magic, and your local neighborhood priest probably knows a healing spell or two. The Mages Guild holds no responsibility for the magic of Clerics.
 
-Magic-Users and Clerics do not use the default system of magic in BFRPG. Instead, they use a magic point system as in the Sorcerer class, which is available as a supplement on the BFRPG website. However, they learn spells in the same way as a Magic-User or Cleric (respectively). Also, the GM may opt for the default system in BFRPG to simplify mechanics, while acknowledging that is a simplification and not a representation of how magic actually works.
+Because magic is not "prepared" as in the default BFRPG rules, there are alternative rules the GM may use for Magic-Users and Clerics. The rules are simple: a Magic-User learns spells in the ordinary way at the same rate, and a Cleric has access to all spells available at the ordinary rate. However, instead of preparation, a spellcaster can cast any available spell at will. Doing so will consume an amount of "spell points" equal to the spell level. For example, a Level 2 spell will cost 2 spell points.
+
+Spell points return to the maximum amount overnight. A character's spell points is equal to the character level, plus an ability bonus. In the case of Magic-Users, the bonus is their Intelligence. In the case of Clerics, the bonus is their Wisdom. For example, a level 3 Magic-User with an Intelligence bonus of +1 will have a maximum spell points of 4.
 
 Raise Dead and Reincarnate still work as per the BFRPG rules, however doing so may raise the anger of Pastorum, who expected a new ghost to serve him. Therefore, bringing people back to life is uncommon and taboo in Maga, but still possible if they died recently and not of old age.
 
