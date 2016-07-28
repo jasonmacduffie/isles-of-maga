@@ -142,11 +142,12 @@ Examples of names could be:
 - Chitwiiik
 - Kiblaaachi
 
-### Orc-aligned Races
+Orc-aligned Races
+-----------------
 
 These races are hostile to both the beast-races and the human-like races in Maga. The Orcs are not organized like the Republic, but rather have a decentralized system of tribes. In the past these tribes tended to war with each other, but as of late they have been united in spirit and aggression is directed toward the Republic that claims ownership of their lands. However, there is still not a central administration. The other races that are aligned with Orcs also precede the colonization of Maga, and share similar stake in the conflict.
 
-#### Orcs
+### Orcs
 
 Unlike many other settings, Orcs are not inherently bent on domination as a species. As a culture, however, a great deal of their social customs have developed from a spirit of war and conquest. Historically, the various Orc tribes would fight against each other. Today, they use their warrior spirit to battle against the Republic that claims their lands.
 
@@ -154,25 +155,22 @@ It would also be incorrect to paint Orcs are merely misunderstood. They are perh
 
 Also, Orcs are more likely to form relationships with humans than in other settings. Although it is still unlikely given the political turmoil involved, there have been a number of Half-Orcs born under loving relationships. However, these children are destined to be completely unintegrated both in Republican society, as well as Orcish society, and potentially attacked by either one.
 
-#### Gnolls
+### Gnolls
 
 Gnolls are fairly intelligent, and may be users of sword, bow, or magic depending on its individual talent. They tend to live in loosely knit tribes, similarly to Ogres but with much more organization and intelligence. Gnolls are not as integrated with Orcish society as Goblins, but some are fairly close. They tend to form separate tribes but will occasionally join Orcs in battle against the Republic.
 
-#### Goblins
+### Goblins
 
 Goblins are about as intelligent as Orcs, and have a very close history with them. They are the most likely of Orc-aligned races to join them in arms, and the most integrated in Orcish society. However, they still represent a lower social caste than Orcs. Advanced Goblins, such as Hobgoblins, are of particular intelligence and skill, and make for warriors that are a match for Orcs. Although Goblins have their own culture and tradition separate from Orcs, the influence of Orcish society has been overwhelming and to some degree Goblin society has influenced Orcish culture.
 
-#### Kobolds
+### Kobolds
 
 Kobolds are not inherently aggressive, but will attack any races they do not trust out of concern for their own safety. They are far more intelligent and cunning than most other Orc-aligned races. They have a highly cohesive tribal structure which is outside of Orcish society, but also sometimes overlaps in areas where Kobolds have integrated. Kobolds are excellent ranged fighters and trappers.
 
-#### Ogres
+### Ogres
 
 Ogres form small clans, but are far less social and civilized than the Orcs. They tend to live in the woods, caves, or vacant ruins rather than to construct their own buildings. They are aggressive in a territorial way, but do not actively engage in battle with the Republic unless sided with an Orc tribe. They are not intelligent enough to understand the complex politics involved, and just tend to side with Orcs because of their historical connection under the Orcish empire.
 
-#### Trolls
+### Trolls
 
 Trolls do not have a warring culture like the Orcs, nor do they have a territorial nature like the Ogres. Instead, they tend to hunt the human-like races for the fun of the hunt. They are more animalistic than the other Orc-aligned races, but still have the ability to communicate in their own language and Orcish. Again, like the other races, their tendency to occasionally side with Orcs comes with the historical connection under the Orcish empire, and thus some are integrated well with Orcish society as warriors.
-
-Classes
--------
