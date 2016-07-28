@@ -16,3 +16,6 @@ Evil beings infest our world. Their names are Ignorance, Superstition, and Bigot
 
 - **Cosmopolitan world:** The eight playable races all hold citizenship in the Republic, and are well integrated in the major cities. Even in a predominantly "Halfling" village, you may see one or two members of the beast-races. Even in the "Dwarven" capital, you are likely to see a few humans and halflings along with them.
 
+Technology
+----------
+The technology is around that of the European middle ages, although there is room for flexibility. For example, it is possible that gunpowder has been discovered recently leading to the invention of cannons and guns. There are also magical constructs, which are mindless machines that were animated by magic.

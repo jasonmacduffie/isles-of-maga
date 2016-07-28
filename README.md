@@ -20,10 +20,6 @@ License: CC BY-SA 4.0+. See LICENSE for details.
 8. [Factions](factions.md)
 9. [Bestiary](bestiary.md)
 
-Technology
-----------
-The technology is around that of the European middle ages, although there is room for flexibility. For example, it is possible that gunpowder has been discovered recently leading to the invention of cannons and guns. There are also magical constructs, which are mindless machines that were animated by magic.
-
 Religion
 --------
 The "good" religion in Maga is monotheistic, worshipping the deity called Gora. However, Gora does not actively perform miracles, and the power of Clerics, like Magic-Users, comes from their life energy rather than a blessing from Gora. In fact, there is no physical evidence that Gora exists, but rather his existence is based on an oral tradition dating thousands of years that eventually became a written tradition and organized into churches.
