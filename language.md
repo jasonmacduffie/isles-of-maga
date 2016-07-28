@@ -1,5 +1,5 @@
-Language
---------
+Languages
+=========
 The languages are the same as per the BFRPG rules, there are some changes in the significance however. "Common" is actually a modern dialect of the Dwarvish language, and "Dwarvish" refers to an ancient, no longer used dialect.
 
 Dwarvish, Halfling, Elvish, and Common all use the Dwarvish alphabet.
