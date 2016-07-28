@@ -140,7 +140,7 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 
 **Description:** The Lacertines are semi-aquatic humanoids descended from lizards. They have a reputation for being thoughtful and independent, but also lazy and selfish. Their unique ancestry allows them to hold their breath comfortably for around 30 minutes if necessary. They are not as naturally social as the other races, and generally keep to small tribes at the largest. While some have adapted to civilization, it is a struggle for their nature.
 
-**Restrictions:** Lacertines may become any single class. They are required to have a minimum Intelligence of 9, and a maximum Charisma of 17 due to their solitary tendencies.
+**Restrictions:** Lacertines are required to have a minimum Intelligence of 9, and a maximum Charisma of 17 due to their solitary tendencies.
 
 **Special Abilities:** Lacertines are able to hold their breath for 30 minutes at a time comfortably. They can continue for another 5 minutes with discomfort, after which they will take damage like an ordinary Human. Because of their natural claws, unarmed melee attacks deal 1d4 damage, and may be lethal.
 
@@ -165,7 +165,7 @@ There is only a single generic vowel in Lacertinean, sometimes denoted by "E" wh
 
 **Description:** The Felidines are humanoids descended from large cats. They have a reputation for being stealthy and curious, but also aloof and cowardly. They are especially nimble and cunning, and make excellent thieves or scouts. Like the other beast races, they hold a lesser position in Maga society.
 
-**Restrictions:** Felidines may become Fighters, Magic-Users or Thieves. They are required to have a minimum Dexterity of 9, and a maximum Wisdom of 17 due to their natural impulsiveness.
+**Restrictions:** Felidines are required to have a minimum Dexterity of 9, and a maximum Wisdom of 17 due to their natural impulsiveness.
 
 **Special Abilities:** Felidines have Darkvision within a 60' range. Furthermore, their stealth allows them to have only a 10% chance of being detected when in the forest, or a 30% chance in other terrain. Their natural claws give unarmed melee attacks 1d4 damage, which may be lethal.
 
@@ -194,7 +194,7 @@ Here are examples of names:
 
 **Description:** Corvidines are humanoids descended from crows, but have lost the ability to fly due to their size. They have a reputation for being wise and crafty, but also grim and mysterious. Their association with death is compounded by their relationship to their patron deity, Pastorum. They are relatively frail due to their weaker bones from their bird ancestry.
 
-**Restrictions:** Corvidines may become Clerics, Magic-Users or Thieves. They can also multi-class a Magic-User and Thief. They are required to have a minimum Wisdom of 9, and a maximum Constitution of 17 due to their natural fragility. Corvidines never roll larger than a d6 for hit points, regardless of class.
+**Restrictions:** Corvidines are required to have a minimum Wisdom of 9, and a maximum Constitution of 17 due to their natural fragility. Corvidines never roll larger than a d6 for hit points, regardless of class.
 
 **Special Abilities:** Corvidines have an uncanny knowledge of secrecy, and can find hidden doors on 1-2 on 1d6 rather than 1. They also have a 1 on 1d6 chance of discovering a secret door on a cursory look. Their natural talons give unarmed melee attacks 1d4 damage, which may be lethal.
 
@@ -221,7 +221,7 @@ Vespertines have an omnivorous diet of insects and fruit. Vespertines tend to dr
 
 Vespertines speak their own language, Vespertinean, and most know Common. Vespertines do not tend toward any particular class, and generally prefer to use diplomacy before entering combat. They are varied in their skills, having capable fighters, clerics, magic-users, and thieves among them. Vespertines have a reputation for being cheerful and sociable, but also sometimes disloyal and scheming.
 
-**Restrictions:** Vespertines may become any single class, as well as Fighter/Magic-Users and Magic-User/Thieves. They are required to have a minimum Charisma of 9, and a maximum Strength of 17 due to their small stature. Vespertines never roll larger than a d6 for hit points, regardless of class. Vespertines may not use Large weapons, and must hold Medium weapons with both hands.
+**Restrictions:** Vespertines are required to have a minimum Charisma of 9, and a maximum Strength of 17 due to their small stature. Vespertines never roll larger than a d6 for hit points, regardless of class. Vespertines may not use Large weapons, and must hold Medium weapons with both hands.
 
 **Special Abilities:** Vespertines can use sonar to "see" in total darkness, which mechanically works like 60' of Darkvision. Also, Vespertines have the ability to create a shrill noise in a line for a 100' range, dealing 1d4 points of damage to any creatures on that line.
 
@@ -278,7 +278,7 @@ Trolls do not have a warring culture like the Orcs, nor do they have a territori
 
 Classes
 -------
-Any race/class combination is possible for NPCs, including multi-classing. It is up to the GM whether to limit the players in this way. In particular, Fighter/Magic-Users are common in Maga among Dwarves and Humans, and Magic-Users are common among Halflings.
+There are no race/class restrictions whatsoever, at least from a lore perspective. Fighter/Magic-Users are common in Maga among Dwarves and Humans, and Magic-Users are common among Halflings, for example. The GM is free to restrict players in this manner, but there is no inherent reason why any race cannot become any class.
 
 Magic
 -----
