@@ -10,29 +10,24 @@ Note that there are no race/class restrictions whatsoever, at least from a lore 
 
 Dwarves
 -------
-
 Politically, Dwarves are the most powerful race in Maga, having initiated the revolution that overthrew the Elven Kingdoms and established the Modern Republic, and now occupy more than 50% of the Electorate. Their rule is heavy-handed, but not outrageously so to most citizens of Maga who know of the horror stories from the Elven Kingdoms. Due to their political status, Dwarves have somewhat of a privileged position in society, which some other races are wary of.
 
 Elves
 -----
-
 While the Dwarves are celebrated in Maga, the Elves are shunned. Once ruling several glorious kingdoms during the First Era, known as the Elven Kingdoms, since the revolution they have been completely disgraced. The Elven Kingdoms were famous for their cruelty towards non-Elves, and their numerous violent purges of Demon Lord worship. Although few Elves today were even alive during that time, the actions of the past still haunt them. Only the few descendants of those Elves who rebelled are in the Electorate, making less than 1%. Most Elves simply want to move on with life, but others long for the day of their return to rule.
 
 Elves have a much shorter lifespan in Maga than in the BFRPG rules: 300 to 400 years is typical.
 
 Halflings
 ---------
-
 Along with Humans, the Halflings occupy a rung on the power structure between Dwarves and Elves. They assisted with the overthrow of the Elven Kingdoms, but did not play a central role. Halflings occupy around 15% of the Electorate, and have their own political interests. The Halflings have mainly contributed economically in the role of farmers, although there are a few Halfling traders as well.
 
 Humans
 ------
-
 Humans occupy a rung on the power structure between Dwarves and Elves, but not in the same way as Halflings. While the Halflings are notable for being generally benign during the revolution, Humans are notable for taking the extremes on both sides: some of the greatest heroes of the revolution, and greatest villains loyal to the Kingdoms, were Human. As a result, Humans manage to occupy around 25% of the Electorate. Their role in society is complicated by the fact that Humans held a relatively high regard in the Elven Kingdoms, being seen as greater than the other non-Elf races, although nowhere near the position of Elves. Some Humans think that life was better for them before the Republic, and seek to restore the Kingdoms back to their former glory.
 
 Lacertines
 ----------
-
 **Description:** The Lacertines are semi-aquatic humanoids descended from lizards. They have a reputation for being thoughtful and independent, but also lazy and selfish. Their unique ancestry allows them to hold their breath comfortably for around 30 minutes if necessary. They are not as naturally social as the other races, and generally keep to small tribes at the largest. While some have adapted to civilization, it is a struggle for their nature.
 
 **Restrictions:** Lacertines are required to have a minimum Intelligence of 9, and a maximum Charisma of 17 due to their solitary tendencies.
@@ -58,7 +53,6 @@ There is only a single generic vowel in Lacertinean, sometimes denoted by "E" wh
 
 Felidines
 ---------
-
 **Description:** The Felidines are humanoids descended from large cats. They have a reputation for being stealthy and curious, but also aloof and cowardly. They are especially nimble and cunning, and make excellent thieves or scouts. Like the other beast races, they hold a lesser position in Maga society.
 
 **Restrictions:** Felidines are required to have a minimum Dexterity of 9, and a maximum Wisdom of 17 due to their natural impulsiveness.
@@ -88,7 +82,6 @@ Here are examples of names:
 
 Corvidines
 ----------
-
 **Description:** Corvidines are humanoids descended from crows, but have lost the ability to fly due to their size. They have a reputation for being wise and crafty, but also grim and mysterious. Their association with death is compounded by their relationship to their patron deity, Pastorum. They are relatively frail due to their weaker bones from their bird ancestry.
 
 **Restrictions:** Corvidines are required to have a minimum Wisdom of 9, and a maximum Constitution of 17 due to their natural fragility. Corvidines never roll larger than a d6 for hit points, regardless of class.
@@ -110,7 +103,6 @@ Corvidines are the most difficult names to translate, because their language is 
 
 Vespertines
 -----------
-
 ![vespertine.png](vespertine.png)
 
 **Description:** Vespertines are a small humanoid beast race descended from bats that lost their ability to fly due to their size. They tend to be between 3 and 4 feet tall, and weigh between 60 and 90 pounds. Their fur is usually brown, grey, or black, though white fur is not unheard of. They always have black beady eyes. Vespertines live in large tribal communities, and usually make their homes in caves in the middle of rainforests. Vespertine communities are sometimes hostile, but always in self-defense and not aggressively.
@@ -144,7 +136,6 @@ Examples of names could be:
 
 Orc-aligned Races
 -----------------
-
 These races are hostile to both the beast-races and the human-like races in Maga. The Orcs are not organized like the Republic, but rather have a decentralized system of tribes. In the past these tribes tended to war with each other, but as of late they have been united in spirit and aggression is directed toward the Republic that claims ownership of their lands. However, there is still not a central administration. The other races that are aligned with Orcs also precede the colonization of Maga, and share similar stake in the conflict.
 
 ### Orcs

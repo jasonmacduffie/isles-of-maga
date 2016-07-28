@@ -36,7 +36,6 @@ Before the first era began, the various Elven kings controlled most of Maga, exc
 
 1E: The Elven Kingdoms
 ----------------------
-
 The beginning of the first era saw the first unification of the races under one banner: the banner of the Elves. This unification marks the first era. There was not a centralized government, but a number of allied kingdoms, each with an Elf as monarch. Elvish was the Common language, although this was not strictly enforced and many regions had the majority race's language as a co-official language. Each race was still free to use its own alphabet for their language.
 
 This era also saw the greatest attempt to completely stamp out demon worship. By the end of the first era, worship of Demon Lords among Humans, Dwarves, Elves, and Halflings was nearly completely obliterated, and all worshipped the more abstract deity Gora. Less effort was put into stamping out worship among the beast-races due to the fact that they were not integrated as citizens, although some minor missions were carried out.
@@ -45,7 +44,6 @@ Although in the beginning the Elven kings and queens were careful to be even-han
 
 2E: The Modern Republic
 -----------------------
-
 The revolution that ended the first era gave rise to the Modern Republic. A contemporary, standardized form of Dwarvish became the Common language instead of Elvish; the human-like and beast races were also required to use the Dwarvish alphabet when writing in their own languages, even though not all sounds could be properly pronounced with it. This has been the source of some minor friction with the Republic.
 
 The Republic is a federated state divided into a large number of autonomous districts, each of which manages its own subregions in a similar fashion. However, the districts have less control over their population than the Kingdoms did, and some areas have become retaken by Orcs and other native creatures. Some areas are fairly isolated, and are part of the Republic in name only.
