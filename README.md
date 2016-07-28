@@ -10,9 +10,15 @@ Although the greatest information is given about the Magathos region, it is expe
 
 License: CC BY-SA 4.0+. See LICENSE for details.
 
-1. [Atmosphere](big-ideas.txt)
-2. [Geography and Politics](geography.txt)
-3. [Bestiary](bestiary.txt)
+1. [Atmosphere](big-ideas.md)
+2. [Geography and Politics](geography.md)
+3. [History](history.md)
+4. [Magic and Metaphysics](magic.md)
+5. [Religion](religion.md)
+6. [Races/Species](races.md)
+7. [Languages](language.md)
+8. [Factions](factions.md)
+9. [Bestiary](bestiary.md)
 
 History
 -------
