@@ -110,6 +110,10 @@ These are some of the major Demon Lords (feel free to make new ones):
 - **Nefastum**, Matron of Thuggery
 - **Ultimatum**, Patron of the End Times
 
+Metaphysics
+-----------
+There is only one world: the physical world that we occupy in Maga. As stated earlier, Demonia is not in another plane of existence. Rather, it is deep underground. Portals to Demonia physically teleport what passes through it, the same as other teleportation magic. Magic is also physical: it comes from a creature's life energy, for Magic-Users through their knowledge and for Clerics through their faith.
+
 Races/Species
 -------------
 Aside from the four human-like races (Dwarves, Elves, Halflings, and Humans), there are four beast races: Lacertines (lizard people), Felidines (cat people), Corvidines (crow people), and Vespertines (bat people). Because the four non-beast races already have details in the BFRPG rules, they are mainly described in terms of their political relationships. The beast races have full descriptions for player characters.
