@@ -10,7 +10,7 @@ The Big Ideas
 -------------
 Evil beings infest our world. Their names are Ignorance, Superstition, and Bigotry: the most sinister and tyrannical monsters your adventurers will face. The Isles of Maga has misanthropic creatures, to be sure, but most are animalistic and merely following their instincts. Even the Demon Lords are not "evil" per se, but have natures that are alien to us. My purpose for writing the Isles of Maga setting is to illustrate a world that allows for epic adventures, balanced with a nuanced understanding of moral conflict. The major points are these:
 
-- **White vs. Grey Morality:** No man chooses evil because it is evil; he only mistakes it for happiness, the good he seeks. Although corruption, greed, and extremism plague Maga, few people have truly misanthropic intentions. A villain in your campaign who commits extreme wrongdoing should be working at a good end, albeit in the completely wrong way.
+- **White to Grey Morality:** No man chooses evil because it is evil; he only mistakes it for happiness, the good he seeks. Although corruption, greed, and extremism plague Maga, few people have truly misanthropic intentions. A villain in your campaign who commits extreme wrongdoing should be working at a good end, albeit in the completely wrong way.
 
 - **Political over Moral Conflict:** The history of Maga is not guided primarily by the interference of gods, although the influence of the Demon Lords does exist. Rather, it is the feuding between the mortal races that has shaped society for better or worse. Religious conflict is largely a proxy for our mortal weaknesses, and the Demon Lords have no power outside of what their worshippers can give them.
 
