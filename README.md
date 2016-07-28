@@ -76,6 +76,8 @@ Although in the beginning the Elven kings and queens were careful to be even-han
 
 The revolution that ended the first era gave rise to the Modern Republic. A contemporary, standardized form of Dwarvish became the Common language instead of Elvish; the human-like and beast races were also required to use the Dwarvish alphabet when writing in their own languages, even though not all sounds could be properly pronounced with it. This has been the source of some minor friction with the Republic.
 
+The Republic is a federated state divided into large district, each of which manages its own subregions. However, the districts have less control over their population than the Kingdoms did, and some areas have become retaken by Orcs and other native creatures. Some areas are fairly isolated, and are part of the Republic in name only.
+
 The Republic continued the goal of the Elves to stamp out demon worship. However, their task was not as great due to the work already accomplished. The main area of focus was the beast-races and their patron/matron Demon Lords, now that they were considered full citizens of the Republic.
 
 Technology
