@@ -6,13 +6,13 @@ Before 1E
 ---------
 ### Before Colonization
 
-Before the arrival of Dwarves, Elves, Humans, and Halflings, there is strong evidence that Maga was under the rule of a powerful Orcish civilization. However, the Orcs did not keep a history of their civilization, so very little is known about it. The arrival of the human-like races did not disrupt their civilization; it had collapsed into the tribal society prior to that. The reasons for this are unknown. Orcs are still organized in this manner into the second era.
+Before the arrival of Dwarves, Elves, Humans, and Halflings, there is strong evidence that Maga was under the rule of a powerful Orcish civilization. However, the Orcs did not keep a history of their civilization, so very little is known about it. The arrival of the four main races did not disrupt their civilization; it had collapsed into the tribal society prior to that. The reasons for this are unknown. Orcs are still organized in this manner into the second era.
 
 During this time, the beast races (Lacertines, Felidines, Corvidines, and Vespertines) also populated the region. They likely were also ruled by the Orcish civilization.
 
 ### The Age of Exploration
 
-The first Humans, Dwarves, Elves, and Halflings reach the shores of Maga. In the beginning their numbers were few, but as they explored more and more of Maga they became more prevalant. Eventually the majority of Maga became populated with these human-like races. There were not many conflicts within the human-like races, instead the focus being on clearing out the area of the hostile locals, including the beast races.
+The first Humans, Dwarves, Elves, and Halflings reach the shores of Maga. In the beginning their numbers were few, but as they explored more and more of Maga they became more prevalant. Eventually the majority of Maga became populated with the four main races. There were not many conflicts within these races, instead the focus being on clearing out the area of the hostile locals, including the beast races.
 
 In particular, the Orcs were resistant to what they perceived as invaders. Up to the second era, the various Orcish tribes continue to put up a fight, although their numbers have diminished significantly. It is this continued hostility that has prevented from them being integrated with any of the upcoming civilizations, unlike the beast-races.
 
@@ -26,7 +26,7 @@ Trade flourished during this time, and industries were becoming better establish
 
 As industry continued, separate races formed their own states. The greatest state belonged to the kingdom of the Dwarves, which held the seat of Thronerock which is still the location of the capital of the Modern Republic during the second era. Elves, Humans, and Halflings had smaller city states, but many were strong enough to compare to the unified Dwarven kingdom during the early days.
 
-The Elves had worshipped Gora for many ages before, but for the first time worship of Gora was organized into churches as an organized religion. They viewed the demon worship of the natives as well as the other human-like races as disgusting and evil given the misanthropic tendencies of some Demon Lords. However, they were not in a position to do anything about it, and traded with these races anyway.
+The Elves had worshipped Gora for many ages before, but for the first time worship of Gora was organized into churches as an organized religion. They viewed the demon worship of the natives as well as the other main races as disgusting and evil given the misanthropic tendencies of some Demon Lords. However, they were not in a position to do anything about it, and traded with these races anyway.
 
 The Dwarves were proud of their strength as a country, and limited their interaction with the other races during this time. They would continue carving out huge castles under Magathos. The other races, on the other hand, had more or less amicable relations with each other and traded with one another.
 
@@ -44,7 +44,7 @@ Although in the beginning the Elven kings and queens were careful to be even-han
 
 2E: The Modern Republic
 -----------------------
-The revolution that ended the first era gave rise to the Modern Republic. A contemporary, standardized form of Dwarvish became the Common language instead of Elvish; the human-like and beast races were also required to use the Dwarvish alphabet when writing in their own languages, even though not all sounds could be properly pronounced with it. This has been the source of some minor friction with the Republic.
+The revolution that ended the first era gave rise to the Modern Republic. Contemporary Elvish was already the de-facto standard language across the isles, but the Republic formalized this and renamed it to Common. The four main races and beast races were also required to use the Common alphabet when writing in their own languages, even though not all sounds could be properly pronounced with it. This has been the source of some minor friction with the Republic.
 
 The Republic is a federated state divided into a large number of autonomous districts, each of which manages its own subregions in a similar fashion. However, the districts have less control over their population than the Kingdoms did, and some areas have become retaken by Orcs and other native creatures. Some areas are fairly isolated, and are part of the Republic in name only.
 
