@@ -10,7 +10,7 @@ Although the greatest information is given about the Magathos region, it is expe
 
 License: CC BY-SA 4.0+. See LICENSE for details.
 
-1. [Atmosphere](big-ideas.md)
+1. [Atmosphere](atmosphere.md)
 2. [Geography and Politics](geography.md)
 3. [History](history.md)
 4. [Magic and Metaphysics](magic.md)
