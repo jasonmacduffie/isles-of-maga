@@ -42,7 +42,18 @@ The Mages Guild is responsible for researching and dispensing magical knowledge.
 
 ### Thieves Guild
 
-The Thieves Guild is a highly organized crime syndicate with branches all throughout Maga.
+The Thieves Guild is a highly organized crime syndicate with branches all throughout Maga. Members of the Thieves Guild have access to fences and a network capable of clearing their name of minor crimes through bribery (although major ones, like murder, may be out of their capacity to help). In areas where the Thieves Guild is prominent, they dislike competition and may attempt to hinder would-be thieves. For this reason, it may be a good idea for characters of the Thief class to be members of the Thieves Guild from character creation. They may also see potential in a would-be thief, and will initiate them into the Guild.
+
+Depending on the region, the Thieves Guild may be more or less active, but they generally have at least a small branch in every large city. They tend to hang around shady pubs where they can escape scrutiny. Higher profile branches may even exist in the open, but can use their complex network of bribery to ensure nobody trifles with them. Some legal authorities value the Thieves Guild as a way to ensure criminals act within certain boundaries, due to their rule of avoiding unwanted attention to the Guild.
+
+There are four rules to the Thieves Guild:
+
+1. Do not murder, especially during a heist.
+2. Do not steal from or harm other members of the Thieves Guild.
+3. Do not steal from or harm beggars, who are under the protection of the Thieves Guild.
+4. Do not bring unwanted attention to the Thieves Guild (from legal authorities especially) or reveal any of our secrets.
+
+Those who break any one of these rules is expelled.
 
 ### Bards Guild
 
