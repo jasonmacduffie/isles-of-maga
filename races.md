@@ -1,6 +1,6 @@
 Races/Species
 =============
-Aside from the four human-like races (Dwarves, Elves, Halflings, and Humans), there are four beast races: Lacertines (lizard people), Felidines (cat people), Corvidines (crow people), and Vespertines (bat people). Because the four non-beast races already have details in the BFRPG rules, they are mainly described in terms of their political relationships. The beast races have full descriptions for player characters.
+Aside from the four major races (Dwarves, Elves, Halflings, and Humans), there are four beast races: Lacertines (lizard people), Felidines (cat people), Corvidines (crow people), and Vespertines (bat people). Because the four non-beast races already have details in the BFRPG rules, they are mainly described in terms of their political relationships. The beast races have full descriptions for player characters.
 
 It is up to the GM whether to include Lizard Men in the setting or to substitute them for Lacertines. To leave this ambiguous, no references to Lizard Men outside of Lacertines are made in these documents.
 
@@ -136,7 +136,7 @@ Examples of names could be:
 
 Orc-aligned Races
 -----------------
-These races are hostile to both the beast-races and the human-like races in Maga. The Orcs are not organized like the Republic, but rather have a decentralized system of tribes. In the past these tribes tended to war with each other, but as of late they have been united in spirit and aggression is directed toward the Republic that claims ownership of their lands. However, there is still not a central administration. The other races that are aligned with Orcs also precede the colonization of Maga, and share similar stake in the conflict.
+These races are hostile to both the beast-races and the major races in Maga. The Orcs are not organized like the Republic, but rather have a decentralized system of tribes. In the past these tribes tended to war with each other, but as of late they have been united in spirit and aggression is directed toward the Republic that claims ownership of their lands. However, there is still not a central administration. The other races that are aligned with Orcs also precede the colonization of Maga, and share similar stake in the conflict.
 
 ### Orcs
 
@@ -164,4 +164,4 @@ Ogres form small clans, but are far less social and civilized than the Orcs. The
 
 ### Trolls
 
-Trolls do not have a warring culture like the Orcs, nor do they have a territorial nature like the Ogres. Instead, they tend to hunt the human-like races for the fun of the hunt. They are more animalistic than the other Orc-aligned races, but still have the ability to communicate in their own language and Orcish. Again, like the other races, their tendency to occasionally side with Orcs comes with the historical connection under the Orcish empire, and thus some are integrated well with Orcish society as warriors.
+Trolls do not have a warring culture like the Orcs, nor do they have a territorial nature like the Ogres. Instead, they tend to hunt the main races for the fun of the hunt. They are more animalistic than the other Orc-aligned races, but still have the ability to communicate in their own language and Orcish. Again, like the other races, their tendency to occasionally side with Orcs comes with the historical connection under the Orcish empire, and thus some are integrated well with Orcish society as warriors.
