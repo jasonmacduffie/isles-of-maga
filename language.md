@@ -1,14 +1,14 @@
 Languages
 =========
-The languages are the same as per the BFRPG rules, there are some changes in the significance however. "Common" is actually a modern dialect of the Dwarvish language, and "Dwarvish" refers to an ancient, no longer used dialect.
+The languages are the same as per the BFRPG rules, there are some changes in the significance however. "Common" is actually a modern dialect of the Elvish language, and "Elvish" refers to an ancient, no longer used dialect. Elves know both Common and ancient Elvish.
 
-Dwarvish, Halfling, Elvish, and Common all use the Dwarvish alphabet.
+Dwarvish, Halfling, Elvish, and Common all use the Common alphabet (formerly the Elvish alphabet, renamed by the Republic).
 
 These are the additional racial languages:
-- Lacertinean, the language of Lacertines and Troglodytes (Dwarvish alphabet for Lacertines, Orcish alphabet for Troglodytes)
-- Felidinean, the language of Felidines (Dwarvish alphabet)
-- Corvidinean, the language of Corvidines (Dwarvish alphabet)
-- Vespertinean, the language of Vespertines (Dwarvish alphabet)
+- Lacertinean, the language of Lacertines (Common alphabet)
+- Felidinean, the language of Felidines (Common alphabet)
+- Corvidinean, the language of Corvidines (Common alphabet)
+- Vespertinean, the language of Vespertines (Common alphabet)
 
 Orc-aligned racial languages:
 - Orcish, the language of Orcs, but which is commonly used by other Orc-aligned races (Orcish alphabet)
