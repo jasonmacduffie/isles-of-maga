@@ -40,6 +40,13 @@ The Mercenaries Guild is an organization sanctioned by the Republic to take cont
 
 The Mages Guild is responsible for researching and dispensing magical knowledge. In particular, the Mages Guild makes a strong attempt to prevent magic from being accessible to the general public because of its immense power. Most Magic-Users should start out as members of the Mages Guild, otherwise their practice of arcane magic is illegal.
 
+Aside from the ordinary things you would expect a guild to require, there are two special rules about the Mages Guild:
+
+1. Share all magical knowledge you acquire with the Guild. This includes handing over magical artifacts for examination. If they are not of special interest, the artifact will be returned to you.
+2. Do not share any magical knowledge with non-Guild members.
+
+Magic-Users are permitted into the world of adventure under the premise that they are searching for magical secrets and items. If a Magic-User fails to procure evidence of their efforts, they can be investigated to have their Guild membership (which is their license to legally perform magic) revoked.
+
 ### Thieves Guild
 
 The Thieves Guild is a highly organized crime syndicate with branches all throughout Maga. Members of the Thieves Guild have access to fences and a network capable of clearing their name of minor crimes through bribery (although major ones, like murder, may be out of their capacity to help). In areas where the Thieves Guild is prominent, they dislike competition and may attempt to hinder would-be thieves. For this reason, it may be a good idea for characters of the Thief class to be members of the Thieves Guild from character creation. They may also see potential in a would-be thief, and will initiate them into the Guild.
