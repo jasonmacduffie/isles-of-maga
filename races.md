@@ -8,6 +8,8 @@ The beast races are all given some traditional names to choose from. However, ma
 
 Note that there are no race/class restrictions whatsoever, at least from a lore perspective. Fighter/Magic-Users are common in Maga among Dwarves and Humans, and Magic-Users are common among Halflings, for example. The GM is free to restrict players in this manner, but there is no inherent reason why any race cannot become any class.
 
+The four main races are the same species (along with Orcs and Ogres), and are fully capable of conception. However, such crosses are very strongly prohibited by social stigma. Rules are not given for multiple race characters (there would be too many combinations) but they do exist.
+
 Dwarves
 -------
 Politically, Dwarves are the most powerful race in Maga, having initiated the revolution that overthrew the Elven Kingdoms and established the Modern Republic, and now occupy more than 50% of the Electorate. Their rule is heavy-handed, but not outrageously so to most citizens of Maga who know of the horror stories from the Elven Kingdoms. Due to their political status, Dwarves have somewhat of a privileged position in society, which some other races are wary of.
