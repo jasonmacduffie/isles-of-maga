@@ -26,7 +26,11 @@ There are three major subraces of Elves in Maga. There are no stat differences, 
 
 Halflings
 ---------
-Along with Humans, the Halflings occupy a rung on the power structure between Dwarves and Elves. They assisted with the overthrow of the Elven Kingdoms, but did not play a central role. Halflings occupy around 15% of the Electorate, and have their own political interests. The Halflings have mainly contributed economically in the role of farmers, although there are a few Halfling traders as well.
+Along with Humans, the Halflings occupy a rung on the power structure between Dwarves and Elves. They assisted with the overthrow of the Elven Kingdoms, but did not play a central role. Halflings occupy around 10% of the Electorate.
+
+Halflings in Maga have a bit of unique character to them. While in most settings they are known for being good-natured, in Maga they are much more inclined to a life of crime than the other major races. That is not to say there are not lawful Halflings, but those ones have a reputation to overcome. The most famous pirates, brigands, and thieves have been Halfling individuals. Another distinction is that while Halflings in other settings tend to live in rural areas, in Maga there tend to be more in urban settings. There are nonetheless a decent number of Halfling farmers.
+
+Part of why Halflings assisted in the overthrow of the Elven Kingdoms was based on the belief that doing so would increase the influence of the Thieves Guild, that was not permitted to flourish under the Elves. Their estimation turned out to be basically correct.
 
 Humans
 ------
