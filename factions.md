@@ -47,6 +47,8 @@ Aside from the ordinary things you would expect a guild to require, there are tw
 
 Magic-Users are permitted into the world of adventure under the premise that they are searching for magical secrets and items. If a Magic-User fails to procure evidence of their efforts, they can be investigated to have their Guild membership (which is their license to legally perform magic) revoked.
 
+The Mages Guild are also the only legal magical service provider in Maga. For potions, wand recharging, etc. players must go to the Mages Guild.
+
 ### Thieves Guild
 
 The Thieves Guild is a highly organized crime syndicate with branches all throughout Maga. Members of the Thieves Guild have access to fences and a network capable of clearing their name of minor crimes through bribery (although major ones, like murder, may be out of their capacity to help). In areas where the Thieves Guild is prominent, they dislike competition and may attempt to hinder would-be thieves. For this reason, it may be a good idea for characters of the Thief class to be members of the Thieves Guild from character creation. They may also see potential in a would-be thief, and will initiate them into the Guild.
