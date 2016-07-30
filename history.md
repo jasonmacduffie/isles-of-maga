@@ -12,7 +12,7 @@ During this time, the beast races (Lacertines, Felidines, Corvidines, and Vesper
 
 ### The Age of Exploration
 
-The first Humans, Dwarves, Elves, and Halflings reach the shores of Maga. In the beginning their numbers were few, but as they explored more and more of Maga they became more prevalant. Eventually the majority of Maga became populated with the four main races. There were not many conflicts within these races, instead the focus being on clearing out the area of the hostile locals, including the beast races.
+From Honstrad, a continent in the west, the first Humans, Dwarves, Elves, and Halflings reach the shores of Maga. In the beginning their numbers were few, but as they explored more and more of Maga they became more prevalant. Eventually the majority of Maga became populated with the four main races. There were not many conflicts within these races, instead the focus being on clearing out the area of the hostile locals, including the beast races.
 
 In particular, the Orcs were resistant to what they perceived as invaders. Up to the second era, the various Orcish tribes continue to put up a fight, although their numbers have diminished significantly. It is this continued hostility that has prevented from them being integrated with any of the upcoming civilizations, unlike the beast-races.
 
