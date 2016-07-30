@@ -9,7 +9,7 @@ The Isles of Maga are in the Sunbound Ocean, far away from any mainland continen
 
 Political Geography
 -------------------
-Maga is governed by the Modern Republic. Clusterings of islands form a district; the district that gets the most attention in this document is the Capital District, which contains the capital and nearby islands.
+Maga is governed by the Modern Republic. Clusterings of islands form a province; the province that gets the most attention in this document is the Capital Province (Magathos Region), which contains the capital and nearby islands.
 
 The capital of the country is Thronerock, located in the mountain of Magathos. Other large cities on the surface of Magathos are Honuda, Grostine, Ledalia, and Sorrowport, with smaller towns and villages dotting the island. Nearby major islands are Veldoth, Ruzark, Eyedea, Northsky, Olivon, Hosland, Brightwater, and Shaleport. Each island has at least one large port city, which is the center of most trade. The larger islands generally also have significant insland trade.
 
