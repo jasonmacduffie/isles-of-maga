@@ -16,6 +16,8 @@ From Honstrad, a continent in the west, the first Humans, Dwarves, Elves, and Ha
 
 In particular, the Orcs were resistant to what they perceived as invaders. Up to the second era, the various Orcish tribes continue to put up a fight, although their numbers have diminished significantly. It is this continued hostility that has prevented from them being integrated with any of the upcoming civilizations, unlike the beast-races.
 
+When the four races came to Maga, they brough many of their old institutions with them. This includes the Mercenaries Guild, Mages Guild, and Thieves Guild. They also brought their religious beliefs with them, most importantly the Elves brough the belief in Gora. The other major races had their own religions as well, but those have long died out since colonization. Lastly, Demon worship was not unheard of in Honstrad, but it was not nearly as prevalant as it is in Maga.
+
 ### The Age of Industry
 
 Following was a time of peace, after the Orcish residents and other hostile races were mostly cleared out, and before the beginning of the formation of states that would develop soon. What were formerly small villages began to grow and eventually become cities. Dwarves continued to build underground, and the other races continued forming new villages and cities on the various islands. This time also marked the beginning of interaction with beast-races, and when people began to learn about the local worship of Demon Lords and share their religion.
