@@ -27,10 +27,16 @@ Koda is a fairly large town, with a population of 2100 people. There are about 1
 - A Chapel of Gora
 - Guards Barracks
 
-The Threat: The Kulzari Tribe
------------------------------
+Threats
+-------
+
+### The Kulzari Tribe
 
 The biggest threat looming over Koda right now are Orcs attacks. The Kulzari tribe used to live over the entire island of Oza, but since the colonization they have been pushed further and further into the diminishing Cliffwood in the west and Enswood in the east. Although they have always tried to fight back, for a long time they gave up and allowed the new settlers to stay while still protecting the remaining forest. However, a few years ago, the Kulzari Tribe has changed its ways and has started expanding its territory outside of the forest. They can sometimes be seen at the edges of forest trying to replant trees with the goal of covering the entire island with woods once more. This has lead to several conflicts, some initiated by the Republicans and some initiated by the Orcs. The guards in Koda are on edge as a result.
+
+### Cultists of Vitarum
+
+Another major issue on Oza is demon worship. Vitarum has a fairly large following throughout the entire Oza Province. These cultists believe that deforestation of the islands was a mistake, and work towards reviving the ancient forests. While largely the cultists are Lacertines, members of all the races are found in her sanctuaries. These cultists are willing to use violence to spread their message.
 
 Places of Interest
 ------------------
