@@ -4,7 +4,7 @@ Isles of Maga is a role playing setting that I am creating, in particular for us
 
 The history of Maga is scattered and mysterious, and you are expected to make alterations in your campaign to suit yourself. Here is the basic information for how things work in the year 2E308 (the 308th year of the Modern Republic).
 
-Although the greatest information is given about the Magathos region, it is expected that you will create adventures in remote locations with more or less contact with the Capital Province. The idea behind this is to give players and GMs a frame of reference without binding them to the history of any one particular region. There should be no complete listing of all the regions in Maga; all lists are incomplete. While the entirety of Maga is claimed by the Republic, certain regions are technically outside of its rule. This gives plenty of room for a variety of complex political situations, and the scale of area and elevation gives some flexibility in climate.
+You will notice that other than the Oza Province, very few specific geographical facts. The idea behind this is to give players and GMs a frame of reference without binding them to the history of any one particular region. While the entirety of Maga is claimed by the Republic, certain regions are technically outside of its rule. This gives plenty of room for a variety of complex political situations, and the scale of area and elevation gives some flexibility in climate.
 
 License: CC BY-SA 4.0+. See LICENSE for details.
 
