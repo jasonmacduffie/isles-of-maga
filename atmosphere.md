@@ -14,6 +14,8 @@ My purpose for writing the Isles of Maga setting is to illustrate a world that a
 
 - **Cosmopolitan world:** The eight playable races all hold citizenship in the Republic, and are well integrated in the major cities. Even in a predominantly "Halfling" village, you may see one or two members of the beast-races. Even in the "Dwarven" capital, you are likely to see a few humans and halflings along with them.
 
+- **Ocean travel:** Because the islands are quite small (a typical size being 500 or so square miles), most locations on the same island are a day's travel at most. A distant location will certainly need a boat to reach, making water travel critical in Maga.
+
 Metaphysics
 -----------
 There is only one world: the physical world that we occupy in Maga. As stated earlier, Demonia is not in another plane of existence. Rather, it is deep underground. Portals to Demonia physically teleport what passes through it, the same as other teleportation magic. Magic is also physical: it comes from a creature's life energy, for Magic-Users through their knowledge and for Clerics through their faith.
