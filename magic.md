@@ -20,6 +20,3 @@ Some spells are tweaked to make more sense in the setting:
 
 - **Conjure Elemental** summons one of Primarium's demons to fight for you. Elementals are all Primarium's servants, but when you summon one it is under your control.
 
-Metaphysics
------------
-There is only one world: the physical world that we occupy in Maga. As stated earlier, Demonia is not in another plane of existence. Rather, it is deep underground. Portals to Demonia physically teleport what passes through it, the same as other teleportation magic. Magic is also physical: it comes from a creature's life energy, for Magic-Users through their knowledge and for Clerics through their faith.
