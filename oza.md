@@ -2,6 +2,8 @@ Oza Province
 ============
 The Oza Province contains three islands: Oza, Raj, and Gui. The province capital is Adroza, located on the southwest coast of Oza. The governor of Oza Province also lives in Adroza. The towns of Oza are Koda, Nura, and Adroza, all located on the coasts of the island. Smaller villages are Isaksted, Hogar, Nuvale, and Shun.
 
+Each island is approximately 600 square miles or so in area. Oza is separated from Raj by about 25 miles of water to the southwest, and again Raj is separated from Gui by about 25 miles of water to the south.
+
 The Town: Koda
 --------------
 
