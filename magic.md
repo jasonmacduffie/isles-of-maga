@@ -10,7 +10,7 @@ Spell points return to the maximum amount overnight. A character's spell points 
 
 Raise Dead and Reincarnate still work as per the BFRPG rules, however doing so may raise the anger of Pastorum, who expected a new ghost to serve him. Therefore, bringing people back to life is uncommon and taboo in Maga, but still possible if they died recently and not of old age.
 
-Animate Dead for use as mindless minions such as zombies or skeletons is considered necromancy in Maga, which is outlawed. Note that Magic-Users and Clerics are still *able* to do so, but not in the open.
+Animate Dead for use as mindless minions such as zombies or skeletons is considered necromancy in Maga, which is outlawed. Note that Magic-Users and Clerics are still *able* to do so, but not in the open. Clerics who are known necromancers will no longer be welcome in the Church of Gora and Magic-Users who are known necromancers will lose their membership in the Mages Guild. The Silver Sword (a subfaction in the Church of Gora) actively hunts down and kills necromancers.
 
 Some spells are tweaked to make more sense in the setting:
 
