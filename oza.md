@@ -50,4 +50,8 @@ Here are some rumors you may hear around Koda.
 
 - The town guard are looking for help capturing an escaped criminal.
 - Some has a contract on his head from the Assassins Guild.
+- The Orcs are planning a raid on the town.
+- The Orcs have discovered an underground ruin filled with powerful enchanted weapons and armor.
+- A foreign Elf has rallied the Orcs against the Republic and is now leading them.
+- The owner of the Cow & Chicken Tavern, a Corvidine, privately worships Pastorum.
 
