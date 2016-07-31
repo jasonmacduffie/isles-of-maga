@@ -54,4 +54,5 @@ Here are some rumors you may hear around Koda.
 - The Orcs have discovered an underground ruin filled with powerful enchanted weapons and armor.
 - A foreign Elf has rallied the Orcs against the Republic and is now leading them.
 - The owner of the Cow & Chicken Tavern, a Corvidine, privately worships Pastorum.
+- A coven of vampires worshipping Umbrarum are hiding in Cliffwood.
 
