@@ -4,6 +4,8 @@ The Oza Province contains three islands: Oza, Raj, and Gui. The province capital
 
 Each island is approximately 600 square miles or so in area. Oza is separated from Raj by about 25 miles of water to the southwest, and again Raj is separated from Gui by about 25 miles of water to the south.
 
+The island of Oza is deforested by about half of its area, with the rest covered in vegetation. To the west there is Cliffwood, which is the much larger forest, and to the east there is Enswood. In the northeast of Oza there is Nurai Cove, which is not used for docking because of the dangerous creatures that inhabit the cove.
+
 The Town: Koda
 --------------
 
