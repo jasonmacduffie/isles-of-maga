@@ -24,4 +24,6 @@ Although there is only one world, it is possible to traverse alternate timelines
 
 Technology
 ----------
-The technology is around that of the European middle ages, although there is room for flexibility. For example, it is possible that gunpowder has been discovered recently leading to the invention of cannons and guns. There are also magical constructs, which are mindless machines that were animated by magic.
+The technology is around that of the European middle ages, although there is room for flexibility. For example, it is possible that gunpowder has been discovered recently leading to the invention of cannons and guns.
+
+There are also magical constructs, which are machines that were animated by magic. Most constructs are mindless automatons, but there are constructs with the intelligence of the sentient races called Mechanids. These are far and few between in Maga. The reason is that nobody knows how to create Mechanids anymore, and the civilization that created the Mechanids that exist never populated Maga. Therefore, any Mechanids in Maga almost certainly came from Honstrad.
