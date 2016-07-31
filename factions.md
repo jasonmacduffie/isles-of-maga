@@ -78,7 +78,7 @@ The Silver Sword is an organization dedicated to hunting demon worshippers, necr
 
 Demonic Cults
 -------------
-Every Demon Lord has his or her own group of worshippers. In particular, the patron/matron deities of the beast-races have large numbers of followers. Not all cults are inherently malicious, but some are, and all must practice in secret due to the illegal status of their religion.
+Every Demon Lord has his or her own group of worshippers. In particular, the patron deities of the beast-races have large numbers of followers. Not all cults are inherently malicious, but some are, and all must practice in secret due to the illegal status of their religion.
 
 Vampire Clans
 -------------
