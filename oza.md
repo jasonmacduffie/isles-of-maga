@@ -21,7 +21,6 @@ Koda is a fairly large town, with a population of 2100 people. There are about 1
 - The Black Rat: a lower-end pub, and meeting place of the Thieves Guild
 - A Mages Guild hall
 - A Mercenaries Guild hall
-- A Bards Guild hall
 - The mayor's office
 - The docks, where a free ferry to Adroza or Nura can be taken. Players can also go to the other islands for the cost of 1 GP per head.
 - A Chapel of Gora

@@ -68,10 +68,6 @@ Those who break any one of these rules is expelled.
 
 The Assassins Guild is much more underground than the Thieves Guild, and authorities generally have zero tolerance for them. Few towns have actual "halls" for the Assassins Guild, and they tend to be located in the wilderness. Contact with the Assassins Guild to hire a contract is done through a magic ritual that summons an assassin to assist.
 
-### Bards Guild
-
-The Bards Guild is an association of bards, or epic poem writers.
-
 Church of Gora
 --------------
 The Church of Gora is the collective name for the adherents and clergy of the worship of Gora, the only officially recognized religion in Maga. Gora worshippers will sometimes go on missions to convert members of beast-races throughout Maga, who often times worship Demon Lords.
