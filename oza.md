@@ -32,7 +32,7 @@ Threats
 
 ### The Kulzari Tribe
 
-The biggest threat looming over Koda right now are Orcs attacks. The Kulzari tribe used to live over the entire island of Oza, but since the colonization they have been pushed further and further into the diminishing Cliffwood in the west and Enswood in the east. Although they have always tried to fight back, for a long time they gave up and allowed the new settlers to stay while still protecting the remaining forest. However, a few years ago, the Kulzari Tribe has changed its ways and has started expanding its territory outside of the forest. They can sometimes be seen at the edges of forest trying to replant trees with the goal of covering the entire island with woods once more. This has lead to several conflicts, some initiated by the Republicans and some initiated by the Orcs. The guards in Koda are on edge as a result.
+The biggest threat looming over Koda right now are Orcs attacks. The Kulzari tribe used to live over the entire island of Oza, but since the colonization they have been pushed further and further into the diminishing Cliffwood in the west and Enswood in the east. Although they have always tried to fight back, for a long time they gave up and allowed the new settlers to stay while still protecting the remaining forest. However, a few years ago, the Kulzari Tribe has changed its ways and has started expanding its territory outside of the forest. This has lead to several conflicts, some initiated by the Republicans and some initiated by the Orcs. The guards in Koda are on edge as a result, although the Orcs have yet to launch a full-blown attack against a Republican town.
 
 ### Cultists of Vitarum
 
@@ -41,4 +41,6 @@ Another major issue on Oza is demon worship. Vitarum has a fairly large followin
 Places of Interest
 ------------------
 The Elves never had a strong presence in the Oza region, so there are not many Elven structures although there are one or two. On the other hand, ancient Orcish structures are abundant, some in ruins and some still inhabited by monsters or reclaimed by Orcs of the Kulzari Tribe.
+
+Many Lacertine structures can be found underwater around the town of Koda. They are difficult to get to, but a magical spell granting temporary water-breathing can allow adventurers to reach the interior, which tends to be dry and breatheable.
 
