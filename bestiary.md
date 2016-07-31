@@ -2,6 +2,8 @@ Bestiary
 ========
 There is no limit to the kinds of monsters you may find in Maga, and certainly all the ones from the BFRPG materials are meant to be compatible. Here is a non-exhaustive list of species particular to the region.
 
+Note that this is very much a WIP, moreso than the other parts.
+
 Dolphin Turtle
 --------------
 Dolphin Turtles have the head and tail of a dolphin, with the shell and fins of a sea turtle. They are large enough to be used as aquatic mounts for a party in addition to carrying a load. Dolphin Turtles can also travel on land, but only for short distances and not as a mount.
