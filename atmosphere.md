@@ -1,6 +1,6 @@
 Atmosphere
 ==========
-Evil beings infest our world. Their names are Ignorance, Superstition, and Bigotry: the most sinister and tyrannical monsters your adventurers will face. The Isles of Maga has misanthropic creatures, to be sure, but most are animalistic and merely following their instincts. Even the Demon Lords are not "evil" per se, but have natures that are alien to us. My purpose for writing the Isles of Maga setting is to illustrate a world that allows for epic adventures, balanced with a nuanced understanding of moral conflict. The major points are these:
+My purpose for writing the Isles of Maga setting is to illustrate a world that allows for epic adventures, balanced with a nuanced understanding of moral conflict. The major points are these:
 
 - **White to Grey Morality:** No man chooses evil because it is evil; he only mistakes it for happiness, the good he seeks. Although corruption, greed, and extremism plague Maga, few people have truly misanthropic intentions. A villain in your campaign who commits extreme wrongdoing should be working at a good end, albeit in the completely wrong way.
 
