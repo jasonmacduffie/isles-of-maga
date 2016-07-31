@@ -44,3 +44,10 @@ The Elves never had a strong presence in the Oza region, so there are not many E
 
 Many Lacertine structures can be found underwater around the town of Koda. They are difficult to get to, but a magical spell granting temporary water-breathing can allow adventurers to reach the interior, which tends to be dry and breatheable.
 
+Rumors
+------
+Here are some rumors you may hear around Koda.
+
+- The town guard are looking for help capturing an escaped criminal.
+- Some has a contract on his head from the Assassins Guild.
+

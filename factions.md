@@ -64,6 +64,10 @@ There are four rules to the Thieves Guild:
 
 Those who break any one of these rules is expelled.
 
+### Assassins Guild
+
+The Assassins Guild is much more underground than the Thieves Guild, and authorities generally have zero tolerance for them. Few towns have actual "halls" for the Assassins Guild, and they tend to be located in the wilderness. Contact with the Assassins Guild to hire a contract is done through a magic ritual that summons an assassin to assist.
+
 ### Bards Guild
 
 The Bards Guild is an association of bards, or epic poem writers.
