@@ -48,6 +48,8 @@ Although in the beginning the Elven kings and queens were careful to be even-han
 -----------------------
 The revolution that ended the first era gave rise to the Modern Republic. Contemporary Elvish was already the de-facto standard language across the isles, but the Republic formalized this and renamed it to Common. The four main races and beast races were also required to use the Common alphabet when writing in their own languages, even though not all sounds could be properly pronounced with it. This has been the source of some minor friction with the Republic.
 
+Elven structures were often abandoned, destroyed, or repurposed during the revolution. In particular, many Elven castles were repurposed as government buildings for the Republic.
+
 The Republic is a federated state divided into a large number of provinces, each of which manages its own subregions in a similar fashion. However, the provinces have less control over their population than the Kingdoms did, and some areas have become retaken by Orcs and other native creatures. Some areas are fairly isolated, and are part of the Republic in name only.
 
 The Republic continued the goal of the Elves to stamp out demon worship. However, their task was not as great due to the work already accomplished. The main area of focus was the beast-races and their patron/matron Demon Lords, now that they were considered full citizens of the Republic.
