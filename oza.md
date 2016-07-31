@@ -34,5 +34,5 @@ The biggest threat looming over Koda right now are Orcs attacks. The Kulzari tri
 
 Places of Interest
 ------------------
-The Elves never had a strong presence in the Oza region, so there are not many Elven structures although there are one or two.
+The Elves never had a strong presence in the Oza region, so there are not many Elven structures although there are one or two. On the other hand, ancient Orcish structures are abundant, some in ruins and some still inhabited by monsters or reclaimed by Orcs of the Kulzari Tribe.
 
