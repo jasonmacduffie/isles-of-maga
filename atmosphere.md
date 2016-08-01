@@ -2,8 +2,6 @@ Atmosphere
 ==========
 My purpose for writing the Isles of Maga setting is to illustrate a world that allows for epic adventures, balanced with a nuanced understanding of moral conflict. The major points are these:
 
-- **White to Grey Morality:** No man chooses evil because it is evil; he only mistakes it for happiness, the good he seeks. Although corruption, greed, and extremism plague Maga, few people have truly misanthropic intentions. A villain in your campaign who commits extreme wrongdoing should be working at a good end, albeit in the completely wrong way.
-
 - **"Evil" Gods are Close; the "Good" God is Distant:** The existence of Demon Lords is undeniable, and they do hold power in this world. However, worship of Gora is the only recognized legitimate religion in Maga, but there is scarce evidence for the existence of Gora.
 
 - **Magic is Regulated:** Anybody can use magic if they learn the correct incantation. However, there are only a few practitioners of magic in Maga. The Mages Guild specifically exists to sanction and regulate the use of magic, and to limit public access to magical knowledge. It is illegal for non-members of the Mages Guild to cast magic, but some do it anyway.
