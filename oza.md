@@ -55,4 +55,5 @@ Here are some rumors you may hear around Koda.
 - The owner of the Cow & Chicken Tavern, a Corvidine, privately worships Pastorum.
 - A coven of vampires worshipping Umbrarum are hiding in Cliffwood.
 - A time traveler has been looking for an artifact to bring him back to his original time.
+- A pirate in the Black Rat claims to have a map to Death Island, a magical island where the undead walk.
 
