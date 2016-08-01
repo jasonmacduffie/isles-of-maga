@@ -54,4 +54,5 @@ Here are some rumors you may hear around Koda.
 - A foreign Elf has rallied the Orcs against the Republic and is now leading them.
 - The owner of the Cow & Chicken Tavern, a Corvidine, privately worships Pastorum.
 - A coven of vampires worshipping Umbrarum are hiding in Cliffwood.
+- A time traveler has been looking for an artifact to bring him back to his original time.
 
