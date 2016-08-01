@@ -74,7 +74,7 @@ The Church of Gora is the collective name for the adherents and clergy of the wo
 
 ### The Silver Sword
 
-The Silver Sword is an organization dedicated to hunting demon worshippers, necromancy, vampires, werewolves, and other creatures they deem unholy.
+The Silver Sword is an organization dedicated to hunting demon worshippers, necromancy, vampires, werewolves, and other creatures they deem unholy. They specialize in anti-demonic magic, and wield silver weapons known for their anti-demonic properties.
 
 Demonic Cults
 -------------
