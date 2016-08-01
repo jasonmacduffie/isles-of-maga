@@ -6,6 +6,8 @@ The history of Maga is scattered and mysterious, and you are expected to make al
 
 You will notice that other than the Oza Province, very few specific geographical facts are given. The idea behind this is to give players and GMs a frame of reference without binding them to the history and geography of any one particular region. While the entirety of Maga is claimed by the Republic, certain regions are technically outside of its rule. This gives plenty of room for a variety of complex political situations, and the scale of area and elevation gives some flexibility in climate.
 
+A bestiary was omitted. There are more than enough monsters in the Fantasy Field Guide to last you for a while, so I decided against it. If I am inspired, a bestiary may be written in the future.
+
 License: CC BY-SA 4.0+. See LICENSE for details.
 
 1. [Atmosphere](atmosphere.md)
@@ -16,5 +18,4 @@ License: CC BY-SA 4.0+. See LICENSE for details.
 6. [Races/Species](races.md)
 7. [Languages](language.md)
 8. [Factions](factions.md)
-9. [Bestiary](bestiary.md)
-10. [Oza Province](oza.md) (An example region to play in)
+9. [Oza Province](oza.md) (An example region to play in)
