@@ -2,6 +2,8 @@ Magic
 =====
 Magic (both divine and arcane) comes from a person's internal "life energy," so, in principle, anybody can cast magic. However, arcane magic is a difficult talent to acquire, and the arts are very controlled by the Mages Guild. Therefore, most people will not have even seen a magic user in their life unless there is a local Mages Guild. A great deal of effort is taken by magic users to keep magic out of the hands of the public and kept the domain of specially trained magicians who can handle its power. In fact, it is illegal for non-members of the Mages Guild to cast arcane spells.
 
+Most spell casters, both divine and arcane, are women. In ancient times spell casters were almost exclusively women, and many famous magicians in history were women. Historically, men who used magic had a reputation for being effeminate. That has not been true for a long time and as a result the divide is much smaller today, such that the ratio is about 3 to 1. In more traditional societies like Orcish tribes, spell casters are still almost exclusively women.
+
 Divine magic is not regulated at all, unlike arcane magic, and your local neighborhood priest probably knows a healing spell or two. The Mages Guild holds no responsibility for the magic of Clerics.
 
 Because magic is not "prepared" as in the default BFRPG rules, there are alternative rules the GM may use for Magic-Users and Clerics. The rules are simple: a Magic-User learns spells in the ordinary way at the same rate, and a Cleric has access to all spells available at the ordinary rate. However, instead of preparation, a spellcaster can cast any available spell at will. Doing so will consume an amount of "spell points" equal to the spell level. For example, a Level 2 spell will cost 2 spell points.
