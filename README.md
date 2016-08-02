@@ -18,4 +18,5 @@ License: CC BY-SA 4.0+. See LICENSE for details.
 6. [Races/Species](races.md)
 7. [Languages](language.md)
 8. [Factions](factions.md)
-9. [Oza Province](oza.md) (An example region to play in)
+9. [Calendar and Birthsigns](calendar.md)
+10. [Oza Province](oza.md) (An example region to play in)
