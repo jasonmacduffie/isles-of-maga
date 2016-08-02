@@ -24,7 +24,7 @@ The four non-animals each has two animal charges:
 
 Each sign has a unique quality (game mechanics not worked out yet):
 
-- The Ram is courageous, giving
+- The Ram is daring, allowing those born under it to attack earlier in a fight.
 - The Bull is stoic, allowing those born under it to resist fear.
 - The Magician is sophisticated, allowing those born under it to learn more spells.
 - The Crab is adaptable, allowing those born under it to escape more easily.
@@ -32,7 +32,7 @@ Each sign has a unique quality (game mechanics not worked out yet):
 - The Priestess is sensitive, allowing those born under it to detect the intentions of others.
 - The Dragon is sassy, allowing those born under it to resist magic spells.
 - The Scorpion is secretive, allowing those born under it to hide better.
-- The Soldier is persistent,
+- The Soldier is zealous, allowing those born under it to travel faster over long distances.
 - The Goat is sociable, allowing those born under it to acquire many followers.
 - The Fish is thoughtful, allowing those born under it to cast more spells per day.
 - The Thief is shrewd, allowing those born under it to lie more convincingly.
