@@ -22,3 +22,18 @@ The four non-animals each has two animal charges:
 - **The Magician:** Dragon and Fish
 - **The Thief:** Crab and Scorpion
 
+Each sign has a unique quality:
+
+- The Ram is courageous.
+- The Bull is patient.
+- The Magician is sophisticated.
+- The Crab is adaptable.
+- The Lion is forceful.
+- The Priestess is modest.
+- The Dragon is sassy.
+- The Scorpion is secretive.
+- The Soldier is persistent.
+- The Goat is disciplined.
+- The Fish is cautious.
+- The Thief is rebellious.
+
