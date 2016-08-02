@@ -44,6 +44,8 @@ This era also saw the greatest attempt to completely stamp out demon worship. By
 
 Although in the beginning the Elven kings and queens were careful to be even-handed, the descendants who would inherit their thrones became increasingly unconcerned with the needs of their subjects. Many of the monarchs during the end of the period were incredibly harsh, even to Humans who held the highest positions in society besides Elves. Halfling farmers and Dwarf miners were taxed more and more onerously.
 
+Sometime in the middle of this era, contact with Honstrad was severed. The reasons for the severing of contact is still unknown; ships that were expected to come in simply stopped coming. There were voyages meant to survey the continent to understand what happened, but those voyages have not returned since. Since then, nobody has risked the dangerously long trip.
+
 2E: The Modern Republic
 -----------------------
 The revolution that ended the first era gave rise to the Modern Republic. Contemporary Elvish was already the de-facto standard language across the isles, but the Republic formalized this and renamed it to Common. The four main races and beast races were also required to use the Common alphabet when writing in their own languages, even though not all sounds could be properly pronounced with it. This has been the source of some minor friction with the Republic.
