@@ -184,5 +184,5 @@ Very rarely, a dragon egg will hatch a humanoid, human-sized dragon, called a Dr
 
 ### Diabols
 
-Diabols are the result of the corrupting influence of Seditionum. They are rare to the point of being legendary, and are practically kill-on-sight to the same extent as the Orc-aligned races.
+Diabols are the result of the corrupting influence of Seditionum, either directly or by having two Diabol parents. They are rare to the point of being legendary, and are more likely to be kill-on-sight than the Orc-aligned races. They have various features typical of images of devils such as grey or red skin, horns, and tails. Diabols tend to congregate in communes dedicated to worshipping Seditionum.
 
