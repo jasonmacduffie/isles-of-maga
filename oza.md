@@ -2,9 +2,13 @@ Oza Province
 ============
 ![oza_province.png](oza_province.png)
 
-The Oza Province contains three islands: Oza, Raj, and Gui. The Oza Province is far to the east from the Capital Province, and is separated from the surrounding islands by a few hundred miles of ocean. The province capital is Adroza, located on the southwest coast of Oza. The governor of Oza Province also lives in Adroza. The towns of Oza are Koda, Nura, and Adroza, all located on the coasts of the island. Smaller villages are Isaksted, Hogar, Nuvale, and Shun.
+The Oza Province contains three islands: Oza, Raj, and Gui. The Oza Province is far to the east from the Capital Province, and is separated from the surrounding islands by a few hundred miles of ocean. The province capital is Adroza, located on the southwest coast of Oza. The governor of Oza Province also lives in Adroza. The towns of Oza are Koda, Nura, and Adroza, all located on the coasts of the island. Smaller villages are Isaksted, Hogar, and Nuvale.
 
 Each island is approximately 600 square miles or so in area. Oza is separated from Raj by about 25 miles of water to the southwest, and again Raj is separated from Gui by about 25 miles of water to the south.
+
+Oza Island
+----------
+![oza.png](oza.png)
 
 The island of Oza is deforested by about half of its area, with the rest covered in vegetation. To the west there is Cliffwood, which is the much larger forest, and to the east there is Enswood. In the northeast of Oza there is Nurai Cove, which is not used for docking because of the dangerous creatures that inhabit the cove.
 
