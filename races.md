@@ -182,3 +182,7 @@ Dragons are large reptilian creatures with four legs and two wings. Dragons tend
 
 Very rarely, a dragon egg will hatch a humanoid, human-sized dragon, called a Dracul. Draculs have a tendency to inherit the traits of dragons as well, such as sassiness and hoarding behavior. However, because they are substantially weaker than a full-size dragon, they rely much more on social relations to secure their wealth. There is an ancient legend of a powerful Orc king who was usurped by a Dracul, and the Orcs respected him for his strength.
 
+### Diabols
+
+Diabols are the result of the corrupting influence of Seditionum. They are rare to the point of being legendary, and are practically kill-on-sight to the same extent as the Orc-aligned races.
+
