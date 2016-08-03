@@ -2,7 +2,7 @@ Oza Province
 ============
 ![oza_province.png](oza_province.png)
 
-*(each hex tile has a distance of 8 miles, and an area of 55 square miles)*
+*(each hex tile has a distance of 8 miles, and an area of 56 square miles)*
 
 The Oza Province contains three islands: Oza, Raj, and Gui. The Oza Province is far to the east from the Capital Province, and is separated from the surrounding islands by a few hundred miles of ocean. The province capital is Adroza, located on the southwest coast of Oza. The governor of Oza Province also lives in Adroza.
 
