@@ -180,7 +180,7 @@ The races here are neither Republican nor Orc-aligned.
 
 Dragons are large reptilian creatures with four legs and two wings. Dragons tend to have sassy personalities, although there are exceptions. They love to hoard wealth, but have a pretty good sense of self-preservation that limits them from terrorizing the countryside. They are not abundant in Maga, but they were already around during the colonization and have remained since, passively observing the political happenings.
 
-Very rarely, a dragon egg will hatch a humanoid, human-sized dragon, called a Dracul. Draculs have a tendency to inherit the traits of dragons as well, such as sassiness and hoarding behavior. However, because they are substantially weaker than a full-size dragon, they rely much more on social relations to secure their wealth. There is an ancient legend of a powerful Orc king who was usurped by a Dracul, and the Orcs respected him for his strength.
+Very rarely, a dragon egg will hatch a humanoid and human-sized dragon without wings, called a Dracul. They look somewhat like Lacertines, but with the color scales of their parent dragon, and more built. Draculs have a tendency to inherit the traits of dragons as well, such as sassiness and hoarding behavior. However, because they are substantially weaker than a full-size dragon, they rely much more on social relations to secure their wealth. There is an ancient legend of a powerful Orc king who was usurped by a Dracul, and the Orcs respected him for his strength.
 
 ### Diabols
 
