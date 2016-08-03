@@ -6,7 +6,7 @@ Most spell casters, both divine and arcane, are women. In ancient times spell ca
 
 Divine magic is not regulated at all, unlike arcane magic, and your local neighborhood priest probably knows a healing spell or two. The Mages Guild holds no responsibility for the magic of Clerics.
 
-Because magic is not "prepared" as in the default BFRPG rules, it is suggested that you use the Liberal Casting system available from the Magic-User Options supplement. This supplement is a more accurate portrayal of how magic works in-universe.
+Because magic is not "prepared" as in the default BFRPG rules, it is suggested that you use the Liberal Casting system plus Slot Demotion available from the Magic-User Options supplement. This supplement is a more accurate portrayal of how magic works in-universe.
 
 Spell points return to the maximum amount overnight. A character's spell points is equal to the character level, plus an ability bonus. In the case of Magic-Users, the bonus is their Intelligence. In the case of Clerics, the bonus is their Wisdom. For example, a level 3 Magic-User with an Intelligence bonus of +1 will have a maximum spell points of 4.
 
