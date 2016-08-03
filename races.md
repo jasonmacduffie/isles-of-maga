@@ -176,8 +176,8 @@ Additional Unaligned Races
 --------------------------
 The races here are neither Republican nor Orc-aligned.
 
-Dragons and Dracul
-------------------
+### Dragons and Dracul
+
 Dragons are large reptilian creatures with four legs and two wings. Dragons tend to have sassy personalities, although there are exceptions. They love to hoard wealth, but have a pretty good sense of self-preservation that limits them from terrorizing the countryside. They are not abundant in Maga, but they were already around during the colonization and have remained since, passively observing the political happenings.
 
 On rare occasion, a dragon egg will hatch a humanoid, human-sized dragon, called a Dracul. The Dracul have a tendency to inherit the traits of dragons as well, such as sassiness and hoarding behavior. However, because they are substantially weaker than a full-size dragon, they rely much more on social relations to secure their wealth. In ancient times, it was not too infrequent that a wealthy Orcish lord would be overthrown by a Dracul, who the Orcs respected for its strength.
