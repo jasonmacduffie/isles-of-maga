@@ -28,7 +28,7 @@ Each sign has a unique quality (game mechanics not worked out yet):
 - The Bull is stoic, allowing those born under it to resist fear.
 - The Magician is sophisticated, allowing those born under it to learn more spells.
 - The Crab is adaptable, allowing those born under it to escape more easily.
-- The Lion is forceful, allowing those born under it to break solid objects.
+- The Lion is forceful, allowing those born under it to intimidate others more easily.
 - The Priestess is sensitive, allowing those born under it to detect the intentions of others.
 - The Dragon is sassy, allowing those born under it to resist magic spells.
 - The Scorpion is secretive, allowing those born under it to hide better.
