@@ -171,3 +171,14 @@ Ogres form small clans, but are far less social and civilized than the Orcs. The
 ### Trolls
 
 Trolls do not have a warring culture like the Orcs, nor do they have a territorial nature like the Ogres. Instead, they tend to hunt the main races for the fun of the hunt. They are more animalistic than the other Orc-aligned races, but still have the ability to communicate in their own language and Orcish. Again, like the other races, their tendency to occasionally side with Orcs comes with the historical connection under the Orcish empire, and thus some are integrated well with Orcish society as warriors.
+
+Additional Unaligned Races
+--------------------------
+The races here are neither Republican nor Orc-aligned.
+
+Dragons and Dracul
+------------------
+Dragons are large reptilian creatures with four legs and two wings. Dragons tend to have sassy personalities, although there are exceptions. They love to hoard wealth, but have a pretty good sense of self-preservation that limits them from terrorizing the countryside. They are not abundant in Maga, but they were already around during the colonization and have remained since, passively observing the political happenings.
+
+On rare occasion, a dragon egg will hatch a humanoid, human-sized dragon, called a Dracul. The Dracul have a tendency to inherit the traits of dragons as well, such as sassiness and hoarding behavior. However, because they are substantially weaker than a full-size dragon, they rely much more on social relations to secure their wealth. In ancient times, it was not too infrequent that a wealthy Orcish lord would be overthrown by a Dracul, who the Orcs respected for its strength.
+
