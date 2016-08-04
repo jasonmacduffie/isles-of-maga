@@ -186,3 +186,7 @@ Very rarely, a dragon egg will hatch a humanoid and human-sized dragon without w
 
 Diabols are the result of the corrupting influence of Seditionum, either directly from infection by a Soulhaunt or by having two Diabol parents. They are rare to the point of being legendary, and most commoners will have no idea what a Diabol is upon seeing one. They have various features typical of images of devils such as grey or red skin, horns, and tails. Diabols tend to congregate in communes dedicated to worshipping Seditionum.
 
+### Mechanids
+
+Mechanids are ancient constructs made of metal, kept alive by magic that is long forgotten. However, there were never Mechanids in Maga, so any that you encounter almost certainly arrived from Honstrad. Even though Mechanids have intelligence on the level of a human being, they are still highly goal-oriented and do not have "free will" in a sense we would easily recognize. A Mechanid cannot simple "overcome" its reason for existing. One of the dangers of Mechanids is that some were created for war, and continue to fight for their nations despite the fact that their constructors perished long ago.
+
