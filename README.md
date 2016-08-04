@@ -10,7 +10,7 @@ You will notice that other than the Oza Province, very few specific geographical
 
 A bestiary was omitted. There are more than enough monsters in the Fantasy Field Guide to last you for a while, so I decided against it. If I am inspired, a bestiary may be written in the future. Note that only the four main races are playable right now; the beast-races need to be balanced a lot.
 
-**What is a Doombound?** A Doombound is a mortal that is chosen by Umbrarum to force a timeline shift when he cannot manage with his power alone.
+**What is a Doombound?** A Doombound is a mortal that is chosen by Ultimatum to force a timeline shift when he cannot manage with his power alone.
 
 License: CC BY-SA 4.0+. See LICENSE for details.
 
