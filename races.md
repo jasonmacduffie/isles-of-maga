@@ -160,6 +160,10 @@ Gnolls are fairly intelligent, and may be users of sword, bow, or magic dependin
 
 Goblins are about as intelligent as Orcs, and have a very close history with them. They are the most likely of Orc-aligned races to join them in arms, and the most integrated in Orcish society. However, they still represent a lower social caste than Orcs. Advanced Goblins, such as Hobgoblins, are of particular intelligence and skill, and make for warriors that are a match for Orcs. Although Goblins have their own culture and tradition separate from Orcs, the influence of Orcish society has been overwhelming and to some degree Goblin society has influenced Orcish culture.
 
+#### Gnomes
+
+Gnomes are a subrace of Goblins. They are much more magically inclined than other Goblins.
+
 ### Kobolds
 
 Kobolds are not inherently aggressive, but will attack any races they do not trust out of concern for their own safety. They are far more intelligent and cunning than most other Orc-aligned races. They have a highly cohesive tribal structure which is outside of Orcish society, but also sometimes overlaps in areas where Kobolds have integrated. Kobolds are excellent ranged fighters and trappers.
