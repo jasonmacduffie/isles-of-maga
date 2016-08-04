@@ -162,7 +162,7 @@ Goblins are about as intelligent as Orcs, and have a very close history with the
 
 #### Gnomes
 
-Gnomes are a subrace of Goblins. They are much more magically inclined than other Goblins.
+Gnomes are a subrace of Goblins that appear much more similar to humans, but still have more resemblance to Goblins than in other settings. They are much more magically inclined than other Goblins.
 
 ### Kobolds
 
