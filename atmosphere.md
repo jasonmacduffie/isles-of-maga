@@ -2,7 +2,7 @@ Atmosphere
 ==========
 My purpose for writing the Isles of Maga setting is to illustrate a world that allows for epic adventures, balanced with a nuanced understanding of moral conflict. The major points are these:
 
-- Pure Evil is Rare: Generally, your characters will not be fighting "pure evil" villains. Even the most apparently misanthropic Demon Lords actually have complex motivations. Races that are generally hostile are either animalistic, or have personal reasons for attacking you. Communication may solve more conflicts than brute force, although fighting will still be necessary in a tough situation.
+- **Pure Evil is Rare:** Generally, your characters will not be fighting "pure evil" villains. Even the most apparently misanthropic Demon Lords actually have complex motivations. Races that are generally hostile are either animalistic, or have personal reasons for attacking you. Communication may solve more conflicts than brute force, although fighting will still be necessary in a tough situation.
 
 - **"Evil" Gods are Close; the "Good" God is Distant:** The existence of Demon Lords is undeniable, and they do hold power in this world. However, worship of Gora is the only recognized legitimate religion in Maga, but there is scarce evidence for the existence of Gora.
 
