@@ -176,9 +176,9 @@ Ogres form small clans, but are far less social and civilized than the Orcs. The
 
 Trolls do not have a warring culture like the Orcs, nor do they have a territorial nature like the Ogres. Instead, they tend to hunt the main races for the fun of the hunt. They are more animalistic than the other Orc-aligned races, but still have the ability to communicate in their own language and Orcish. Again, like the other races, their tendency to occasionally side with Orcs comes with the historical connection under the Orcish empire, and thus some are integrated well with Orcish society as warriors.
 
-Additional Unaligned Races
---------------------------
-The races here are neither Republican nor Orc-aligned.
+Non-Colonist Honstrad Races
+---------------------------
+These races exist in the world of Agreus, but did not join the colonization and are not native to Maga.
 
 ### Draculs
 
@@ -186,7 +186,7 @@ Draculs are a race of humanoid, human-sized dragons without wings. They look som
 
 ### Mechanids
 
-Mechanids are ancient constructs made of metal, kept alive by magic that is long forgotten. However, there were never Mechanids in Maga, so any that you encounter almost certainly arrived from Honstrad at some point. Even though Mechanids have intelligence on the level of a human being, they are still highly goal-oriented and do not have "free will" in a sense we would easily recognize. A Mechanid cannot simple "overcome" its reason for existing. One of the dangers of Mechanids is that some were created for war, and continue to fight for their nations despite the fact that their constructors perished long ago. Because nobody knows how to construct Mechanids, and their ancient constructors are not from Maga, you are very unlikely to encounter a Mechanid although one or two may be around somewhere. Most people do not know what a Mechanid is, and will not recognize one upon sight.
+Mechanids are ancient constructs made of metal, kept alive by magic that is long forgotten. However, there were never Mechanids in Maga, so any that you encounter almost certainly arrived from Honstrad recently. Even though Mechanids have intelligence on the level of a human being, they are still highly goal-oriented and do not have "free will" in a sense we would easily recognize. A Mechanid cannot simple "overcome" its reason for existing. One of the dangers of Mechanids is that some were created for war, and continue to fight for their nations despite the fact that their constructors perished long ago. Because nobody knows how to construct Mechanids, and their ancient constructors are not from Maga, you are very unlikely to encounter a Mechanid although one or two may be around somewhere. Most people do not know what a Mechanid is, and will not recognize one upon sight.
 
 Mechanids recharge themselves magically, much like a self-recharging wand. They are able to cast spells, but unlike living creatures they do not use their "life-energy" but instead their internally stored magical charge. This does not have any impact on gameplay.
 
