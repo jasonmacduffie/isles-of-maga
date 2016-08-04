@@ -1,8 +1,8 @@
 Languages
 =========
-The languages are the same as per the BFRPG rules, there are some changes in the significance however. "Common" is actually a modern dialect of the Elvish language, and "Elvish" refers to an ancient, no longer used dialect. Elves know both Common and ancient Elvish.
+The languages are the same as per the BFRPG rules, there are some changes in the significance however. "Common" is actually a modern dialect of the Elvish language, and "Elvish" refers to an ancient, no longer used dialect. Elves know both Common and ancient Elvish. Furthermore, there is a language called Humanish, which Humans start out with.
 
-Dwarvish, Halfling, Elvish, and Common all use the Common alphabet (formerly the Elvish alphabet, renamed by the Republic).
+Humanish, Dwarvish, Halfling, Elvish, and Common all use the Common alphabet (formerly the Elvish alphabet, renamed by the Republic).
 
 These are the additional racial languages:
 - Lacertinean, the language of Lacertines (Common alphabet)
