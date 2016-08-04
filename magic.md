@@ -8,8 +8,6 @@ Divine magic is not regulated at all, unlike arcane magic, and your local neighb
 
 Because magic is not "prepared" as in the default BFRPG rules, it is suggested that you use the Liberal Casting system plus Slot Demotion available from the Magic-User Options supplement. This supplement is a more accurate portrayal of how magic works in-universe.
 
-Spell points return to the maximum amount overnight. A character's spell points is equal to the character level, plus an ability bonus. In the case of Magic-Users, the bonus is their Intelligence. In the case of Clerics, the bonus is their Wisdom. For example, a level 3 Magic-User with an Intelligence bonus of +1 will have a maximum spell points of 4.
-
 Raise Dead and Reincarnate still work as per the BFRPG rules, however doing so may raise the anger of Pastorum, who expected a new ghost to serve him. Therefore, bringing people back to life is uncommon and taboo in Maga, but still possible if they died recently and not of old age.
 
 Animate Dead for use as mindless minions such as zombies or skeletons is considered necromancy in Maga, which is outlawed. Note that Magic-Users and Clerics are still *able* to do so, but not in the open. Clerics who are known necromancers will no longer be welcome in the Church of Gora and Magic-Users who are known necromancers will lose their membership in the Mages Guild. The Silver Sword (a subfaction in the Church of Gora) actively hunts down and kills necromancers.
