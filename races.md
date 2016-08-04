@@ -182,7 +182,7 @@ These races exist in the world of Agreus, but did not join the colonization and 
 
 ### Draculs
 
-Draculs are a race of humanoid, human-sized dragons without wings. They look somewhat like Lacertines, but with the color scales of their parent dragon, and more built. Draculs have different colored scales depending on what kind of dragon they descend from. Draculs lived in Honstrad but did not colonize Maga, and are not native to Maga. For this reason, you are unlikely to meet a Dracul unless it had come from Honstrad recently.
+Draculs are a race of humanoid, human-sized dragons without wings. They look somewhat like Lacertines, but with the color scales of their parent dragon, and more built. Draculs have different colored scales depending on what kind of dragon they descend from. They also have a tendency to inherit the personality of dragons, such as sassiness and hoarding behavior. Draculs lived in Honstrad but did not colonize Maga, and are not native to Maga. For this reason, you are unlikely to meet a Dracul unless it had come from Honstrad recently.
 
 ### Mechanids
 
