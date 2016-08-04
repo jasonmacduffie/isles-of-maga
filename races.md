@@ -182,11 +182,7 @@ The races here are neither Republican nor Orc-aligned.
 
 ### Draculs
 
-Very rarely, a dragon egg will hatch a humanoid and human-sized dragon without wings, called a Dracul. They look somewhat like Lacertines, but with the color scales of their parent dragon, and more built. Draculs have a tendency to inherit the traits of dragons as well, such as sassiness and hoarding behavior. However, because they are substantially weaker than a full-size dragon, they rely much more on social relations to secure their wealth. There is an ancient legend of a powerful Orc king who was usurped by a Dracul, and the Orcs respected him for his strength. Draculs will not be recognized by most commoners, who likely never even heard of the word Dracul.
-
-### Diabols
-
-Diabols are the result of the corrupting influence of Seditionum, either directly from infection by a Soulhaunt or by having two Diabol parents. They are rare to the point of being legendary, and most commoners will have no idea what a Diabol is upon seeing one or will have even heard of a Diabol. They have various features typical of images of devils such as grey or red skin, horns, and tails. Diabols tend to congregate in communes dedicated to worshipping Seditionum.
+Draculs are a race of humanoid, human-sized dragons without wings. They look somewhat like Lacertines, but with the color scales of their parent dragon, and more built. Draculs have different colored scales depending on what kind of dragon they descend from. Draculs lived in Honstrad but did not colonize Maga, and are not native to Maga. For this reason, you are unlikely to meet a Dracul unless it had come from Honstrad recently.
 
 ### Mechanids
 
