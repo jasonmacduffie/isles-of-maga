@@ -18,7 +18,7 @@ My purpose for writing the Isles of Maga setting is to illustrate a world that a
 
 Metaphysics
 -----------
-There is only one world: the physical world that we occupy in Maga. Demonia is not in another plane of existence. Rather, it is deep underground. Portals to Demonia physically teleport what passes through it, the same as other teleportation magic. Magic is also physical: it comes from a creature's life energy, for Magic-Users through their knowledge and for Clerics through their faith.
+There is only one world: the physical world that Agreus occupies. Demonia is not in another plane of existence. Rather, it is deep underground. Portals to Demonia physically teleport what passes through it, the same as other teleportation magic. Magic is also physical: it comes from a creature's life energy, for Magic-Users through their knowledge and for Clerics through their faith.
 
 Although there is only one world, it is possible to traverse alternate timelines using magic. However, it is difficult to do so and the impact of such travel on Maga has been minimal. Only Ultimatum, Demon Lord of the End Times, has full knowledge of how these alternate timelines work and refuses to let mortals use such powerful magic for petty reasons.
 
