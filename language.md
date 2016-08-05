@@ -10,8 +10,8 @@ These are the additional racial languages:
 - Corvidinean, the language of Corvidines (Common alphabet)
 - Vespertinean, the language of Vespertines (Common alphabet)
 
-Orc-aligned racial languages:
-- Orcish, the language of Orcs, but which is commonly used by other Orc-aligned races (Orcish alphabet)
+Nativist racial languages:
+- Orcish, the language of Orcs, but which is commonly used by other Nativist races (Orcish alphabet)
 - Gnollish, the language of Gnolls (Orcish alphabet)
 - Goblinish, the language of Goblins (Orcish alphabet)
 - Koboldish, the language of Kobolds (Orcish alphabet)

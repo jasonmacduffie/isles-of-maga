@@ -140,15 +140,15 @@ Examples of names could be:
 - Chitwiiik
 - Kiblaaachi
 
-Orc-aligned Races
------------------
+Nativist Races
+--------------
 These races are hostile to both the beast-races and the major races in Maga. The Orcs are not organized like the Republic, but rather have a decentralized system of tribes. In the past these tribes tended to war with each other, but as of late they have been united in spirit and aggression is directed toward the Republic that claims ownership of their lands. However, there is still not a central administration. The other races that are aligned with Orcs also precede the colonization of Maga, and share similar stake in the conflict.
 
 ### Orcs
 
 Unlike many other settings, Orcs are not inherently bent on domination as a species. As a culture, however, a great deal of their social customs have developed from a spirit of war and conquest. Historically, the various Orc tribes would fight against each other. Today, they use their warrior spirit to battle against the Republic that claims their lands.
 
-It would also be incorrect to paint Orcs are merely misunderstood. They are perhaps the most aggressive of the intelligent races, and most likely to reject surrender, retreat, or diplomacy. Their history is painted with war, and they are known to have subjugated all of the other Orc-aligned races in a powerful civilization before the colonization began.
+It would also be incorrect to paint Orcs are merely misunderstood. They are perhaps the most aggressive of the intelligent races, and most likely to reject surrender, retreat, or diplomacy. Their history is painted with war, and they are known to have subjugated all of the other Nativist races in a powerful civilization before the colonization began.
 
 Also, Orcs are more likely to form relationships with humans than in other settings. Although it is still unlikely given the political turmoil involved, there have been a number of Half-Orcs born under loving relationships. However, these children are destined to be completely unintegrated both in Republican society, as well as Orcish society, and potentially attacked by either one.
 
@@ -158,7 +158,7 @@ Gnolls are fairly intelligent, and may be users of sword, bow, or magic dependin
 
 ### Goblins
 
-Goblins are about as intelligent as Orcs, and have a very close history with them. They are the most likely of Orc-aligned races to join them in arms, and the most integrated in Orcish society. However, they still represent a lower social caste than Orcs. Advanced Goblins, such as Hobgoblins, are of particular intelligence and skill, and make for warriors that are a match for Orcs. Although Goblins have their own culture and tradition separate from Orcs, the influence of Orcish society has been overwhelming and to some degree Goblin society has influenced Orcish culture.
+Goblins are about as intelligent as Orcs, and have a very close history with them. They are the most likely of Nativist races to join them in arms, and the most integrated in Orcish society. However, they still represent a lower social caste than Orcs. Advanced Goblins, such as Hobgoblins, are of particular intelligence and skill, and make for warriors that are a match for Orcs. Although Goblins have their own culture and tradition separate from Orcs, the influence of Orcish society has been overwhelming and to some degree Goblin society has influenced Orcish culture.
 
 #### Gnomes
 
@@ -166,7 +166,7 @@ Gnomes are a subrace of Goblins that appear much more similar to humans, but sti
 
 ### Kobolds
 
-Kobolds are not inherently aggressive, but will attack any races they do not trust out of concern for their own safety. They are far more intelligent and cunning than most other Orc-aligned races. They have a highly cohesive tribal structure which is outside of Orcish society, but also sometimes overlaps in areas where Kobolds have integrated. Kobolds are excellent ranged fighters and trappers.
+Kobolds are not inherently aggressive, but will attack any races they do not trust out of concern for their own safety. They are far more intelligent and cunning than most other Nativist races. They have a highly cohesive tribal structure which is outside of Orcish society, but also sometimes overlaps in areas where Kobolds have integrated. Kobolds are excellent ranged fighters and trappers.
 
 ### Ogres
 
@@ -174,7 +174,7 @@ Ogres form small clans, but are far less social and civilized than the Orcs. The
 
 ### Trolls
 
-Trolls do not have a warring culture like the Orcs, nor do they have a territorial nature like the Ogres. Instead, they tend to hunt the main races for the fun of the hunt. They are more animalistic than the other Orc-aligned races, but still have the ability to communicate in their own language and Orcish. Again, like the other races, their tendency to occasionally side with Orcs comes with the historical connection under the Orcish empire, and thus some are integrated well with Orcish society as warriors.
+Trolls do not have a warring culture like the Orcs, nor do they have a territorial nature like the Ogres. Instead, they tend to hunt the main races for the fun of the hunt. They are more animalistic than the other Nativist races, but still have the ability to communicate in their own language and Orcish. Again, like the other races, their tendency to occasionally side with Orcs comes with the historical connection under the Orcish empire, and thus some are integrated well with Orcish society as warriors.
 
 Non-Colonist Honstrad Races
 ---------------------------
