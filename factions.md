@@ -24,9 +24,9 @@ The Order of Ancients
 ---------------------
 The Order of Ancients is a secretive organization that is not aligned with the Republic, Monarchists, or the Orcish Tribes. Rather, they adapt to each political circumstance, and attempt to influence policy to benefit their own ends. It is unknown whether the Order of Ancients really exists, or is just a rumor.
 
-Orcish Tribes
--------------
-To this day, Orcish Tribes and their allies continue to take up arms against the Republic and refuse integration with it out of principle.
+Nativists
+---------
+Nativists are sentient races native to Maga that fought against colonization, refusing to integrate with both the Elven Kingdoms and now the Republic. To this day, Orcish Tribes and their allies continue to take up arms against the Republic and refuse integration with it out of principle. Many other races such as Goblins and Kobolds align with the Nativist cause for the same reason.
 
 Guilds
 ------
