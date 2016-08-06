@@ -22,5 +22,7 @@ Some spells are tweaked to make more sense in the setting:
 
 Anti-Demonic
 ------------
-Anti-Demonic magic is imbued with the power to cause great harm to demons. It is not divine per se; it is a physical force, no different from magical fire or the magic that powers mechanical constructs. It is possible for certain Anti-Demonic spells to harm non-demons, but still cause much greater harm to demons. Interestingly, silver weapons have a natural Anti-Demonic aura which is detectable by Detect Anti-Demonic.
+Anti-Demonic magic is imbued with the power to cause great harm to demons. It is not divine per se; it is a physical force, no different from magical fire or the magic that powers mechanical constructs. It is possible for certain Anti-Demonic spells to harm non-demons, but still cause much greater harm to demons. Interestingly, silver weapons have a natural Anti-Demonic aura which is detectable by Detect Anti-Demonic. Clerics of Gora, through their faith, give off a faint Anti-Demonic aura unintentionally. It is not strong enough to cause harm to demons but it is enough to detect using Detect Anti-Demonic. Likewise, Clerics of Demon Lords, through their faith, give off a faint Demonic aura unintentionally.
+
+
 
