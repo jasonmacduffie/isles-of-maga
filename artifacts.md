@@ -32,7 +32,7 @@ The Skull Necklace is imbued with necromantic power.
 
 ### Staff of Energiarum
 
-The Staff of Energiarum transforms the target mortal into a different creature.
+The Staff of Energiarum is a bizarre magical staff with an unpredictable effect on the target. The effect can be very damaging or very empowering, depending on the whim of the staff.
 
 Codex Gigas
 -----------
