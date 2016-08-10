@@ -58,3 +58,7 @@ Frostrend
 ---------
 Frostrend is a magical sword that deals icy damage.
 
+Sunspark
+--------
+Sunspark is a sword associated with the Church of Gora, imbued with powerful Anti-Demonic energy.
+
