@@ -1,7 +1,7 @@
 Religion
 ========
 
-Unlike many other settings there is no problem with Clerics, regardless of whether they serve Gora or a Demon Lord, to use non-blunt weapons like swords, axes, and spears. In fact, Clerics can even serve no deity if they choose, and can still cast magic with their will alone.
+Unlike many other settings there is no problem with Clerics, regardless of whether they serve Gora or a Demon Lord, to use non-blunt weapons like swords, axes, and spears. In fact, Clerics can even serve no deity if they choose, and can still cast magic through a belief in a higher power. However, the extent of this faith must be that of religious conviction, hence the religious role of Clerics.
 
 Gora
 ----
