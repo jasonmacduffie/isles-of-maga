@@ -144,6 +144,8 @@ Nativist Races
 --------------
 These races are hostile to both the beast-races and the major races in Maga. The Orcs are not organized like the Republic, but rather have a decentralized system of tribes. In the past these tribes tended to war with each other, but as of late they have been united in spirit and aggression is directed toward the Republic that claims ownership of their lands. However, there is still not a central administration. The other races that are aligned with Orcs also precede the colonization of Maga, and share similar stake in the conflict.
 
+None of these races lived on the continent of Honstrad, being native to Maga.
+
 ### Orcs
 
 Unlike many other settings, Orcs are not inherently bent on domination as a species. As a culture, however, a great deal of their social customs have developed from a spirit of war and conquest. Historically, the various Orc tribes would fight against each other. Today, they use their warrior spirit to battle against the Republic that claims their lands.
