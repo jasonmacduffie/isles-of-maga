@@ -34,6 +34,14 @@ The Skull Necklace is imbued with necromantic power.
 
 The Staff of Energiarum is a bizarre magical staff with an unpredictable effect on the target. The effect can be very damaging or very empowering, depending on the whim of the staff.
 
+### Dreadarmor (Terror)
+
+The Dreadarmor is a coat of pitch black plate armor. Anybody who sees the wearer of the Dreadarmor become terrified of the intimidating armor and will try to run away.
+
+### Doomstaff (Ultimatum)
+
+The Doomstaff will summon a Doomstruck to aid the caster.
+
 Codex Gigas
 -----------
 The Codex Gigas is a book that magically imprints its contents onto the reader, containing secret and powerful knowledge. However the book is unpredictable in what knowledge it grants to the reader.
