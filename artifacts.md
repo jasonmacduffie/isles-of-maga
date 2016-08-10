@@ -22,9 +22,9 @@ The Solar Axe is an unbreakable magical axe imbued with the power of Solum. In l
 
 The Oak Trumpet is a speaking-trumpet that allows the speaker to communicate with all animals.
 
-### Primarium
+### Gloves of the Pyromaniac (Primarium)
 
-
+The wearer of the Gloves of Pyromaniac becomes able to cast massive infernos at will to destroy their enemies.
 
 ### Skull Necklace (Pestium)
 
