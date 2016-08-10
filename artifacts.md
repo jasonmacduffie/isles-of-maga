@@ -54,5 +54,7 @@ Skeleton Key
 ------------
 The Skeleton Key can open any door.
 
-
+Frostrend
+---------
+Frostrend is a magical sword that deals icy damage.
 
