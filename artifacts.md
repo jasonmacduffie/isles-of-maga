@@ -1,6 +1,6 @@
 Artifacts
 =========
-This is by no means exhaustive, but here are some artifacts you may encounter.
+This is by no means exhaustive, but here are some artifacts you may encounter. These artifacts are unique, in that there is only one or a limited number of them in the world.
 
 Demonic Artifacts
 -----------------
