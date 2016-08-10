@@ -22,9 +22,17 @@ The Solar Axe is an unbreakable magical axe imbued with the power of Solum. In l
 
 The Oak Trumpet is a speaking-trumpet that allows the speaker to communicate with all animals.
 
-Skull Necklace
---------------
+### Primarium
+
+
+
+### Skull Necklace (Pestium)
+
 The Skull Necklace is imbued with necromantic power.
+
+### Staff of Energiarum
+
+The Staff of Energiarum transforms the target mortal into a different creature.
 
 Codex Gigas
 -----------
