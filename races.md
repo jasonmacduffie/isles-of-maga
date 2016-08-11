@@ -22,7 +22,7 @@ Elves have a much shorter lifespan in Maga than in the BFRPG rules: 300 to 400 y
 
 Halflings
 ---------
-Along with Humans, the Halflings occupy a rung on the power structure between Dwarves and Elves. They assisted with the overthrow of the Elven Kingdoms, but did not play a central role. Halflings occupy around 10% of the Electorate.
+Along with Humans, the Halflings (more formally Minikins) occupy a rung on the power structure between Dwarves and Elves. They assisted with the overthrow of the Elven Kingdoms, but did not play a central role. Halflings occupy around 10% of the Electorate.
 
 Halflings in Maga have a bit of unique character to them. While in most settings they are known for being good-natured, in Maga they are much more inclined to a life of crime than the other major races. That is not to say there are not lawful Halflings, but those ones have a reputation to overcome. The most famous pirates, brigands, and thieves have been Halfling individuals. Another distinction is that while Halflings in other settings tend to live in rural areas, in Maga there tend to be more in urban settings. There are nonetheless a decent number of Halfling farmers.
 
