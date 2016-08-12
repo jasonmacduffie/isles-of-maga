@@ -16,21 +16,3 @@ My purpose for writing the Isles of Maga setting is to illustrate a world that a
 
 - **Ocean travel:** Because the islands are quite small (a typical size being 500 or so square miles), most locations on the same island are a day's travel at most. A distant location will certainly need a boat to reach, making water travel critical in Maga. Furthermore, ancient Lacertine-built structures from before colonization dot the ocean floor, giving possibilities for extensive underwater exploration.
 
-Metaphysics
------------
-There is only one world: the physical world that Agreus occupies. Demonia is not in another plane of existence. Rather, it is deep underground. Portals to Demonia physically teleport what passes through it, the same as other teleportation magic. Magic is also physical: it comes from a creature's life energy, for Magic-Users through their knowledge and for Clerics through their faith.
-
-### Alternate Timelines
-
-Although there is only one world, it is possible to traverse alternate timelines using magic. However, it is difficult to do so and the impact of such travel on Maga has been minimal. Only Ultimatum, Demon Lord of the End Times, has full knowledge of how these alternate timelines work and refuses to let mortals use such powerful magic for petty reasons.
-
-All except one timeline are "undoomed" timelines, while the information given here describes the doomed timeline. An undoomed timeline is one that Ultimatum eventually abandons in order to shift towards the doomed timeline. Therefore Ultimatum may be present or absent in an undoomed timeline during a particular campaign. The doomed timeline is the only one with the continued presence of Ultimatum.
-
-Technology
-----------
-The technology is around that of the European middle ages, although there is room for flexibility. For example, it is possible that gunpowder has been discovered recently leading to the invention of cannons and guns.
-
-There are also magical constructs, which are machines that were animated by magic. Most constructs are mindless automatons, but there are constructs with the intelligence of the sentient races called Mechanids. These are far and few between in Maga. The reason is that nobody knows how to create Mechanids anymore, and the civilization that created the Mechanids that exist never populated Maga. Therefore, any Mechanids in Maga almost certainly came from Honstrad.
-
-The scientific study of physics, chemistry, etc. has not been established yet. Despite the influence of magic, these aspects of the physical world operate exactly as they do in the real world, and the power of magic is limited enough that science must be its own discipline. For example, it is impossible to create advanced constructs like Mechanids with magic alone; it requires a large body of scientific knowledge before it becomes possible. It is the loss of this scientific knowledge that prevents the construction of Mechanids and similar machines. The ancient society that created Mechanids distinguished between two discplines of knowledge called "esoterica" meaning magic and other secretive knowledge, and "science" meaning knowledge gained from research about the physical world.
-
