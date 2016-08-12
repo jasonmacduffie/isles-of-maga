@@ -3,6 +3,8 @@ Religion
 
 Unlike many other settings there is no problem with Clerics, regardless of whether they serve Gora or a Demon Lord, to use non-blunt weapons like swords, axes, and spears. In fact, Clerics can even serve no deity if they choose, and can still cast magic through a belief in a higher power. However, the extent of this faith must be that of religious conviction, hence the religious role of Clerics.
 
+Religion is one of the ways people are tied together. Often times those who come from conflicting political backgrounds, such as Orcs and citizens of the Republic, will not fight each other if they are loyal to the same deity.
+
 Gora
 ----
 The "good" religion in Maga is monotheistic, worshipping the deity called Gora. However, Gora does not actively perform miracles, and the power of Clerics, like Magic-Users, comes from their life energy rather than a blessing from Gora. In fact, there is no physical evidence that Gora exists, but rather his existence is based on an oral tradition dating thousands of years that eventually became a written tradition and organized into churches.
