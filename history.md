@@ -55,3 +55,12 @@ Elven structures were often abandoned, destroyed, or repurposed during the revol
 The Republic is a federated state divided into a large number of provinces, each of which manages its own subregions in a similar fashion. However, the provinces have less control over their population than the Kingdoms did, and some areas have become retaken by Orcs and other native creatures. Some areas are fairly isolated, and are part of the Republic in name only.
 
 The Republic continued the goal of the Elves to stamp out demon worship. However, their task was not as great due to the work already accomplished. The main area of focus was the beast-races and their patron Demon Lords, now that they were considered full citizens of the Republic.
+
+3E: The Confederated States of Maga (future)
+--------------------------------------------
+This describes the future of the doomed timeline, but there are many alternate timelines as well.
+
+The Orcs organize enough to overthrow the Republic and form a confederation. At the beginning of the era, there is also a short-lived Elven empire.
+
+At the end of this era, the isles begin to flood until there is less and less hospitable land. The races are forced to return to Honstrad.
+
