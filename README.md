@@ -12,7 +12,7 @@ A bestiary was omitted. There are more than enough monsters in the Fantasy Field
 
 **What is a Doombound?** A Doombound is a mortal that is chosen by Ultimatum to force a timeline shift when he cannot manage with his power alone.
 
-License: CC BY-SA 4.0+. See LICENSE for details.
+License: CC BY-SA 4.0+. See LICENSE for details. Also, you have permission to distribute any content here as part of a larger OGL-licensed work.
 
 1. [Atmosphere](atmosphere.md)
 2. [Cosmology](cosmology.md)
