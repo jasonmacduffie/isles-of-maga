@@ -70,6 +70,8 @@ Those who break any one of these rules is expelled.
 
 The Assassins Guild is much more underground than the Thieves Guild, and authorities generally have zero tolerance for them. Few towns have actual "halls" for the Assassins Guild, and they tend to be located in the wilderness. Contact with the Assassins Guild to hire a contract is done through a magic ritual that summons an assassin remotely to decide the details of the contract.
 
+Joining the Assassins Guild is tricky business, as you cannot ask around town where the guild hall is. Using the ritual to summon them is unlikely to gain their attention, as they are quite selective in who they allow to join. Instead, it is more likely that a guild member will see something promisingly cold-blooded in an individual and initiate contact. If the individual refuses, contact is severed and that is the end of it. Otherwise, there may be a trial to see if the person is worthy of joining the guild.
+
 Church of Gora
 --------------
 The Church of Gora is the collective name for the adherents and clergy of the worship of Gora, the only officially recognized religion in Maga. Gora worshippers will sometimes go on missions to convert members of beast-races throughout Maga, who often times worship Demon Lords.
