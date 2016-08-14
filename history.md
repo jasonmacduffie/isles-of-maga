@@ -40,7 +40,7 @@ Before the first era began, the various Elven kings controlled most of Maga, exc
 ----------------------
 The beginning of the first era saw the first unification of the races under one banner: the banner of the Elves. This unification marks the first era. There was not a centralized government, but a number of allied kingdoms, each with an Elf as monarch. Elvish was the Common language, although this was not strictly enforced and many regions had the majority race's language as a co-official language. Each race was still free to use its own alphabet for their language.
 
-This era also saw the greatest attempt to completely stamp out demon worship. By the end of the first era, worship of Demon Lords among Humans, Dwarves, Elves, and Halflings was nearly completely obliterated, and all worshipped the more abstract deity Gora. Less effort was put into stamping out worship among the beast-races due to the fact that they were not integrated as citizens, although some minor missions were carried out.
+This era also saw the greatest attempt to completely stamp out demon worship. By the end of the first era, worship of Demon Lords among Humans, Dwarves, Elves, and Halflings was nearly completely obliterated, and all worshipped the more abstract deity Gora. Less effort was put into stamping out worship among the beast-races due to the fact that they were not integrated as citizens, although some minor missions were carried out. Coinciding this was the rise of the United Church of Gora, which dominated the region and attempted to stifle other churches by declaring them heretical.
 
 Although in the beginning the Elven kings and queens were careful to be even-handed, the descendants who would inherit their thrones became increasingly unconcerned with the needs of their subjects. Many of the monarchs during the end of the period were incredibly harsh, even to Humans who held the highest positions in society besides Elves. Halfling farmers and Dwarf miners were taxed more and more onerously.
 
@@ -54,7 +54,7 @@ Elven structures were often abandoned, destroyed, or repurposed during the revol
 
 The Republic is a federated state divided into a large number of provinces, each of which manages its own subregions in a similar fashion. However, the provinces have less control over their population than the Kingdoms did, and some areas have become retaken by Orcs and other native creatures. Some areas are fairly isolated, and are part of the Republic in name only.
 
-The Republic continued the goal of the Elves to stamp out demon worship. However, their task was not as great due to the work already accomplished. The main area of focus was the beast-races and their patron Demon Lords, now that they were considered full citizens of the Republic.
+The churches of Gora split apart at the beginning of the era, and the power of the United Church waned significantly. Instead each church of Gora had its own interpretation of the holy book, and were called Wordist denominations. Now the United Church is mostly recognized by Elves alone. The various churches continued the goal of the United Church to stamp out demon worship. However, their task was not as great due to the work already accomplished. The main area of focus was the beast-races and their patron Demon Lords, now that they were considered full citizens of the Republic.
 
 3E: The Confederated States of Maga (future)
 --------------------------------------------
