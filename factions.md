@@ -92,6 +92,11 @@ Vampire Clans
 -------------
 Vampires will sometimes form clans.
 
-Bandit/Pirate Groups and Crime Syndicates
------------------------------------------
-Aside from the Thieves Guild, there are a number of bandit and pirates that group together, as well as organized crime syndicates. They are not named here, but they are not uncommon in the less ruly parts of Maga.
+Crime Factions
+--------------
+Aside from the Thieves Guild, there are a number of bandit and pirates that group together, as well as organized crime syndicates. They are not uncommon in the less ruly parts of Maga.
+
+### Firebeard the Pirate
+
+Firebeard is a Halfling Fighter/Magic-User that roams the high seas with his crew. He has been terrorizing the seas and plundering for decades, and has yet to be even close to captured.
+
