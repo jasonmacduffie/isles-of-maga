@@ -6,7 +6,7 @@ Republicans
 -----------
 ![Republic Flag](republic_flag.png)
 
-Republican is a general term for those politically aligned with the Modern Republic. This includes loyal citizens of the Republic, public officials, and organizations employed by the Republic.
+Republican is a general term for those politically aligned with the Modern Republic. This includes loyal citizens of the Republic, public officials, and organizations employed by the Republic. The symbol of the Republic is a sun and moon fused together, representing the unity of races that cooperated in overthrowing the Elven Kingdoms.
 
 ### The Order of Skulls
 
@@ -18,7 +18,7 @@ The Moonguard, unlike the Order of Skulls, is an officially recognized organizat
 
 Monarchists
 -----------
-A significant number of Elves, and some Humans, still advocate the return of the Elven Kingdoms. These people are known as monarchists. While advocating monarchism is not illegal, it is cause for suspicion, and even minor rouses to action can be a basis for arrest. Many monarchists go further, plotting the overthrow of the Republic. Although they are not representative of the general public feeling, there are enough monarchists to present a real threat if they become organized.
+A significant number of Elves, and some Humans, still advocate the return of the Elven Kingdoms. These people are known as monarchists. While advocating monarchism is not illegal, it is cause for suspicion, and even minor rouses to action can be a basis for arrest. Many monarchists go further, plotting the overthrow of the Republic. Although they are not representative of the general public feeling, there are enough monarchists to present a real threat if they become organized. The symbol of the monarchists is a crescent moon, which is an ancient magical symbol strongly associated with the Elves and sometimes Gora.
 
 The Order of Ancients
 ---------------------
