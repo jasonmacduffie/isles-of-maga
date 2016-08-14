@@ -82,7 +82,7 @@ Wordists are the majority of churches of Gora that interpret the nature of Gora 
 
 ### The Silver Sword
 
-The Silver Sword is an organization dedicated to hunting demon worshippers, necromancy, vampires, werewolves, and other creatures they deem unholy. They specialize in anti-demonic magic, and wield silver weapons known for their anti-demonic properties.
+The Silver Sword is an organization dedicated to hunting demon worshippers, necromancy, vampires, werewolves, and other creatures they deem unholy. They specialize in anti-demonic magic, and wield silver weapons known for their anti-demonic properties. The Silver Sword originated in the United Church, but has emerged as its own entity, cooperating with local churches and performing missions abroad.
 
 Demonic Cults
 -------------
