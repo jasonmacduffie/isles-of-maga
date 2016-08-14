@@ -72,6 +72,14 @@ Church of Gora
 --------------
 The Church of Gora is the collective name for the adherents and clergy of the worship of Gora, the only officially recognized religion in Maga. Gora worshippers will sometimes go on missions to convert members of beast-races throughout Maga, who often times worship Demon Lords.
 
+### The United Church
+
+The United Church is formerly the only acceptable church of Gora. However, it has fallen into irrelevance after the revolution and most members are Elves. They are lead by a Church Father that is appointed by the clergy.
+
+### The Wordists
+
+Wordists are the majority of churches of Gora that interpret the nature of Gora from the holy book itself, instead of authority from the Church Father. Each Wordist denomination has its own interpretation of Gora, but they manage to coexist despite their disagreements.
+
 ### The Silver Sword
 
 The Silver Sword is an organization dedicated to hunting demon worshippers, necromancy, vampires, werewolves, and other creatures they deem unholy. They specialize in anti-demonic magic, and wield silver weapons known for their anti-demonic properties.
