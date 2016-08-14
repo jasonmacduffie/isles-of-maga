@@ -34,7 +34,9 @@ There are a number of trade associations, called guilds, in Maga. They are not a
 
 ### Mercenaries Guild
 
-The Mercenaries Guild is an organization sanctioned by the Republic to take contracts that require violence to resolve.
+The Mercenaries Guild is an organization sanctioned by the Republic to take contracts that require violence to resolve. The organization is responsible for managing the contracts and distributing them to properly trained individuals or groups. For this service the Mercenaries Guild takes a minor cut of the money. They cover many different kinds of jobs, from rat extermination to demon hunting. The Mercenaries Guild dislikes competition, and will try to forcibly shut down organizations with similar goals.
+
+The only major rule of the Mercenaries Guild is that you must have a clean record with the Republic, as a Republic-sanctioned organization. If you commit a serious crime during a contract, it is a sure ticket to expulsion.
 
 ### Mages Guild
 
@@ -66,7 +68,7 @@ Those who break any one of these rules is expelled.
 
 ### Assassins Guild
 
-The Assassins Guild is much more underground than the Thieves Guild, and authorities generally have zero tolerance for them. Few towns have actual "halls" for the Assassins Guild, and they tend to be located in the wilderness. Contact with the Assassins Guild to hire a contract is done through a magic ritual that summons an assassin to assist.
+The Assassins Guild is much more underground than the Thieves Guild, and authorities generally have zero tolerance for them. Few towns have actual "halls" for the Assassins Guild, and they tend to be located in the wilderness. Contact with the Assassins Guild to hire a contract is done through a magic ritual that summons an assassin remotely to decide the details of the contract.
 
 Church of Gora
 --------------
