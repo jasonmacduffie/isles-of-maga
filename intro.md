@@ -14,13 +14,15 @@ For new players, this contains the most critical information necessary to unders
 
 Races
 -----
-- **Humans:** Humans enjoyed some degree of privilege under the Elven Kingdoms, though not as high as the Elves. Many Humans supported the revolution, but more than a few were loyal to the Kingdoms.
+Note that Humans, Dwarves, Elves, Halflings, Orcs, and Ogres are a single species and are fully viable with each other. However, mixing among the races is highly taboo, and therefore there are very few such unions.
 
-- **Dwarves:** Dwarves have a long history of conflict with the Elves, and were greatly oppressed under the Kingdoms. They were the ones who lead the revolution, and now have the greatest sway in the Republic.
+- **Humans:** Humans enjoyed some degree of privilege under the Elven Kingdoms, though not as high as the Elves. Many Humans supported the revolution, but more than a few were loyal to the Kingdoms. Humans live to around 75 years.
 
-- **Elves:** After centuries out of power, the Elves have been disgraced. Although most accept the Republic and want to move one, there are a number of monarchists attempting to revive the old Elven Kingdoms.
+- **Dwarves:** Dwarves have a long history of conflict with the Elves, and were greatly oppressed under the Kingdoms. They were the ones who lead the revolution, and now have the greatest sway in the Republic. Dwarves live to around 350 years.
 
-- **Halflings:** Halflings participated in the revolution to increase the influence of the Thieves Guild in Maga, which has a disproportionate number of Halfling members. There are many legendary pirates and bandits that were Halflings.
+- **Elves:** After centuries out of power, the Elves have been disgraced. Although most accept the Republic and want to move one, there are a number of monarchists attempting to revive the old Elven Kingdoms. Elves live to around 350 years.
+
+- **Halflings:** Halflings participated in the revolution to increase the influence of the Thieves Guild in Maga, which has a disproportionate number of Halfling members. There are many legendary pirates and bandits that were Halflings. Halflings live to around 75 years.
 
 - **Beast-Races:** The beast-races, although citizens, do not enjoy much political power and are treated as second-class citizens. Many are only partially integrated with the Republic, and still live in their tribal communities.
 
