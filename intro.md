@@ -8,7 +8,7 @@ For new players, this contains the most critical information necessary to unders
 
 - **Cosmology:** There is only one plane of existence, the physical universe that the world of Agreus occupies. There are, however, alternate timelines that can be traversed to some degree. Magic is also a physical force, coming from an individual's life-energy.
 
-- **Nativists:** The natives of the islands include Orcs, Goblins, and Ogres, who will attack Republican towns to reclaim their land. They are not evil, but will generally attack Republican races.
+- **Nativists:** The natives of the islands include Orcs, Goblins, and Ogres, who will attack Republican towns to reclaim their land. They are not evil, but will generally attack Republican races. Note that Gnomes are a subrace of Goblins that are especially attuned to magic.
 
 - **Mages Guild:** Arcane magic is illegal except for members of the Mages Guild. Members are required to report magical findings to the guild in order to maintain membership.
 
@@ -22,7 +22,7 @@ Note that Humans, Dwarves, Elves, Halflings, Orcs, and Ogres are a single specie
 
 - **Elves:** After centuries out of power, the Elves have been disgraced. Although most accept the Republic and want to move one, there are a number of monarchists attempting to revive the old Elven Kingdoms. Elves live to around 350 years.
 
-- **Halflings:** Halflings participated in the revolution to increase the influence of the Thieves Guild in Maga, which has a disproportionate number of Halfling members. There are many legendary pirates and bandits that were Halflings. Halflings live to around 75 years.
+- **Halflings:** Halflings (formally Minikins) participated in the revolution to increase the influence of the Thieves Guild in Maga, which has a disproportionate number of Halfling members. There are many legendary pirates and bandits that were Halflings. Halflings live to around 75 years.
 
 - **Beast-Races:** The beast-races, although citizens, do not enjoy much political power and are treated as second-class citizens. Many are only partially integrated with the Republic, and still live in their tribal communities.
 
