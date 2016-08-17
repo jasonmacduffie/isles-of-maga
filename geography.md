@@ -8,4 +8,4 @@ All of Maga is governed by the Modern Republic since the start of the Second Era
 
 While all of Maga is claimed by the Republic, there are many pockets of resistance from many sources: demon worshippers, nativists, and monarchists are just a few examples. The Republic does not have total control of all the islands, and some could be said to technically have governments of their own. However, such locations will always be under constant threat from the Republic enforcing its sovereignty.
 
-The official name for Republic-minted coins made of gold, silver, and copper respectively are orims, silubrims, and cuprims, respectively. Platinum and electrum coins are not minted by the Republic, and are not used as currency.
+The official name for Republic-minted coins made of gold, silver, and copper respectively are orims, silbrims, and cuprims, respectively. Platinum and electrum coins are not minted by the Republic, and are not used as currency.
