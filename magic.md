@@ -36,7 +36,7 @@ Maga has spells unique to the setting.
 
 Cleric, 1
 
-Once per day, a Cleric can bind a weapon to the Cleric's soul without cost. The binding never expires, and the binding may be dismissed by the Cleric at any time. The binding can be broken by casting Dispel Magic. This spell summons the weapon to the Cleric's hand instantly through teleportation.
+A Cleric can bind a weapon to his or her soul without cost, provided some time has been spent bonding with the weapon. The binding never expires, and the binding may be dismissed by the Cleric at any time. The binding can be broken by casting Dispel Magic. This spell summons the weapon to the Cleric's hand instantly through teleportation.
 
 ### Ghost Blade
 
