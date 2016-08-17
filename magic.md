@@ -51,5 +51,5 @@ The Magic-User equips a blade of magic from their hand. This weapon may be of va
 - Longsword-length: 1d8 damage
 - Two-Handed sword-length: 1d10 damage (must be held in both hands)
 
-The weapon itself has no weight. If the Magic-User lets go of the weapon, it disappears. The weapon can also be destroyed by Dispel Magic. At the end of the duration, the weapon vanishes.
+The weapon itself has no weight. If the Magic-User lets go of the weapon, it disappears. The weapon can also be destroyed by Dispel Magic. At the end of the duration, the weapon vanishes. The weapon is magical, and can do damage to ghosts.
 
