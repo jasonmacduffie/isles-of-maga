@@ -24,5 +24,32 @@ Anti-Demonic
 ------------
 Anti-Demonic magic is imbued with the power to cause great harm to demons. It is not divine per se; it is a physical force, no different from magical fire or the magic that powers mechanical constructs. It is possible for certain Anti-Demonic spells to harm non-demons, but still cause much greater harm to demons. Interestingly, silver weapons have a natural Anti-Demonic aura which is detectable by Detect Anti-Demonic. Clerics of Gora, through their faith, give off a faint Anti-Demonic aura unintentionally. It is not strong enough to cause harm to demons but it is enough to detect using Detect Anti-Demonic. Likewise, Clerics of Demon Lords, through their faith, give off a faint Demonic aura unintentionally. Clerics without a deity give no such aura.
 
+Furthermore, Clerics of Gora cannot wield Demonic artifacts and Clerics of Demon Lords cannot wield Anti-Demonic artifacts. Note that it is possible to touch the artifact without being harmed, but it cannot be equipped for its effect.
+
 Undead creatures are considered demonic, and are harmed by Anti-Demonic magic.
+
+New Spells
+----------
+Maga has spells unique to the setting.
+
+### Summon Bound Weapon
+
+Cleric, 1
+
+Once per day, a Cleric can bind a weapon to the Cleric's soul without cost. The binding never expires, and the binding may be dismissed by the Cleric at any time. The binding can be broken by casting Dispel Magic. This spell summons the weapon to the Cleric's hand instantly through teleportation.
+
+### Ghost Blade
+
+Magic-User, 1
+
+Duration: 1 round/level
+
+The Magic-User equips a blade of magic from their hand. This weapon may be of various sizes, as long as that weapon can be equipped by the caster. The damage changes based on the length of the blade.
+
+- Dagger-length: 1d4 damage
+- Shortsword-length: 1d6 damage
+- Longsword-length: 1d8 damage
+- Two-Handed sword-length: 1d10 damage (must be held in both hands)
+
+The weapon itself has no weight. If the Magic-User lets go of the weapon, it disappears. The weapon can also be destroyed by Dispel Magic. At the end of the duration, the weapon vanishes.
 
