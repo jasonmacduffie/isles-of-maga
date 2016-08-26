@@ -8,6 +8,8 @@ Divine magic is not regulated at all, unlike arcane magic, and your local neighb
 
 Magic is not "prepared" as in the default BFRPG rules, and is much closer to the way the Sorcerer supplement works (i.e. mana points). However, feel free to use the default magic system or liberal casting as an abstraction for the purpose of keeping balance. Furthermore a spellbook is technically unnecessary for a Magic-User, although it may be useful to carry a grimoire for knowledge the Magic-User cannot remember.
 
+Read Magic is not a separate spell for Magic-Users, and instead they can simply understand spellbooks or scrolls by looking at them. There is not a separate language for magical texts, and the Magic-User will need to understand the language the book or scroll is written in. Likewise, Read Languages works perfectly well on scrolls and spellbooks.
+
 Raise Dead and Reincarnate still work as per the BFRPG rules, however doing so may raise the anger of Pastorum, who expected a new ghost to serve him. Therefore, bringing people back to life is uncommon and taboo in Maga, but still possible if they died recently and not of old age.
 
 Animate Dead for use as mindless minions such as zombies or skeletons is considered necromancy in Maga, which is outlawed. Note that Magic-Users and Clerics are still *able* to do so, but not in the open. Clerics who are known necromancers will no longer be welcome in the Church of Gora and Magic-Users who are known necromancers will lose their membership in the Mages Guild. The Silver Sword (a subfaction in the Church of Gora) actively hunts down and kills necromancers.
