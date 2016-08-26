@@ -8,7 +8,7 @@ Most spell casters, both divine and arcane, are women. In ancient times spell ca
 
 Divine magic is not regulated at all, unlike arcane magic, and your local neighborhood priest probably knows a healing spell or two. The Mages Guild holds no responsibility for the magic of Clerics.
 
-Because magic is not "prepared" as in the default BFRPG rules, it is suggested that you use the Liberal Casting system plus Slot Demotion available from the Magic-User Options supplement. This supplement is a more accurate portrayal of how magic works in-universe. Count the spell "Read Magic" as giving the Magic-User an addition level 1 slot (so a level 1 Magic-User has two level 1 slots). This also means that a spellbook is technically unnecessary for a Magic-User, although it may be useful to carry a grimoire for knowledge the Magic-User cannot remember.
+Magic is not "prepared" as in the default BFRPG rules, and is much closer to the way the Sorcerer supplement works (i.e. mana points). However, feel free to use the default magic system or liberal casting as an abstraction for the purpose of keeping balance. Furthermore a spellbook is technically unnecessary for a Magic-User, although it may be useful to carry a grimoire for knowledge the Magic-User cannot remember.
 
 Raise Dead and Reincarnate still work as per the BFRPG rules, however doing so may raise the anger of Pastorum, who expected a new ghost to serve him. Therefore, bringing people back to life is uncommon and taboo in Maga, but still possible if they died recently and not of old age.
 
