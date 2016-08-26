@@ -55,3 +55,9 @@ The Magic-User equips a blade of magic from their hand. This weapon may be of va
 
 The weapon itself has no weight. If the Magic-User lets go of the weapon, it disappears. The weapon can also be destroyed by Dispel Magic. At the end of the duration, the weapon vanishes. The weapon is magical, and can do damage to ghosts.
 
+Psykers
+-------
+Just as Clerics access divine magic through faith, and Magic-Users access arcane magic through esoterica, there is a third kind of spell caster called a Psyker that can use psionic magic through willpower. For this reason, they use the Charisma ability to measure their force of personality as their primary ability. There are no "sorcerers" as a separate class in Maga, but Psykers are conceptually close to the sorcerer.
+
+Psykers are very uncommon, thus there is no legal regulation of psionic magic. For these people, casting spells is an innate gift allowing them to transform the world around them at will.
+
