@@ -162,6 +162,8 @@ Gnolls are fairly intelligent, and may be users of sword, bow, or magic dependin
 
 Goblins are about as intelligent as Orcs, and have a very close history with them. They are the most likely of Nativist races to join them in arms, and the most integrated in Orcish society. However, they still represent a lower social caste than Orcs. Advanced Goblins, such as Hobgoblins, are of particular intelligence and skill, and make for warriors that are a match for Orcs. Although Goblins have their own culture and tradition separate from Orcs, the influence of Orcish society has been overwhelming and to some degree Goblin society has influenced Orcish culture.
 
+Goblins originally lived underground, and many still do. However after the Orcish civilization controlled Maga they tended to live above ground.
+
 #### Gnomes
 
 Gnomes are a subrace of Goblins that appear much more similar to humans, but still have more resemblance to Goblins than in other settings. They are much more magically inclined than other Goblins.
