@@ -9,3 +9,23 @@ All of Maga is governed by the Modern Republic since the start of the Second Era
 While all of Maga is claimed by the Republic, there are many pockets of resistance from many sources: demon worshippers, nativists, and monarchists are just a few examples. The Republic does not have total control of all the islands, and some could be said to technically have governments of their own. However, such locations will always be under constant threat from the Republic enforcing its sovereignty.
 
 The official name for Republic-minted coins made of gold, silver, and copper respectively are orims, silbrims, and cuprims, respectively. Platinum and electrum coins are not minted by the Republic, and are not used as currency.
+
+Underground
+-----------
+Beneath the surface, there are civilizations of various races living in the earth. Based on how deep you are, there will be different species one encounters.
+
+### Near Neath
+
+For the first few hundred feet exists the Near Neath. This is where Dwarves, Goblins, and other common underground races tend to live. Most do not stay permanently here, and make frequent trips to the surface.
+
+### Middle Neath
+
+Less common underground races live in the Middle Neath, and rarely travel to the surface.
+
+### Far Neath
+
+The Far Neath separates the Neath from Demonia, and is completely unpopulated. As one goes deeper and deeper, the earth becomes unhospitably warm.
+
+### Demonia
+
+Demonia refers to the various realms of the Demon Lords, located farther underground than the Far Neath.
