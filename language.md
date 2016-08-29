@@ -18,7 +18,7 @@ Nativist racial languages:
 - Trollish, the language of Trolls (Orcish alphabet)
 
 More exotic languages:
-- Demonic, the language of Demons (Demonic alphabet)
+- Demonish, the language of Demons (Demonish alphabet)
 - Dragonish, the language of Dragons (Dragonish alphabet)
 - Giantish, the language of Giants (Giantish alphabet)
 - Sylvish, the language of Dryads and Treants (Demonic alphabet)
