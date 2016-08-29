@@ -24,8 +24,8 @@ Less common underground races live in the Middle Neath, and rarely travel to the
 
 ### Far Neath
 
-The Far Neath separates the Neath from Demonia, and is completely unpopulated. As one goes deeper and deeper, the earth becomes unhospitably warm.
+The Far Neath is part of the crust that is kept warm by the planet's mantle. As one goes deeper and deeper, the earth becomes unhospitably warm.
 
 ### Demonia
 
-Demonia refers to the various realms of the Demon Lords, located farther underground than the Far Neath.
+Demonia refers to the various realms of the Demon Lords, located farther underground than the mantle.
