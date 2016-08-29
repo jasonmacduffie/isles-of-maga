@@ -184,6 +184,10 @@ These races exist in the world of Agreus, but did not join the colonization and 
 
 Draculs are a race of humanoid, human-sized dragons without wings. They look somewhat like Lacertines, but with the color scales of their parent dragon, and more built. Draculs have different colored scales depending on what kind of dragon they descend from. They also have a tendency to inherit the personality of dragons, such as sassiness and hoarding behavior. Draculs lived in Honstrad but did not colonize Maga, and are not native to Maga. For this reason, you are unlikely to meet a Dracul unless it had come from Honstrad recently.
 
+### Iavols
+
+Iavols are a race a humanoids with devilish features. Like the Draculs the Iavols had their own kingdoms on Honstrad but are not generally found in Maga.
+
 ### Mechanids
 
 Mechanids are ancient constructs made of metal, kept alive by magic that is long forgotten. However, there were never Mechanids in Maga, so any that you encounter almost certainly arrived from Honstrad recently. Even though Mechanids have intelligence on the level of a human being, they are still highly goal-oriented and do not have "free will" in a sense we would easily recognize. A Mechanid cannot simple "overcome" its reason for existing. One of the dangers of Mechanids is that some were created for war, and continue to fight for their nations despite the fact that their constructors perished long ago. Because nobody knows how to construct Mechanids, and their ancient constructors are not from Maga, you are very unlikely to encounter a Mechanid although one or two may be around somewhere. Most people do not know what a Mechanid is, and will not recognize one upon sight.
