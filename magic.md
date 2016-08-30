@@ -55,6 +55,12 @@ The Magic-User equips a blade of magic from their hand. This weapon may be of va
 
 The weapon itself has no weight. If the Magic-User lets go of the weapon, it disappears. The weapon can also be destroyed by Dispel Magic. At the end of the duration, the weapon vanishes. The weapon is magical, and can do damage to ghosts.
 
+### Soul Trap
+
+Magic-User, 6
+
+The soul of the target creature is trapped in a gem in the caster's inventory upon death. More powerful and complex souls require larger gems to contain them. These gems are required for enchanting items and constructs.
+
 Psykers
 -------
 Just as Clerics access divine magic through faith, and Magic-Users access arcane magic through esoterica, there is a third kind of spell caster called a Psyker that can use psionic magic through willpower. For this reason, they use the Charisma ability to measure their force of personality as their primary ability. There are no "sorcerers" as a separate class in Maga, but Psykers are conceptually close to the sorcerer.
@@ -62,4 +68,8 @@ Just as Clerics access divine magic through faith, and Magic-Users access arcane
 Psykers are very uncommon, thus there is no legal regulation of psionic magic. For these people, casting spells is an innate gift allowing them to transform the world around them at will.
 
 There is no separation of psionics from other forms of magic, and their resource is still the "life-energy" that is the resource of Clerics and Magic-Users. Likewise, casting "detect magic" will work just as well on psionic magic as other kinds of magic.
+
+Enchanting
+----------
+Enchanting permanently adds magical effects to mundane items, or can create self-moving constructs. The process of enchanting requires a gem containing a soul, and the size of the soul contained will impact how powerful the enchantment may be.
 
