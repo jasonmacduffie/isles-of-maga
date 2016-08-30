@@ -57,9 +57,9 @@ The weapon itself has no weight. If the Magic-User lets go of the weapon, it dis
 
 ### Soul Trap
 
-Magic-User, 6
+Magic-User, 2
 
-The soul of the target creature is trapped in a gem in the caster's inventory upon death. More powerful and complex souls require larger gems to contain them. These gems are required for enchanting items and constructs.
+The soul of the target creature is trapped in a gem in the caster's inventory upon death. More powerful and complex souls require larger gems to contain them. These gems are required for enchanting items and constructs. Only the souls of animals can be captured with this spell, not the souls of intelligent creatures like Humans. An advanced spell is required to trap the souls of the sentient races.
 
 Psykers
 -------
