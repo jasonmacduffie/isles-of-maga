@@ -62,11 +62,11 @@ Magic-User, 2
 The soul of the target creature is trapped in a gem in the caster's inventory upon death. More powerful souls require larger gems to contain them, which is measured by number of hit dice. These gems are required for enchanting items and constructs. Only the souls of animals can be captured with this spell, not the souls of intelligent creatures like Humans. An advanced spell is required to trap the souls of the sentient races.
 
 - Hit dice, volume gem required, name of soul
-- 4 and below, 1 cm^3, "Tiny Soul"
-- 5 to 6, 4 cm^3, "Small Soul"
-- 7 to 8, 9 cm^3, "Medium Soul"
-- 9 to 10, 16 cm^3, "Large Soul"
-- 10 and above, 25 cm^3, "Huge Soul"
+- 4 and below, 2 cm^3, "Tiny Soul"
+- 5 to 6, 8 cm^3, "Small Soul"
+- 7 to 8, 18 cm^3, "Medium Soul"
+- 9 to 10, 32 cm^3, "Large Soul"
+- 10 and above, 50 cm^3, "Huge Soul"
 
 Sentient races have their own soul size, which is a step above Huge called "Complex Soul" but cannot be trapped with this spell.
 
