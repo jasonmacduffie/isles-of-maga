@@ -59,7 +59,16 @@ The weapon itself has no weight. If the Magic-User lets go of the weapon, it dis
 
 Magic-User, 2
 
-The soul of the target creature is trapped in a gem in the caster's inventory upon death. More powerful and complex souls require larger gems to contain them. These gems are required for enchanting items and constructs. Only the souls of animals can be captured with this spell, not the souls of intelligent creatures like Humans. An advanced spell is required to trap the souls of the sentient races.
+The soul of the target creature is trapped in a gem in the caster's inventory upon death. More powerful souls require larger gems to contain them, which is measured by number of hit dice. These gems are required for enchanting items and constructs. Only the souls of animals can be captured with this spell, not the souls of intelligent creatures like Humans. An advanced spell is required to trap the souls of the sentient races.
+
+- Hit dice, volume gem required, name of soul
+- 4 and below, 1 cm^3, "Tiny Soul"
+- 5 to 6, 4 cm^3, "Small Soul"
+- 7 to 8, 9 cm^3, "Medium Soul"
+- 9 to 10, 16 cm^3, "Large Soul"
+- 10 and above, 25 cm^3, "Huge Soul"
+
+Sentient races have their own soul size, which is a step above Huge called "Complex Soul" but cannot be trapped with this spell.
 
 Psykers
 -------
@@ -72,4 +81,12 @@ There is no separation of psionics from other forms of magic, and their resource
 Enchanting
 ----------
 Enchanting permanently adds magical effects to mundane items, or can create self-moving constructs. The process of enchanting requires a gem containing a soul, and the size of the soul contained will impact how powerful the enchantment may be.
+
+- Size of soul, maximum points of effect
+- Tiny, 1
+- Small, 2
+- Medium, 3
+- Large, 4
+- Huge, 5
+- Complex, 6
 
