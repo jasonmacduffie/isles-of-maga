@@ -168,6 +168,8 @@ Goblins originally lived underground, and many still do. However after the Orcis
 
 Gnomes are a subrace of Goblins that appear much more similar to humans, but still have more resemblance to Goblins than in other settings. They are much more magically inclined than other Goblins.
 
+Gnomes generally have blue hair.
+
 ### Ogres
 
 Ogres form small clans, but are far less social and civilized than the Orcs. They tend to live in the woods, caves, or vacant ruins rather than to construct their own buildings. They are aggressive in a territorial way, but do not actively engage in battle with the Republic unless sided with an Orc tribe. They are not intelligent enough to understand the complex politics involved, and just tend to side with Orcs because of their historical connection under the Orcish empire.
