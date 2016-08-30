@@ -59,7 +59,7 @@ The weapon itself has no weight. If the Magic-User lets go of the weapon, it dis
 
 Magic-User, 2
 
-The soul of the target creature is trapped in a gem in the caster's inventory upon death. More powerful souls require larger gems to contain them, which is measured by number of hit dice. These gems are required for enchanting items and constructs. Only the souls of animals can be captured with this spell, not the souls of intelligent creatures like Humans. An advanced spell is required to trap the souls of the sentient races.
+The soul of the target creature is trapped in a gem in the caster's inventory upon death. More powerful souls require larger gems to contain them, which is measured by number of hit dice. These gems are required for enchanting items and constructs. Only the souls of animals can be captured with this spell, not the souls of intelligent creatures like Humans. An advanced spell is required to trap the souls of the sentient races. The gem used must be rather high quality, but does not need to be perfect. Quartz is often used.
 
 - Hit dice, volume gem required, name of soul
 - 4 and below, 2 cm^3, "Tiny Soul"
