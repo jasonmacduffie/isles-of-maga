@@ -15,7 +15,6 @@ Nativist racial languages:
 - Gnollish, the language of Gnolls (Orcish alphabet)
 - Goblinish, the language of Goblins (Orcish alphabet)
 - Ogrish, the language of Ogres (Orcish alphabet)
-- Trollish, the language of Trolls (Orcish alphabet)
 
 More exotic languages:
 - Demonish, the language of Demons (Demonish alphabet)

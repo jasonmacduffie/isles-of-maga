@@ -174,10 +174,6 @@ Gnomes generally have blue hair.
 
 Ogres form small clans, but are far less social and civilized than the Orcs. They tend to live in the woods, caves, or vacant ruins rather than to construct their own buildings. They are aggressive in a territorial way, but do not actively engage in battle with the Republic unless sided with an Orc tribe. They are not intelligent enough to understand the complex politics involved, and just tend to side with Orcs because of their historical connection under the Orcish empire.
 
-### Trolls
-
-Trolls do not have a warring culture like the Orcs, nor do they have a territorial nature like the Ogres. Instead, they tend to hunt the main races for the fun of the hunt. They are more animalistic than the other Nativist races, but still have the ability to communicate in their own language and Orcish. Again, like the other races, their tendency to occasionally side with Orcs comes with the historical connection under the Orcish empire, and thus some are integrated well with Orcish society as warriors.
-
 Non-Colonist Honstrad Races
 ---------------------------
 These races exist in the world of Agreus, but did not join the colonization and are not native to Maga.
