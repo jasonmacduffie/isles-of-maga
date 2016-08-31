@@ -12,7 +12,6 @@ These are the additional racial languages:
 
 Nativist racial languages:
 - Orcish, the language of Orcs, but which is commonly used by other Nativist races (Orcish alphabet)
-- Gnollish, the language of Gnolls (Orcish alphabet)
 - Goblinish, the language of Goblins (Orcish alphabet)
 - Ogrish, the language of Ogres (Orcish alphabet)
 

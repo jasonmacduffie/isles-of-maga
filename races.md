@@ -154,10 +154,6 @@ It would also be incorrect to paint Orcs are merely misunderstood. They are perh
 
 Also, Orcs are more likely to form relationships with humans than in other settings. Although it is still unlikely given the political turmoil involved, there have been a number of Half-Orcs born under loving relationships. However, these children are destined to be completely unintegrated both in Republican society, as well as Orcish society, and potentially attacked by either one.
 
-### Gnolls
-
-Gnolls are fairly intelligent, and may be users of sword, bow, or magic depending on its individual talent. They tend to live in loosely knit tribes, similarly to Ogres but with much more organization and intelligence. Gnolls are not as integrated with Orcish society as Goblins, but some are fairly close. They tend to form separate tribes but will occasionally join Orcs in battle against the Republic.
-
 ### Goblins
 
 Goblins are about as intelligent as Orcs, and have a very close history with them. They are the most likely of Nativist races to join them in arms, and the most integrated in Orcish society. However, they still represent a lower social caste than Orcs. Advanced Goblins, such as Hobgoblins, are of particular intelligence and skill, and make for warriors that are a match for Orcs. Although Goblins have their own culture and tradition separate from Orcs, the influence of Orcish society has been overwhelming and to some degree Goblin society has influenced Orcish culture.
