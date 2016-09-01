@@ -24,16 +24,17 @@ Each character starts with 1 in each skill, plus a choice of 5 skills to start w
 - **Acrobatics** is a measure of skill in jumping and falling.
 - **Alchemy** is a measure of knowledge about the properties of matter. This is a crafting ability allowing the character to make poisons and potions.
 - **Animals** is a measure of skill in handling animals.
+- **Archery** is a measure of skill in using a bow and arrow.
 - **Barter** is a measure of skill in making good deals.
+- **Casting** is a measure of skill in casting spells.
 - **Defense** is a measure of skill in dodging and blocking.
 - **Enchanting** is a measure of knowledge about magical artifacts. This is a crafting ability allowing the character to imbue items with magical effects.
 - **Melee** is a measure of skill in fighting with a melee weapon.
-- **Ranged** is a measure of skill in using a bow and arrow.
 - **Security** is a measure of skill in breaking locks.
 - **Smithing** is a measure of skill in working on leather and metal. This is a crafting ability allowing the character to create weapons and armor.
 - **Speech** is a measure of skill in communication.
-- **Spells** is a measure of skill in casting spells.
 - **Stealth** is a measure of skill in staying hidden and quiet.
+- **Thrown** is a measure of skill in throwing weapons.
 - **Unarmed** is a measure of skill in fighting with bare hands.
 
 
