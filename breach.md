@@ -24,10 +24,11 @@ Each character starts with 1 in each skill, plus a choice of 5 skills to start w
 - **Acrobatics** is a measure of skill in jumping and falling.
 - **Alchemy** is a measure of knowledge about the properties of matter. This is a crafting ability allowing the character to make poisons and potions.
 - **Animals** is a measure of skill in handling animals.
+- **Arcane** is a measure of skill in casting arcane spells.
 - **Archery** is a measure of skill in using a bow and arrow.
 - **Barter** is a measure of skill in making good deals.
-- **Casting** is a measure of skill in casting spells.
 - **Defense** is a measure of skill in dodging and blocking.
+- **Divine** is a measure of skill in casting divine spells.
 - **Enchanting** is a measure of knowledge about magical artifacts. This is a crafting ability allowing the character to imbue items with magical effects.
 - **Melee** is a measure of skill in fighting with a melee weapon.
 - **Security** is a measure of skill in breaking locks.
@@ -37,4 +38,31 @@ Each character starts with 1 in each skill, plus a choice of 5 skills to start w
 - **Thrown** is a measure of skill in throwing weapons.
 - **Unarmed** is a measure of skill in fighting with bare hands.
 
+### Gifts
+
+Characters do not start with any gifts unless a flaw was taken.
+
+### Flaws
+
+Characters can take 0 to 2 flaws, which reward Experience Points before the game begins.
+
+### Race
+
+There are many races in Maga, and your choice of race changes what kinds of gifts you have access to.
+
+#### Human
+
+#### Halfling
+
+#### Elf
+
+#### Dwarf
+
+#### Lacertine
+
+#### Felidine
+
+#### Corvidine
+
+#### Vespertine
 
