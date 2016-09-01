@@ -65,3 +65,26 @@ Elves are intelligent, such that their minimum Reason score is 3.
 
 Dwarves are resilient, such that their minimum Energy score is 3. On the other hand they tend to be brash, such that their maximum Charm score is 8.
 
+Equipment
+---------
+
+### Weapons
+
+One-handed swords, maces, axes, shortbows, and knuckles, all do standard damage without any effect.
+
+Unarmed attacks take an automatic -2 penalty unless wearing knuckles.
+
+Heavy weapons like greatswords give a bonus +1 to attacks, but allow the player to attack only every other turn.
+
+Shortbows have a range of 12 meters and longbows have a range of 24 meters. Longbows get a -1 penalty to all attacks.
+
+Ranged weapons get a -1 penalty for each time the target exceeds the range. For example, a longbow gets a -1 penalty between 22 and 42 meters, a -2 penalty between 43 and 63 meters, etc.
+
+### Armor
+
+Unarmored is the default and has no impact on defense.
+
+- **Leather Armor** gives a +1 bonus to Defense and a -1 penalty to Balance.
+- **Mail Armor** gives a +2 bonus to Defense and a -2 penalty to Balance.
+- **Plate Armor** gives a +3 bonus to Defense and a -3 penalty to Balance.
+
