@@ -61,6 +61,10 @@ Minikins are nimble, such that their minimum Balance score is 3. On the other ha
 
 Elves are intelligent, such that their minimum Reason score is 3.
 
+##### Gift options
+
+- **Magic blood (costs 4):** You have magic coursing through your veins. Add the character's magic skill to the daily pool of Spirit Points.
+
 #### Dwarf
 
 Dwarves are resilient, such that their minimum Energy score is 3. On the other hand they tend to be brash, such that their maximum Charm score is 8.
