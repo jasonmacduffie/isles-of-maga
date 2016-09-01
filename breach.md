@@ -42,7 +42,9 @@ Each character starts with 1 in each skill, plus a choice of 5 skills to start w
 
 Characters can take 0 to 2 traits. Traits are qualities of a person with good and bad aspects. Traits that apply to a specific attribute or skill can be directly applied to the skill score, at GM discretion.
 
-- **Good Natured:** You prefer to avoid violence. Combat rolls get a -2 penalty across the board, but get a +1 
+- **Claustrophobia:** You are afraid of being enclosed in a small room. Any ordinary attribute/skill roll gets a -1 penalty indoors, and a +1 bonus outdoors.
+- **Good Natured:** You prefer to avoid violence. Offensive combat rolls get a -2 penalty across the board, but get +1 to Alchemy, Barter, Smithing, and Speech.
+- **Near-sighted:** You do not have very good vision. While wearing glasses, Awareness rolls get a +1 bonus. Otherwise, Awareness rolls get a -1 penalty.
 
 ### Race
 
