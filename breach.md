@@ -21,13 +21,19 @@ Each character starts with 24 points to distribute between each attribute. The a
 
 Each character starts with 1 in each skill, plus a choice of 5 skills to start with 2 instead. Upon gaining an Experience Point, a character must increase 1 point in 1 skill. Skills range from 1 to 10, with a value of 4 for a trained but average professional.
 
+- **Acrobatics** is a measure of skill in jumping and falling.
 - **Alchemy** is a measure of knowledge about the properties of matter. This is a crafting ability allowing the character to make poisons and potions.
+- **Animals** is a measure of skill in handling animals.
+- **Barter** is a measure of skill in making good deals.
 - **Defense** is a measure of skill in dodging and blocking.
 - **Enchanting** is a measure of knowledge about magical artifacts. This is a crafting ability allowing the character to imbue items with magical effects.
 - **Melee** is a measure of skill in fighting with a melee weapon.
 - **Ranged** is a measure of skill in using a bow and arrow.
+- **Security** is a measure of skill in breaking locks.
 - **Smithing** is a measure of skill in working on leather and metal. This is a crafting ability allowing the character to create weapons and armor.
+- **Speech** is a measure of skill in communication.
 - **Spells** is a measure of skill in casting spells.
+- **Stealth** is a measure of skill in staying hidden and quiet.
 - **Unarmed** is a measure of skill in fighting with bare hands.
 
 
