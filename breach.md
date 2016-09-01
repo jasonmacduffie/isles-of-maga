@@ -71,7 +71,7 @@ Elves are intelligent, such that their minimum Reason score is 3.
 
 ##### Gift options
 
-- **Magic blood (costs 4):** You have magic coursing through your veins. Add the character's magic skill to the daily pool of Spirit Points.
+- **Magic blood (costs 4):** You have magic coursing through your veins. Add the character's Arcane or Divine skill (whichever is higher) to the daily pool of Spirit Points.
 
 #### Dwarf
 
