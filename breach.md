@@ -52,6 +52,8 @@ There are many races in Maga, and your choice of race changes what kinds of gift
 
 #### Human
 
+Humans are the assumed default, so they do not have any special characteristics.
+
 #### Halfling
 
 #### Elf
