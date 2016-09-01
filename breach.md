@@ -38,13 +38,11 @@ Each character starts with 1 in each skill, plus a choice of 5 skills to start w
 - **Thrown** is a measure of skill in throwing weapons.
 - **Unarmed** is a measure of skill in fighting with bare hands.
 
-### Gifts
+### Traits
 
-Characters do not start with any gifts unless a flaw was taken.
+Characters can take 0 to 2 traits. Traits are qualities of a person with good and bad aspects. Traits that apply to a specific attribute or skill can be directly applied to the skill score, at GM discretion.
 
-### Flaws
-
-Characters can take 0 to 2 flaws, which reward Experience Points before the game begins. This does not include obligatory racial flaws, which do not contribute to Experience Points and still allow taking 2 more flaws.
+- **Good Natured:** You prefer to avoid violence. Combat rolls get a -2 penalty across the board, but get a +1 
 
 ### Race
 
