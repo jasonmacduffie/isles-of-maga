@@ -44,7 +44,7 @@ Characters do not start with any gifts unless a flaw was taken.
 
 ### Flaws
 
-Characters can take 0 to 2 flaws, which reward Experience Points before the game begins.
+Characters can take 0 to 2 flaws, which reward Experience Points before the game begins. This does not include obligatory racial flaws, which do not contribute to Experience Points and still allow taking 2 more flaws.
 
 ### Race
 
@@ -54,17 +54,15 @@ There are many races in Maga, and your choice of race changes what kinds of gift
 
 Humans are the assumed default, so they do not have any special characteristics.
 
-#### Halfling
+#### Minikin
+
+Minikins are nimble, such that their minimum Balance score is 3. On the other hand they tend to be frail, such that their maximum Health score is 8.
 
 #### Elf
 
+Elves are intelligent, such that their minimum Reason score is 3.
+
 #### Dwarf
 
-#### Lacertine
-
-#### Felidine
-
-#### Corvidine
-
-#### Vespertine
+Dwarves are resilient, such that their minimum Energy score is 3. On the other hand they tend to be brash, such that their maximum Charm score is 8.
 
