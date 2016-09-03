@@ -156,6 +156,8 @@ Also, Orcs are more likely to form relationships with humans than in other setti
 
 Orcs are better smiths than Dwarves, and smithing is a sacred art in Orcish culture. Since before the recipe for gunpowder was perfected, Orcs were already making attempts to develop a personal firearm. Right now Orcs are able to manufacture cannons and personal firearms of higher quality than what is available in the Republic.
 
+Orcish family names are prefixed depending on the gender of the individual. For a male the prefix is "kor-" and for a female the prefix is "kar-" such that a male Orc may be named Bazgul kor-Gogrin and his sister may be Ogash kar-Gogrin.
+
 ### Goblins
 
 Goblins are about as intelligent as Orcs, and have a very close history with them. They are the most likely of Nativist races to join them in arms, and the most integrated in Orcish society. However, they still represent a lower social caste than Orcs. Advanced Goblins, such as Hobgoblins, are of particular intelligence and skill, and make for warriors that are a match for Orcs. Although Goblins have their own culture and tradition separate from Orcs, the influence of Orcish society has been overwhelming and to some degree Goblin society has influenced Orcish culture.
