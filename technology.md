@@ -1,6 +1,6 @@
 Technology
 ==========
-The technology is around that of the European middle ages, although there is room for flexibility. For example, it is possible that gunpowder has been discovered recently leading to the invention of cannons and guns.
+The technology is around that of the European middle ages. The recipe for gunpowder was perfected almost right before the revolution began, and the revolution was the most extensive use of gunpowder so far on both sides. While cannons are fairly common now, especially on ships, personal firearms are still not very good even compared to a crossbow. Over time they have become more and more practical, however.
 
 There are also magical constructs, which are machines that were animated by magic. Most constructs are mindless automatons, but there are constructs with the intelligence of the sentient races called Mechanids. These are far and few between in Maga. The reason is that nobody knows how to create Mechanids anymore, and the civilization that created the Mechanids that exist never populated Maga. Therefore, any Mechanids in Maga almost certainly came from Honstrad.
 
