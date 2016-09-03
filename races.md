@@ -154,6 +154,8 @@ It would also be incorrect to paint Orcs are merely misunderstood. They are perh
 
 Also, Orcs are more likely to form relationships with humans than in other settings. Although it is still unlikely given the political turmoil involved, there have been a number of Half-Orcs born under loving relationships. However, these children are destined to be completely unintegrated both in Republican society, as well as Orcish society, and potentially attacked by either one.
 
+Orcs are better smiths than Dwarves, and smithing is a sacred art in Orcish culture. Since before the recipe for gunpowder was perfected, Orcs were already making attempts to develop a personal firearm. Right now Orcs are able to manufacture cannons and personal firearms of higher quality than what is available in the Republic.
+
 ### Goblins
 
 Goblins are about as intelligent as Orcs, and have a very close history with them. They are the most likely of Nativist races to join them in arms, and the most integrated in Orcish society. However, they still represent a lower social caste than Orcs. Advanced Goblins, such as Hobgoblins, are of particular intelligence and skill, and make for warriors that are a match for Orcs. Although Goblins have their own culture and tradition separate from Orcs, the influence of Orcish society has been overwhelming and to some degree Goblin society has influenced Orcish culture.
