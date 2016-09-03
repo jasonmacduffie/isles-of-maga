@@ -54,11 +54,15 @@ Skeleton Key
 ------------
 The Skeleton Key can open any door.
 
-Frostrend
----------
-Frostrend is a magical sword that deals icy damage.
+The Blue Edge
+--------------
+The Blue Edge is a magical sword that deals icy damage.
 
 Sunspark
 --------
 Sunspark is a sword associated with the Church of Gora, imbued with powerful Anti-Demonic energy.
+
+Stormfire
+---------
+Stormfire is a masterfully built revolver, crafted by legendary Orcish smith Yagrak kar-Lazdar.
 
