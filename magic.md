@@ -20,7 +20,7 @@ Some spells are tweaked to make more sense in the setting:
 
 - **Commune** does not contact a patron deity; instead it contacts a particular Demon Lord, or at least a servant demon if the Lord is not available. The Demon Lord does not need to be the patron of that cleric. The Demon Lord must be willing to talk to the Cleric for the spell to work, however.
 
-- **Conjure Elemental** summons one of Primarium's demons to fight for you. Elementals are all Primarium's servants, but when you summon one it is under your control.
+- **Conjure Elemental** summons one of Primarium's demons (Elementals of Cold, Fire, or Lightning) to fight for you. Normally these are Primarium's servants, but when you summon one it is under your control.
 
 Anti-Demonic
 ------------
