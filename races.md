@@ -156,7 +156,7 @@ Also, Orcs are more likely to form relationships with humans than in other setti
 
 Orcs are better smiths than Dwarves, and smithing is a sacred art in Orcish culture. Since before the recipe for gunpowder was perfected, Orcs were already making attempts to develop a personal firearm. Right now Orcs are able to manufacture cannons and personal firearms of higher quality than what is available in the Republic.
 
-Orcish family names are prefixed depending on the gender of the individual. For a male the prefix is "kor-" and for a female the prefix is "kar-" such that a male Orc may be named Bazgul kor-Gogrin and his sister may be Ogash kar-Gogrin.
+Orcish family name depends on the gender of the individual. A male will have the surname of his father prefixed by "kor-" and a female will have the surname of her mother prefixed by "kar-". For example, a male Orc may be named Bazgul kor-Gogrin and his sister may be named Ogash kar-Lorok.
 
 ### Goblins
 
