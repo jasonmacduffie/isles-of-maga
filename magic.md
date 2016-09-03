@@ -30,6 +30,8 @@ Furthermore, Clerics of Gora cannot wield Demonic artifacts and Clerics of Demon
 
 Undead creatures are considered demonic, and are harmed by Anti-Demonic magic.
 
+Bone Golems and Flesh Golems are both considered undead creature. They can be turned as Vampires and Ghosts, respectively (8 and 9 hit dice creatures).
+
 New Spells
 ----------
 Maga has spells unique to the setting.
