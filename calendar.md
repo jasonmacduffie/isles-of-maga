@@ -37,3 +37,13 @@ Each sign has a unique quality (game mechanics not worked out yet):
 - The Fish is thoughtful, allowing those born under it to cast more spells per day.
 - The Thief is shrewd, allowing those born under it to lie more convincingly.
 
+There are seven days in a week, starting with Stardia.
+
+- Stardia
+- Sundia
+- Moondia
+- Middia
+- Frosdia
+- Thundia
+- Firdia
+
