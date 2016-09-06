@@ -74,7 +74,7 @@ Sentient races have their own soul size, which is a step above Huge called "Comp
 
 Instead of noting the volume of a gem, it may make more sense to make a note saying "Quartz Gem (Medium)" indicating what size soul it can contain.
 
-Failed magical research that attempts to enchant an item has a chance of destroying a good soul gem being used to enchant the item. Roll 1d6. If the result is 1, the gem is destroyed along with the soul contained. Otherwise, you may recover the gem without harm. If your enchanting research succeeds and you produce the item, the gem is consumed (being attached to the item for its magical power).
+Failed magical research that attempts to enchant an item has a chance of destroying a good gem being used to enchant the item. Roll 1d6. If the result is 1, the gem is destroyed along with the soul contained. Otherwise, you may recover the gem without harm. If your enchanting research succeeds and you produce the item, the gem is consumed (being attached to the item for its magical power).
 
 Psykers
 -------
