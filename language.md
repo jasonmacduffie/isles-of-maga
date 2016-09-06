@@ -17,6 +17,6 @@ Nativist racial languages:
 
 More exotic languages:
 - Demonish, the language of Demons (Demonish alphabet)
-- Dragonish, the language of Dragons (Dragonish alphabet)
+- Dragonish, the language of Dragons (Dragonish alphabet). Magic-Users also start with knowledge of Dragonish, which is the usual language for magical texts. This is independent of any intelligence bonus.
 - Giantish, the language of Giants (Giantish alphabet)
 - Sylvish, the language of Dryads and Treants (Demonic alphabet)

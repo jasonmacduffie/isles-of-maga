@@ -8,7 +8,7 @@ Divine magic is not regulated at all, unlike arcane magic, and your local neighb
 
 Magic is not "prepared" as in the default BFRPG rules, and is much closer to the way the Sorcerer supplement works (i.e. mana points). However, feel free to use the default magic system or liberal casting as an abstraction for the purpose of keeping balance. Furthermore a spellbook is technically unnecessary for a Magic-User, although it may be useful to carry a grimoire for knowledge the Magic-User cannot remember.
 
-Read Magic is not a separate spell for Magic-Users, and instead they can simply understand spellbooks or scrolls by looking at them. There is not a separate language for magical texts, and the Magic-User will need to understand the language the book or scroll is written in. Likewise, Read Languages works perfectly well on scrolls and spellbooks.
+Read Magic is not a separate spell for Magic-Users, and instead they can simply understand spellbooks or scrolls by looking at them. Magical texts are typically just mundane items written in Dragonish, which Magic-Users are assumed to have knowledge of. Likewise, Read Languages works perfectly well on scrolls and spellbooks.
 
 Raise Dead and Reincarnate still work as per the BFRPG rules, however doing so may raise the anger of Pastorum, who expected a new ghost to serve him. Therefore, bringing people back to life is uncommon and taboo in Maga, but still possible if they died recently and not of old age.
 
