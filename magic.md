@@ -61,7 +61,7 @@ The weapon itself has no weight. If the Magic-User lets go of the weapon, it dis
 
 Magic-User, 2
 
-The soul of the target creature is trapped in a gem in the caster's inventory upon death. More powerful souls require larger gems to contain them, which is measured by number of hit dice. These gems are required for enchanting items and constructs. Only the souls of animals can be captured with this spell, not the souls of intelligent creatures like Humans. An advanced spell is required to trap the souls of the sentient races. The gem used must be rather high quality, but does not need to be perfect. Quartz is often used. High quality quartz gems can often be sold at the local Mages Guild.
+The soul of the target creature is trapped in a gem in the caster's inventory upon death. More powerful souls require larger gems to contain them, which is measured by number of hit dice. These gems are required for enchanting items and constructs, which are powered by the gem. Only the souls of animals can be captured with this spell, not the souls of intelligent creatures like Humans. An advanced spell is required to trap the souls of the sentient races. The gem used must be rather high quality, but does not need to be perfect. Quartz is often used. High quality quartz gems can often be sold at the local Mages Guild.
 
 - Hit dice, volume gem required, name of soul
 - 4 and below, 2 cm^3, "Tiny Soul"
@@ -73,6 +73,8 @@ The soul of the target creature is trapped in a gem in the caster's inventory up
 Sentient races have their own soul size, which is a step above Huge called "Complex Soul" but cannot be trapped with this spell.
 
 Instead of noting the volume of a gem, it may make more sense to make a note saying "Quartz Gem (Medium)" indicating what size soul it can contain.
+
+Failed magical research that attempts to enchant an item has a chance of destroying a good soul gem being used to enchant the item. Roll 1d6. If the result is 1, the gem is destroyed along with the soul contained. Otherwise, you may recover the gem without harm. If your enchanting research succeeds and you produce the item, the gem is consumed (being attached to the item for its magical power).
 
 Psykers
 -------
