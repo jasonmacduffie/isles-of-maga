@@ -4,7 +4,7 @@ Aside from the four major races (Dwarves, Elves, Halflings, and Humans), there a
 
 It is up to the GM whether to include Lizard Men in the setting or to substitute them for Lacertines. To leave this ambiguous, no references to Lizard Men outside of Lacertines are made in these documents.
 
-The beast races are all given some traditional names to choose from. However, many choose or are given Common or Dwarven names, depending on where they are from. Some also choose descriptive titles as a substitute for their names, such as Swift-runner (for a particularly fast individual).
+The beast races are all given some traditional names to choose from. However, many choose or are given names more common to other races, depending on where they are from. Some also choose descriptive titles as a substitute for their names, such as Swift-runner (for a particularly fast individual).
 
 Note that there are no race/class restrictions whatsoever, at least from a lore perspective. Fighter/Magic-Users are common in Maga among Dwarves and Humans, and Magic-Users are common among Halflings, for example. The GM is free to restrict players in this manner, but there is no inherent reason why any race cannot become any class.
 
