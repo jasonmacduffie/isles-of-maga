@@ -28,4 +28,4 @@ The Far Neath is part of the crust that is kept warm by the planet's mantle. As 
 
 ### Demonia
 
-Demonia refers to the various realms of the Demon Lords, located farther underground than the mantle.
+Demonia refers to the various realms of the Demon Lords, located farther underground than the mantle. Often times, Demonia is simply used as a swear. For example, "What in Demonia happened to you?" could be a common expression.
