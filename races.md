@@ -18,9 +18,9 @@ Politically, Dwarves are the most powerful race in Maga, having initiated the re
 
 Dwarf names are often analogous to Elf names, but written closer to their native way of speaking.
 
-Common male names:
+Common male names: Aleksey, Andrei, Boris, Dmitri, Fyodor, Isaak, Ivan, Mikhail, Nikolai, Pavel, Pyotr, Sergey, Viktor, Vladmir
 
-Common female names:
+Common female names: Anna, Katarina, Natalia, Olga, Sasha, Svetlana, Vera, Veronika
 
 Elves
 -----
