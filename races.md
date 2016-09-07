@@ -20,7 +20,7 @@ Dwarf names are often analogous to Elf names, but written closer to their native
 
 Common male names: Aleksey, Andrei, Boris, Dmitri, Fyodor, Isaak, Ivan, Mikhail, Nikolai, Pavel, Pyotr, Sergey, Viktor, Vladmir
 
-Common female names: Anna, Katarina, Natalia, Olga, Sasha, Svetlana, Vera, Veronika
+Common female names: Anna, Darya, Fanya, Katarina, Natalia, Olga, Polina, Sasha, Svetlana, Tamara, Tatyana, Vera, Veronika, Zoya
 
 Elves
 -----
