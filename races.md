@@ -76,7 +76,11 @@ Among Humans, there are four subraces. Hammerkins are the most populous, but all
 
 #### Tarakins
 
+Tarakins
+
 #### Northwatches
+
+The Northwatch people have long lived on a border with Dwarves, Elves, and Halflings, and has a long history of interaction with these races. They have a long history of sailing, but mainly on seas rather than ocean travel.
 
 ##### Names
 
@@ -88,7 +92,11 @@ Common female names: Chantelle, Isis, Jada, Jasmine, Kayla, Kizzy, Layla, Makayl
 
 #### Hammerkins
 
+The Hammerkins have the greatest influence across the Human subraces, and in fact the language called Humanish is mainly the native Hammerkin tongue with loanwords from other local Human dialects. The Hammerkins, like the Northwatches, have a history of sailing, but over oceans as well as a knack for exploration in general. The first captain to explore Maga was a Hammerkin.
+
 #### Chugokins
+
+Chugokins
 
 Lacertines
 ----------
