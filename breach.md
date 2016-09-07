@@ -104,3 +104,9 @@ Unarmored is the default and has no impact on defense.
 - **Mail Armor** gives a +2 bonus to Defense and a -2 penalty to Balance.
 - **Plate Armor** gives a +3 bonus to Defense and a -3 penalty to Balance.
 
+Magic
+-----
+Characters can learn magic spells as their journey progresses. Some spells are arcane, some are divine, and some use the greater of the two. A spell that uses the arcane skill must be learned, but a divine spell is always known because it is cast through faith. There is no minimum level to learn a spell, but its magnitude increases with the relevant spell skill.
+
+
+
