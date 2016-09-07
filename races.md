@@ -10,7 +10,7 @@ Note that there are no race/class restrictions whatsoever, at least from a lore 
 
 The four main races are the same species, and are fully capable of conception (including Orcs and Ogres). However, such crosses are very strongly prohibited by social stigma. Rules are not given for multiple race characters (there would be too many combinations) but they do exist. Goblins are a completely different species.
 
-The distinction between subraces and races is partly arbitrary. Elves originally used the term "Human" to describe all non-Elves of the same species, such that they referred to Dwarves and Minikins as subraces of Human. However, the Dwarves and Minikins strongly identify as distinct from the other Human subraces, and have been treated as separate races since before the colonization of Maga.
+The distinction between subraces and races is partly arbitrary. Elves originally used the term "Human" to describe all non-Elves of the same species, such that they referred to Dwarves and Halflings as subraces of Human. However, the Dwarves and Halflings strongly identify as distinct from the other Human subraces, and have been treated as separate races since before the colonization of Maga.
 
 Dwarves
 -------
@@ -60,6 +60,8 @@ Halflings in Maga have a bit of unique character to them. While in most settings
 
 Part of why Halflings assisted in the overthrow of the Elven Kingdoms was based on the belief that doing so would increase the influence of the Thieves Guild, that was not permitted to flourish under the Elves. Their estimation turned out to be basically correct.
 
+On Honstrad, the Halflings lived along the coastline adjacent to the Magfel in the land of Miniheim.
+
 #### Names
 
 Common male names: Albert, Alfonz, Adolf, Bernard, Charles, Earl, Erwin, Esmond, Henry, Hubert, Lambert, Leonard, Philip, Sigmund
@@ -76,7 +78,7 @@ Among Humans, there are four subraces. Hammerkins are the most populous, but all
 
 #### Tarakins
 
-The Tarakins were at one point entirely enslaved as a race by the Draculs, but were able to forcibly overthrow their masters and form their own homeland in Honstrad. From the Dracul, the Tarakins learned a great deal about magic. Among the Humans, the Tarakins are well-known as spellcasters. The Tarakins were unfortunately attacked by the Draculs multiple times later, forcing them to live as nomads roaming across Honstrad. Other races, including Human subraces, are often mistrusting of Tarakins because of their history as outsiders.
+The Tarakins were at one point entirely enslaved as a race by the Draculs, but were able to forcibly overthrow their masters and form their own homeland of Taraheim in Honstrad. From the Dracul, the Tarakins learned a great deal about magic. Among the Humans, the Tarakins are well-known as spellcasters. The Tarakins were unfortunately attacked by the Draculs multiple times later, forcing them to live as nomads roaming across Honstrad. Other races, including Human subraces, are often mistrusting of Tarakins because of their history as outsiders.
 
 Common male names: Abdul, Ahmad, Badawi, Ezzat, Halim, Hoda, Hussain, Ibn, Mohamed, Omar, Tawfiq, Tayeb, Yusuf, Zakaria
 
@@ -84,7 +86,7 @@ Common female names: Ayse, Azmiye, Elif, Fatma, Fawziyya, Halide, Hoda, Laila, M
 
 #### Northwatches
 
-The Northwatch people have long lived on a border with Dwarves, Elves, and Halflings, and has a long history of interaction with these races. They have a long history of sailing, but mainly on seas rather than ocean travel. Northwatches are also natural fighters, and are hardened from many wars to defend their strategic position on the continent of Honstrad. In fact, the most common greeting among Northwatches is "saker bat" literally meaning "good fight", wishing the person to fare well in battle.
+The Northwatch people have long lived on a border with Dwarves, Elves, and Halflings, and has a long history of interaction with these races. They have a long history of sailing, but mainly on seas rather than ocean travel. Northwatches are also natural fighters, and are hardened from many wars to defend the strategic position of their homeland, Avodan, on the continent of Honstrad. In fact, the most common greeting among Northwatches is "saker bat" literally meaning "good fight", wishing the person to fare well in battle.
 
 ##### Names
 
@@ -96,11 +98,15 @@ Common female names: Chantelle, Isis, Jada, Jasmine, Kayla, Kizzy, Layla, Makayl
 
 #### Hammerkins
 
-The Hammerkins have the greatest influence across the Human subraces, and in fact the language called Humanish is mainly the native Hammerkin tongue with loanwords from other local Human dialects. The Hammerkins, like the Northwatches, have a history of sailing, but over oceans as well as a knack for exploration in general. The first captain to explore Maga was a Hammerkin.
+The Hammerkins have the greatest influence across the Human subraces, and in fact the language called Humanish is mainly the native Hammerkin tongue with loanwords from other local Human dialects. The Hammerkins, like the Northwatches, have a history of sailing, but over oceans as well as a knack for exploration in general. The homeland of the Hammerkins, Hammerheim, is a greatly diverse land that has tropical, alpine, desert, and temperate regions as well as having a long ocean coast. The first captain to explore Maga was a Hammerkin.
+
+Common male names:
+
+Common female names:
 
 #### Chugokins
 
-The Chugokins have a history of isolationism as an official policy, and have tended to be a peaceful civilization. They have had a number of civil wars resulting in the overturning of subsequent dynasties, but have not tended to war with the other races. The Chugokins, protected from the rest of Honstrad by a near-insurpassible mountain range, have managed to continually expand their wealth and knowledge. As a result, their understanding of magic, chemistry, astronomy, and medicine was well ahead of the other races prior to the colonization of Maga.
+The Chugokins have a history of isolationism as an official policy, and have tended to be a peaceful civilization. They have had a number of civil wars resulting in the overturning of subsequent dynasties, but have not tended to war with the other races. The Chugokins, protected in their homeland of Chugoheim from the rest of Honstrad by a near-insurpassible mountain range, have managed to continually expand their wealth and knowledge. As a result, their understanding of magic, chemistry, astronomy, and medicine was well ahead of the other races prior to the colonization of Maga.
 
 Lacertines
 ----------
