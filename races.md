@@ -84,6 +84,8 @@ Among Humans, there are four subraces. Hammerkins are the most populous, but all
 
 The Tarakins were at one point entirely enslaved as a race by the Draculs, but were able to forcibly overthrow their masters and form their own homeland of Taraheim in Honstrad. From the Dracul, the Tarakins learned a great deal about magic. Among the Humans, the Tarakins are well-known as spellcasters. The Tarakins were unfortunately attacked by the Draculs multiple times later, forcing them to live as nomads roaming across Honstrad. Other races, including Human subraces, are often mistrusting of Tarakins because of their history as outsiders.
 
+##### Names
+
 Common male names: Abdul, Ahmad, Badawi, Ezzat, Halim, Hoda, Hussain, Ibn, Mohamed, Omar, Tawfiq, Tayeb, Yusuf, Zakaria
 
 Common female names: Ayse, Azmiye, Elif, Fatma, Fawziyya, Halide, Hoda, Laila, Mai, Mona, Raja, Sabiha, Samira, Zeynep
@@ -104,6 +106,8 @@ Common female names: Chantelle, Isis, Jada, Jasmine, Kayla, Kizzy, Layla, Makayl
 
 The Hammerkins have the greatest influence across the Human subraces, and in fact the language called Humanish is mainly the native Hammerkin tongue with loanwords from other local Human dialects. The Hammerkins, like the Northwatches, have a history of sailing, but over oceans as well as a knack for exploration in general. The homeland of the Hammerkins, Hammerheim, is a greatly diverse land that has tropical, alpine, desert, and temperate regions as well as having a long ocean coast. The first captain to explore Maga was a Hammerkin.
 
+##### Names
+
 Common male names: Akilan, Anurag, Aravind, Ashok, Gunvantrai, Kajol, Khwaja, Manzoor, Rabindranath, Rahman, Samaresh, Samit
 
 Common female names: Balamani, Jasodhara, Meena, Neelam, Nirmal, Padma, Rimi, Samina, Smita, Sujata, Sushmita, Urvashi, Varsha
@@ -111,6 +115,12 @@ Common female names: Balamani, Jasodhara, Meena, Neelam, Nirmal, Padma, Rimi, Sa
 #### Chugokins
 
 The Chugokins have a history of isolationism as an official policy, and have tended to be a peaceful civilization. They have had a number of civil wars resulting in the overturning of subsequent dynasties, but have not tended to war with the other races. The Chugokins, protected in their homeland of Chugoheim from the rest of Honstrad by a near-insurpassible mountain range, have managed to continually expand their wealth and knowledge. As a result, their understanding of magic, chemistry, astronomy, and medicine was well ahead of the other races prior to the colonization of Maga.
+
+##### Names
+
+Common male names:
+
+Common female names:
 
 Lacertines
 ----------
