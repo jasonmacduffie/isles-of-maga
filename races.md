@@ -118,9 +118,9 @@ The Chugokins have a history of isolationism as an official policy, and have ten
 
 ##### Names
 
-Common male names:
+Chugokin names are literal words and phrases in the native Chugokin dialect. This means that most names are unisex, moreso than other Human subraces.
 
-Common female names:
+Common names: Baobei, Biwei, Houying, Huarui, Jin, Junhui, Ling, Linghui, Rong, Shuqing, Wenji, Yan, Ye, Ying, Yu, Yuan, Zongsu
 
 Lacertines
 ----------
