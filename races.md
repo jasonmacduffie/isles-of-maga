@@ -76,7 +76,7 @@ Among Humans, there are four subraces. Hammerkins are the most populous, but all
 
 #### Tarakins
 
-Tarakins
+The Tarakins were at one point entirely enslaved as a race by the Draculs, but were able to forcibly overthrow their masters and form their own homeland in Honstrad. From the Dracul, the Tarakins learned a great deal about magic. Among the Humans, the Tarakins are well-known as spellcasters. The Tarakins were unfortunately attacked by the Draculs multiple times later, forcing them to live as nomads roaming across Honstrad. Other races, including Human subraces, are often mistrusting of Tarakins because of their history as outsiders.
 
 #### Northwatches
 
@@ -96,7 +96,7 @@ The Hammerkins have the greatest influence across the Human subraces, and in fac
 
 #### Chugokins
 
-Chugokins
+The Chugokins have a history of isolationism as an official policy, and have tended to be a peaceful civilization. They have had a number of civil wars resulting in the overturning of subsequent dynasties, but have not tended to war with the other races. The Chugokins, protected from the rest of Honstrad by a near-insurpassible mountain range, have managed to continually expand their wealth and knowledge. As a result, their understanding of magic, chemistry, astronomy, and medicine was well ahead of the other races prior to the colonization of Maga.
 
 Lacertines
 ----------
