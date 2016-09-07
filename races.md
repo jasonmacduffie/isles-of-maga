@@ -26,9 +26,15 @@ Among Elves, there are three subraces. Magfel are most abundant in Maga, with Ru
 
 #### Magfel
 
+The Magfel, or High Elves, have the greatest influence on Magan culture. They are the aristocracy of the former Elven Kingdoms that ruled over Maga, and have a natural talent for diplomacy and politics. Magfel are not as good in physical combat as Rubefel or Noctfel, but are much more talented in magic.
+
 #### Rubefel
 
+The Rubefel, or Wood Elves, tend to shy away from cities and prefer to live in tribes in the woods. While some have integrated into society, it is not uncommon for a Rubefel born and raised in the city to begin wandering into the woods for longer and longer hunting trips, until one day the Rubefel never returns. Traditional Rubefeli culture is very different from Magfeli culture, completely forbidding the consumption of plants and instead consuming only meat. While some keep these traditions, the Rubefel in Maga are less attached to their old traditions after eras away from Honstrad.
+
 #### Noctfel
+
+The Noctfel, or Dark Elves, are naturally accustomed to the cold, making Maga rather unhospitable to them. They originate in the distant north, where they had a large boating and fishing tribal culture. Like the Rubefel, the Noctfel of Maga have not universally kept their traditions alive, but still distinguish themselves culturally from Magfel and Rubefel.
 
 Halflings
 ---------
