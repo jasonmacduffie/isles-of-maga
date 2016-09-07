@@ -104,9 +104,9 @@ Common female names: Chantelle, Isis, Jada, Jasmine, Kayla, Kizzy, Layla, Makayl
 
 The Hammerkins have the greatest influence across the Human subraces, and in fact the language called Humanish is mainly the native Hammerkin tongue with loanwords from other local Human dialects. The Hammerkins, like the Northwatches, have a history of sailing, but over oceans as well as a knack for exploration in general. The homeland of the Hammerkins, Hammerheim, is a greatly diverse land that has tropical, alpine, desert, and temperate regions as well as having a long ocean coast. The first captain to explore Maga was a Hammerkin.
 
-Common male names:
+Common male names: Akilan, Anurag, Aravind, Ashok, Gunvantrai, Kajol, Khwaja, Manzoor, Rabindranath, Rahman, Samaresh, Samit
 
-Common female names:
+Common female names: Balamani, Jasodhara, Meena, Neelam, Nirmal, Padma, Rimi, Samina, Smita, Sujata, Sushmita, Urvashi, Varsha
 
 #### Chugokins
 
