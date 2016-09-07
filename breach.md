@@ -106,7 +106,37 @@ Unarmored is the default and has no impact on defense.
 
 Magic
 -----
-Characters can learn magic spells as their journey progresses. Some spells are arcane, some are divine, and some use the greater of the two. A spell that uses the arcane skill must be learned, but a divine spell is always known because it is cast through faith. There is no minimum level to learn a spell, but its magnitude increases with the relevant spell skill.
+Characters can learn magic spells as their journey progresses. Some spells are arcane, some are divine, and some use the greater of the two. A spell that uses the arcane skill must be learned, but a divine spell is always known because it is cast through faith. Mana cost is the amount of spirit points that must be spent to cast the spell.
 
+### Banish Demon
 
+Minimum Divine skill: 2
+
+Mana cost: 1
+
+Roll Energy+Divine vs. Energy+Defense against a target demon. If the result is 2 or greater, the demon is sent to its region of Demonia.
+
+### Bound Weapon
+
+Minimum Divine skill: 2
+
+Mana cost: 1
+
+One weapon may be bound to the caster's soul at a time, costing 1 spirit point to perform the binding. The caster should have spent some time using the bound weapon to form a bond with it. At any time, the caster can summon the bound weapon and immediately equip it coasting 1 spirit point. The weapon binding may be dismissed at any time without cost.
+
+### Ghost Blade
+
+Minimum Arcane skill: 2
+
+The caster creates a Duration: 1 round/level
+
+The caster equips a blade of magic from their hand. This weapon may be of various sizes, taking on the properties of the equivalent physical blade.
+
+The weapon itself has no weight. If the caster lets go of the weapon, it disappears. The weapon can also be destroyed by Dispel Magic. At the end of the duration, the weapon vanishes. The weapon is magical, and can do damage to ghosts.
+
+### Soul Trap
+
+Minimum Arcane skill: 3
+
+This spell will not work on an intelligent, sentient being. When the target dies, roll Reason+Arcane vs. the target's static Energy score. If the result is at least 4, the target's soul may be captured in a gem large enough to contain it.
 
