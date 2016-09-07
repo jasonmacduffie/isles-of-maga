@@ -14,6 +14,14 @@ Dwarves
 -------
 Politically, Dwarves are the most powerful race in Maga, having initiated the revolution that overthrew the Elven Kingdoms and established the Modern Republic, and now occupy more than 50% of the Electorate. Their rule is heavy-handed, but not outrageously so to most citizens of Maga who know of the horror stories from the Elven Kingdoms. Due to their political status, Dwarves have somewhat of a privileged position in society, which some other races are wary of.
 
+#### Names
+
+Dwarf names are often analogous to Elf names, but written closer to their native way of speaking.
+
+Common male names:
+
+Common female names:
+
 Elves
 -----
 While the Dwarves are celebrated in Maga, the Elves are shunned. Once ruling several glorious kingdoms during the First Era, known as the Elven Kingdoms, since the revolution they have been completely disgraced. The Elven Kingdoms were famous for their cruelty towards non-Elves, and their numerous violent purges of Demon Lord worship. Although few Elves today were even alive during that time, the actions of the past still haunt them. Only the few descendants of those Elves who rebelled are in the Electorate, making less than 1%. Most Elves simply want to move on with life, but others long for the day of their return to rule.
@@ -30,9 +38,9 @@ The Magfel, or High Elves, have the greatest influence on Magan culture. They ar
 
 ##### Names
 
-Common male names: Anthony, Augustus, Columbus, Klemetine, Justin, Marcelo
+Common male names: Anthony, Augustus, Clementine, Columbus, Draconis, Ignacius, Julius, Justin, Lucius, Marcelo, Pontius, Titus
 
-Common female names: April, Bellatrix, Celina, Diane, Felicia, Lucille, Patricia
+Common female names: April, Bellatrix, Celina, Cornelia, Diane, Felicia, Lucille, Madonna, Matrona, Natalia, Octavia, Patricia
 
 #### Rubefel
 
@@ -52,9 +60,9 @@ Part of why Halflings assisted in the overthrow of the Elven Kingdoms was based 
 
 #### Names
 
-Common male names: Albert, Alfonz, Adolf, Bernard, Charles, Earl, Erwin, Esmond, Henry, Hubert, Lambert, Leonard, Sigmund
+Common male names: Albert, Alfonz, Adolf, Bernard, Charles, Earl, Erwin, Esmond, Henry, Hubert, Lambert, Leonard, Philip, Sigmund
 
-Common female names: Adelie, Angel, Dagger, Emily, Frida, Gertrude, Hammer, Hilda, Matilda, Thoria, Wanda, Wendy, Wolf
+Common female names: Adelie, Amelie, Angel, Dagger, Emily, Frida, Gertrude, Hammer, Hilda, Matilda, Thoria, Wanda, Wendy, Wolf
 
 Humans
 ------
