@@ -20,6 +20,16 @@ While the Dwarves are celebrated in Maga, the Elves are shunned. Once ruling sev
 
 Elves have a much shorter lifespan in Maga than in the BFRPG rules: 300 to 400 years is typical.
 
+### Subraces
+
+Among Elves, there are three subraces. Magfel are most abundant in Maga, with Rubefel and Noctfel populations being substantially lower. When discussing Elves, most people will simply refer to Magfel as "Elves" and qualify other kinds of Elves.
+
+#### Magfel
+
+#### Rubefel
+
+#### Noctfel
+
 Halflings
 ---------
 Along with Humans, the Halflings (more formally Minikins) occupy a rung on the power structure between Dwarves and Elves. They assisted with the overthrow of the Elven Kingdoms, but did not play a central role. Halflings occupy around 10% of the Electorate.
@@ -34,11 +44,15 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 
 ### Subraces
 
-Among humans, there are four subraces. Dongnamese are the most populous, but all subraces are fairly significant in Maga.
+Among Humans, there are four subraces. Dongnamese are the most populous, but all subraces are fairly significant in Maga.
 
 #### Saibakese
 
 #### Sainamese
+
+##### Names
+
+Sainamese names are largely influenced by Magfeli names.
 
 Common male names: Andre, Antoine, Ashanti, Darnell, DeAndre, DeShawn, Jamal, Malik, Marquis, Tyrone, Wayne, Xavier
 
