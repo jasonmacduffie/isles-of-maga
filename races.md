@@ -32,6 +32,22 @@ Humans
 ------
 Humans occupy a rung on the power structure between Dwarves and Elves, but not in the same way as Halflings. While the Halflings are notable for being generally benign during the revolution, Humans are notable for taking the extremes on both sides: some of the greatest heroes of the revolution, and greatest villains loyal to the Kingdoms, were Human. As a result, Humans manage to occupy around 25% of the Electorate. Their role in society is complicated by the fact that Humans held a relatively high regard in the Elven Kingdoms, being seen as greater than the other non-Elf races, although nowhere near the position of Elves. Some Humans think that life was better for them before the Republic, and seek to restore the Kingdoms back to their former glory.
 
+### Subraces
+
+Among humans, there are four subraces. Dongnamese are the most populous, but all subraces are fairly significant in Maga.
+
+#### Saibakese
+
+#### Sainamese
+
+Common male names: Andre, Antoine, Ashanti, Darnell, DeAndre, DeShawn, Jamal, Malik, Marquis, Tyrone, Wayne, Xavier
+
+Common female names: Chantelle, Isis, Jada, Jasmine, Kayla, Kizzy, Layla, Makayla, Qiana, Shaniqua, Raven, Trinity
+
+#### Dongnamese
+
+#### Dongbakese
+
 Lacertines
 ----------
 **Description:** The Lacertines are semi-aquatic humanoids descended from lizards. They have a reputation for being thoughtful and independent, but also lazy and selfish. Their unique ancestry allows them to hold their breath comfortably for around 30 minutes if necessary. They are not as naturally social as the other races, and generally keep to small tribes at the largest. While some have adapted to civilization, it is a struggle for their nature.
