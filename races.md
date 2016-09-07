@@ -80,7 +80,7 @@ Tarakins
 
 #### Northwatches
 
-The Northwatch people have long lived on a border with Dwarves, Elves, and Halflings, and has a long history of interaction with these races. They have a long history of sailing, but mainly on seas rather than ocean travel.
+The Northwatch people have long lived on a border with Dwarves, Elves, and Halflings, and has a long history of interaction with these races. They have a long history of sailing, but mainly on seas rather than ocean travel. Northwatches are also natural fighters, and are hardened from many wars to defend their strategic position on the continent of Honstrad. In fact, the most common greeting among Northwatches is "saker bat" literally meaning "good fight", wishing the person to fare well in battle.
 
 ##### Names
 
