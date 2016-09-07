@@ -28,6 +28,12 @@ Among Elves, there are three subraces. Magfel are most abundant in Maga, with Ru
 
 The Magfel, or High Elves, have the greatest influence on Magan culture. They are the aristocracy of the former Elven Kingdoms that ruled over Maga, and have a natural talent for diplomacy and politics. Magfel are not as good in physical combat as Rubefel or Noctfel, but are much more talented in magic.
 
+##### Names
+
+Common male names: Anthony, Augustus, Columbus, Klemetine, Justin, Marcelo
+
+Common female names: April, Bellatrix, Celina, Diane, Felicia, Lucille, Patricia
+
 #### Rubefel
 
 The Rubefel, or Wood Elves, tend to shy away from cities and prefer to live in tribes in the woods. While some have integrated into society, it is not uncommon for a Rubefel born and raised in the city to begin wandering into the woods for longer and longer hunting trips, until one day the Rubefel never returns. Traditional Rubefeli culture is very different from Magfeli culture, completely forbidding the consumption of plants and instead consuming only meat. While some keep these traditions, the Rubefel in Maga are less attached to their old traditions after eras away from Honstrad.
@@ -43,6 +49,12 @@ Along with Humans, the Halflings (more formally Minikins) occupy a rung on the p
 Halflings in Maga have a bit of unique character to them. While in most settings they are known for being good-natured, in Maga they are much more inclined to a life of crime than the other major races. That is not to say there are not lawful Halflings, but those ones have a reputation to overcome. The most famous pirates, brigands, and thieves have been Halfling individuals. Another distinction is that while Halflings in other settings tend to live in rural areas, in Maga there tend to be more in urban settings. There are nonetheless a decent number of Halfling farmers.
 
 Part of why Halflings assisted in the overthrow of the Elven Kingdoms was based on the belief that doing so would increase the influence of the Thieves Guild, that was not permitted to flourish under the Elves. Their estimation turned out to be basically correct.
+
+#### Names
+
+Common male names: Albert, Alfonz, Adolf, Bernard, Charles, Earl, Erwin, Esmond, Henry, Hubert, Lambert, Leonard, Sigmund
+
+Common female names: Adelie, Angel, Dagger, Emily, Frida, Gertrude, Hammer, Hilda, Matilda, Thoria, Wanda, Wendy, Wolf
 
 Humans
 ------
