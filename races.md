@@ -56,7 +56,9 @@ On Honstrad, they stayed away from civilization, instead living largely in the f
 
 #### Noctfel
 
-The Noctfel, or Dark Elves, are naturally accustomed to the cold, making Maga rather unhospitable to them. They originate in the distant north, where they had a large boating and fishing tribal culture. Like the Rubefel, the Noctfel of Maga have not universally kept their traditions alive, but still distinguish themselves culturally from Magfel and Rubefel.
+The Noctfel, or Dark Elves, are naturally accustomed to the cold, making Maga rather unhospitable to them. They originate in the distant northern land of Frostgard, where they had a large boating and fishing tribal culture. Like the Rubefel, the Noctfel of Maga have not universally kept their traditions alive, but still distinguish themselves culturally from Magfel and Rubefel. In particular, in their interpretations of Goraism, there is often a central theme of ancestor worship that is a sanitized version of their past of serving the Demon Lord Pastorum in Honstrad.
+
+Frostgard is a great distance away from the rest of civilization on Honstrad, leaving the Noctfel to develop their society on their own. Unlike the races on the main continent, they did not develop the same taboos regarding Demon Worship, although they recognized that there are "good" Demon Lords and "bad" Demon Lords based on the tendency of their domain. Pastorum worship was the main form of Demon Worship practiced by the Noctfel, and even today in Maga there are occasionally some Noctfel that keep their ancient ways.
 
 Halflings
 ---------
