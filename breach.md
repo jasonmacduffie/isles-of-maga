@@ -128,6 +128,8 @@ One weapon may be bound to the caster's soul at a time, costing 1 spirit point t
 
 Minimum Arcane skill: 2
 
+Mana cost: 1
+
 The caster creates a Duration: 1 round/level
 
 The caster equips a blade of magic from their hand. This weapon may be of various sizes, taking on the properties of the equivalent physical blade.
@@ -138,5 +140,28 @@ The weapon itself has no weight. If the caster lets go of the weapon, it disappe
 
 Minimum Arcane skill: 3
 
+Mana cost: 2
+
 This spell will not work on an intelligent, sentient being. When the target dies, roll Reason+Arcane vs. the target's static Energy score. If the result is at least 4, the target's soul may be captured in a gem large enough to contain it.
+
+### Elemental Damage (various)
+
+Minimum Arcane skill: 2
+
+Mana cost: 1
+
+This describes a family of spells, each of which may be cast independently. Choose one of each group:
+
+- Group 1: Fire, Ice, Lightning
+- Group 2: Spray, Missile
+
+For example, Ice Missile is its own spell. Spray spells deal close range damage in a spread-out area, and missile spells attack distant enemies.
+
+Deal Reason+Arcane vs. Health+Defense damage to a target enemy. Apply elemental bonuses or penalties to both sides if relevant.
+
+### Magic Missile
+
+Minimum Arcane skill: 2
+
+Deal Reason+Arcane vs. Health+Defense damage to a target enemy.
 
