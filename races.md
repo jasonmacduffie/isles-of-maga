@@ -72,11 +72,11 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 
 ### Subraces
 
-Among Humans, there are four subraces. Dongnamese are the most populous, but all subraces are fairly significant in Maga.
+Among Humans, there are four subraces. Hammerkins are the most populous, but all subraces are fairly significant in Maga.
 
-#### Saibakese
+#### Tarakins
 
-#### Northwatch
+#### Northwatches
 
 ##### Names
 
@@ -86,9 +86,9 @@ Common male names: Andre, Antoine, Ashanti, Darnell, DeAndre, DeShawn, Jamal, Ma
 
 Common female names: Chantelle, Isis, Jada, Jasmine, Kayla, Kizzy, Layla, Makayla, Qiana, Shaniqua, Raven, Trinity
 
-#### Dongnamese
+#### Hammerkins
 
-#### Dongbakese
+#### Chugokins
 
 Lacertines
 ----------
