@@ -10,6 +10,8 @@ Note that there are no race/class restrictions whatsoever, at least from a lore 
 
 The four main races are the same species, and are fully capable of conception (including Orcs and Ogres). However, such crosses are very strongly prohibited by social stigma. Rules are not given for multiple race characters (there would be too many combinations) but they do exist. Goblins are a completely different species.
 
+The distinction between subraces and races is partly arbitrary. Elves originally used the term "Human" to describe all non-Elves of the same species, such that they referred to Dwarves and Minikins as subraces of Human. However, the Dwarves and Minikins strongly identify as distinct from the other Human subraces, and have been treated as separate races since before the colonization of Maga.
+
 Dwarves
 -------
 Politically, Dwarves are the most powerful race in Maga, having initiated the revolution that overthrew the Elven Kingdoms and established the Modern Republic, and now occupy more than 50% of the Electorate. Their rule is heavy-handed, but not outrageously so to most citizens of Maga who know of the horror stories from the Elven Kingdoms. Due to their political status, Dwarves have somewhat of a privileged position in society, which some other races are wary of.
@@ -74,11 +76,11 @@ Among Humans, there are four subraces. Dongnamese are the most populous, but all
 
 #### Saibakese
 
-#### Sainamese
+#### Northwatch
 
 ##### Names
 
-Sainamese names are largely influenced by Magfeli names.
+Northwatch names are largely influenced by Magfeli names.
 
 Common male names: Andre, Antoine, Ashanti, Darnell, DeAndre, DeShawn, Jamal, Malik, Marquis, Tyrone, Wayne, Xavier
 
