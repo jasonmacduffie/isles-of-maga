@@ -157,11 +157,13 @@ This describes a family of spells, each of which may be cast independently. Choo
 
 For example, Ice Missile is its own spell. Spray spells deal close range damage in a spread-out area, and missile spells attack distant enemies.
 
-Deal Reason+Arcane vs. Health+Defense damage to a target enemy. Apply elemental bonuses or penalties to both sides if relevant.
+Deal Reason+Arcane vs. Health+Defense damage to a target enemy, with a +1 bonus to the attacker roll. Apply elemental bonuses or penalties to both sides if relevant.
 
 ### Magic Missile
 
 Minimum Arcane skill: 2
+
+Mana cost: 0
 
 Deal Reason+Arcane vs. Health+Defense damage to a target enemy.
 
