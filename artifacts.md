@@ -28,7 +28,7 @@ The wearer of the Gloves of Pyromaniac becomes able to cast massive infernos at 
 
 ### Skull Necklace (Pestium)
 
-The Skull Necklace is imbued with necromantic power.
+The Skull Necklace is imbued with necrosmithic power.
 
 ### Staff of Energiarum
 
