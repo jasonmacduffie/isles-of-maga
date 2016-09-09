@@ -36,7 +36,7 @@ Each character starts with 1 in each skill, plus a choice of 5 skills to start w
 - **Speech** is a measure of skill in communication.
 - **Stealth** is a measure of skill in staying hidden and quiet.
 - **Thrown** is a measure of skill in throwing weapons.
-- **Unarmed** is a measure of skill in fighting with bare hands.
+- **Unarmed** is a measure of skill in fighting with bare hands or punching weapons.
 
 ### Traits
 
@@ -127,7 +127,7 @@ Roll Energy+Malevolence vs. Energy+Defense against a target demon. If the result
 
 ### Bound Weapon
 
-Minimum Benevolence skill: 2
+Minimum Malevolence skill: 2
 
 Mana cost: 1
 
