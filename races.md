@@ -8,7 +8,7 @@ The beast races are all given some traditional names to choose from. However, ma
 
 Note that there are no race/class restrictions whatsoever, at least from a lore perspective. Fighter/Magic-Users are common in Maga among Dwarves and Humans, and Magic-Users are common among Halflings, for example. The GM is free to restrict players in this manner, but there is no inherent reason why any race cannot become any class.
 
-The four main races are the same species, and are fully capable of conception (including Orcs and Ogres). However, such crosses are very strongly prohibited by social stigma. Rules are not given for multiple race characters (there would be too many combinations) but they do exist. Goblins are a completely different species.
+The four main races are the same species, and are fully capable of conception (including Orokins). However, such crosses are very strongly prohibited by social stigma. Rules are not given for multiple race characters (there would be too many combinations) but they do exist.
 
 The distinction between subraces and races is partly arbitrary. Elves originally used the term "Human" to describe all non-Elves of the same species, such that they referred to Dwarves and Halflings as subraces of Human. However, the Dwarves and Halflings strongly identify as distinct from the other Human subraces, and have been treated as separate races since before the colonization of Maga.
 
@@ -240,7 +240,11 @@ These races are hostile to both the beast-races and the major races in Maga. The
 
 None of these races lived on the continent of Honstrad, being native to Maga.
 
-### Orcs
+### Orokins
+
+Most nativists belong to the same larger race of Orokins, containing Orcs, Goblins, Gnomes, and Ogres.
+
+#### Orcs
 
 Unlike many other settings, Orcs are not inherently bent on domination as a species. As a culture, however, a great deal of their social customs have developed from a spirit of war and conquest. Historically, the various Orc tribes would fight against each other. Today, they use their warrior spirit to battle against the Republic that claims their lands.
 
@@ -252,7 +256,7 @@ Orcs are better smiths than Dwarves, and smithing is a sacred art in Orcish cult
 
 Orcish family name depends on the gender of the individual. A male will have the surname of his father prefixed by "kor-" and a female will have the surname of her mother prefixed by "kar-". For example, a male Orc may be named Bazgul kor-Gogrin and his sister may be named Ogash kar-Lorok.
 
-### Goblins
+#### Goblins
 
 Goblins are about as intelligent as Orcs, and have a very close history with them. They are the most likely of Nativist races to join them in arms, and the most integrated in Orcish society. However, they still represent a lower social caste than Orcs. Advanced Goblins, such as Hobgoblins, are of particular intelligence and skill, and make for warriors that are a match for Orcs. Although Goblins have their own culture and tradition separate from Orcs, the influence of Orcish society has been overwhelming and to some degree Goblin society has influenced Orcish culture.
 
@@ -260,11 +264,11 @@ Goblins originally lived underground, and many still do. However after the Orcis
 
 #### Gnomes
 
-Gnomes are a subrace of Goblins that appear much more similar to humans, but still have more resemblance to Goblins than in other settings. They are much more magically inclined than other Goblins.
+Gnomes are a subrace of Orokins, and have much more monstrous features than other settings. They appear to have physical traits of both Halflings and Goblins. They are much more magically inclined than other Orokins.
 
 Gnomes generally have blue hair.
 
-### Ogres
+#### Ogres
 
 Ogres form small clans, but are far less social and civilized than the Orcs. They tend to live in the woods, caves, or vacant ruins rather than to construct their own buildings. They are aggressive in a territorial way, but do not actively engage in battle with the Republic unless sided with an Orc tribe. They are not intelligent enough to understand the complex politics involved, and just tend to side with Orcs because of their historical connection under the Orcish empire.
 
