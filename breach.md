@@ -24,12 +24,12 @@ Each character starts with 1 in each skill, plus a choice of 5 skills to start w
 - **Acrobatics** is a measure of skill in jumping and falling.
 - **Alchemy** is a measure of knowledge about the properties of matter. This is a crafting ability allowing the character to make poisons and potions.
 - **Animals** is a measure of skill in handling animals.
-- **Arcane** is a measure of skill in casting arcane spells.
 - **Archery** is a measure of skill in using a bow and arrow.
 - **Barter** is a measure of skill in making good deals.
+- **Benevolence** is a measure of skill in casting positive spells.
 - **Defense** is a measure of skill in dodging and blocking.
-- **Divine** is a measure of skill in casting divine spells.
 - **Enchanting** is a measure of knowledge about magical artifacts. This is a crafting ability allowing the character to imbue items with magical effects.
+- **Malevolence** is a measure of skill in casting negative spells.
 - **Melee** is a measure of skill in fighting with a melee weapon.
 - **Security** is a measure of skill in breaking locks.
 - **Smithing** is a measure of skill in working on leather and metal. This is a crafting ability allowing the character to create weapons and armor.
@@ -71,7 +71,7 @@ Elves are intelligent, such that their minimum Reason score is 3.
 
 ##### Gift options
 
-- **Magic blood (costs 4):** You have magic coursing through your veins. Add the character's Arcane or Divine skill (whichever is higher) to the daily pool of Spirit Points.
+- **Magic blood (costs 4):** You have magic coursing through your veins. Add the character's Malevolence or Benevolence skill (whichever is higher) to the daily pool of Spirit Points.
 
 #### Dwarf
 
@@ -80,6 +80,15 @@ Dwarves are resilient, such that their minimum Energy score is 3. On the other h
 ##### Gift options
 
 - **Adrenaline rush (costs 4):** Your warrior nature allows you to shrug off wounds. Once per day, remove a Minor Hurt or lesser injury from your character.
+
+Advancement
+-----------
+
+### Gifts
+
+Gifts are qualities of a person that are generally good.
+
+- **Cleric of X (costs 2):** You may take this gift only once. You no longer cast spells out of knowledge, instead casting spells from faith. Select a deity. You may now cast any spell associated with that deity, without needing to learn the spell. On the other hand, you are forbidden from casting spells not associated with that deity.
 
 Equipment
 ---------
@@ -106,19 +115,19 @@ Unarmored is the default and has no impact on defense.
 
 Magic
 -----
-Characters can learn magic spells as their journey progresses. Some spells are arcane, some are divine, and some use the greater of the two. A spell that uses the arcane skill must be learned, but a divine spell is always known because it is cast through faith. Mana cost is the amount of spirit points that must be spent to cast the spell.
+Characters can learn magic spells as their journey progresses. Some spells are malevolent and some are benevolent, which will change which skill the spell utilizes.
 
 ### Banish Demon
 
-Minimum Divine skill: 2
+Minimum Malevolence skill: 2
 
 Mana cost: 1
 
-Roll Energy+Divine vs. Energy+Defense against a target demon. If the result is 2 or greater, the demon is sent to its region of Demonia.
+Roll Energy+Malevolence vs. Energy+Defense against a target demon. If the result is 2 or greater, the demon is sent to its region of Demonia.
 
 ### Bound Weapon
 
-Minimum Divine skill: 2
+Minimum Benevolence skill: 2
 
 Mana cost: 1
 
@@ -126,7 +135,7 @@ One weapon may be bound to the caster's soul at a time, costing 1 spirit point t
 
 ### Ghost Blade
 
-Minimum Arcane skill: 2
+Minimum Malevolence skill: 2
 
 Mana cost: 1
 
@@ -138,15 +147,15 @@ The weapon itself has no weight. If the caster lets go of the weapon, it disappe
 
 ### Soul Trap
 
-Minimum Arcane skill: 3
+Minimum Malevolence skill: 3
 
 Mana cost: 2
 
-This spell will not work on an intelligent, sentient being. When the target dies, roll Reason+Arcane vs. the target's static Energy score. If the result is at least 4, the target's soul may be captured in a gem large enough to contain it.
+This spell will not work on an intelligent, sentient being. When the target dies, roll Reason+Malevolence vs. the target's static Energy score. If the result is at least 4, the target's soul may be captured in a gem large enough to contain it.
 
 ### Elemental Damage (various)
 
-Minimum Arcane skill: 2
+Minimum Malevolence skill: 2
 
 Mana cost: 1
 
@@ -157,13 +166,13 @@ This describes a family of spells, each of which may be cast independently. Choo
 
 For example, Ice Missile is its own spell. Spray spells deal close range damage in a spread-out area, and missile spells attack distant enemies.
 
-Deal Reason+Arcane vs. Health+Defense damage to a target enemy, with a +1 bonus to the attacker roll. Apply elemental bonuses or penalties to both sides if relevant.
+Deal Reason+Malevolence vs. Health+Defense damage to a target enemy, with a +1 bonus to the attacker roll. Apply elemental bonuses or penalties to both sides if relevant.
 
 ### Magic Missile
 
-Minimum Arcane skill: 2
+Minimum Malevolence skill: 2
 
 Mana cost: 0
 
-Deal Reason+Arcane vs. Health+Defense damage to a target enemy.
+Deal Reason+Malevolence vs. Health+Defense damage to a target enemy.
 
