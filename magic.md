@@ -12,7 +12,7 @@ Read Magic is not a separate spell for Magic-Users, and instead they can simply 
 
 Raise Dead and Reincarnate still work as per the BFRPG rules, however doing so may raise the anger of Pastorum, who expected a new ghost to serve him. Therefore, bringing people back to life is uncommon and taboo in Maga, but still possible if they died recently and not of old age.
 
-Animate Dead for use as mindless minions such as zombies or skeletons is considered necrosmithing in Maga, which is outlawed. Note that Magic-Users and Clerics are still *able* to do so, but not in the open. Clerics who are known necrosmiths will no longer be welcome in the Church of Gora and Magic-Users who are known necrosmiths will lose their membership in the Mages Guild. The Silver Sword (a subfaction in the Church of Gora) actively hunts down and kills necrosmiths.
+Necrosmithing is the same as what other settings refer to as "necromancy", which in Maga only refers to divination using the dead. Animate Dead for use as mindless minions such as zombies or skeletons is considered necrosmithing in Maga, which is outlawed. Note that Magic-Users and Clerics are still *able* to do so, but not in the open. Clerics who are known necrosmiths will no longer be welcome in the Church of Gora and Magic-Users who are known necrosmiths will lose their membership in the Mages Guild. The Silver Sword (a subfaction in the Church of Gora) actively hunts down and kills necrosmiths.
 
 Some spells are tweaked to make more sense in the setting:
 
