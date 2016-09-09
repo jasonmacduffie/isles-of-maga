@@ -70,3 +70,13 @@ Here are some rumors you may hear around Koda.
 - A pirate in the Black Rat claims to have a map to Death Island, a magical island where the undead walk.
 - A gold mine along the main road has become infested by monsters.
 
+Ocean Encounters
+----------------
+While traveling in a boat, here are some encounters players may face.
+
+1d6:
+
+- 1: Pirate ship
+- 2: Giant eagle
+- 3-6: Nothing
+
