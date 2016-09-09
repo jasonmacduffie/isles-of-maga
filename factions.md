@@ -26,7 +26,7 @@ The Order of Ancients is a secretive organization that is not aligned with the R
 
 Nativists
 ---------
-Nativists are sentient races native to Maga that fought against colonization, refusing to integrate with both the Elven Kingdoms and now the Republic. To this day, Orcish Tribes and their allies continue to take up arms against the Republic and refuse integration with it out of principle. Many other races such as Goblins align with the Nativist cause for the same reason. There are also members of the beast races that reject citizenship in the Republic, siding with the Nativists as well.
+Nativists are sentient races native to Maga that fought against colonization, refusing to integrate with both the Elven Kingdoms and now the Republic. To this day, Orcish Tribes and their allies continue to take up arms against the Republic and refuse integration with it out of principle. Most members of the nativist faction are Orokins (Orcs and their related subraces), but there are also members of the beast races that reject citizenship in the Republic, siding with the Nativists as well.
 
 Guilds
 ------
