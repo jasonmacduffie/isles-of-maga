@@ -234,17 +234,12 @@ Examples of names could be:
 - Chitwiiik
 - Kiblaaachi
 
-Nativist Races
---------------
-These races are hostile to both the beast-races and the major races in Maga. The Orcs are not organized like the Republic, but rather have a decentralized system of tribes. In the past these tribes tended to war with each other, but as of late they have been united in spirit and aggression is directed toward the Republic that claims ownership of their lands. However, there is still not a central administration. The other races that are aligned with Orcs also precede the colonization of Maga, and share similar stake in the conflict.
+Orokins
+-------
 
-None of these races lived on the continent of Honstrad, being native to Maga.
+Most nativists belong to the same larger race of Orokins, containing Orcs, Goblins, Gnomes, and Ogres. Orokins do not exist in Honstrad, having always lived in Maga.
 
-### Orokins
-
-Most nativists belong to the same larger race of Orokins, containing Orcs, Goblins, Gnomes, and Ogres.
-
-#### Orcs
+### Orcs
 
 Unlike many other settings, Orcs are not inherently bent on domination as a species. As a culture, however, a great deal of their social customs have developed from a spirit of war and conquest. Historically, the various Orc tribes would fight against each other. Today, they use their warrior spirit to battle against the Republic that claims their lands.
 
@@ -256,19 +251,19 @@ Orcs are better smiths than Dwarves, and smithing is a sacred art in Orcish cult
 
 Orcish family name depends on the gender of the individual. A male will have the surname of his father prefixed by "kor-" and a female will have the surname of her mother prefixed by "kar-". For example, a male Orc may be named Bazgul kor-Gogrin and his sister may be named Ogash kar-Lorok.
 
-#### Goblins
+### Goblins
 
 Goblins are about as intelligent as Orcs, and have a very close history with them. They are the most likely of Nativist races to join them in arms, and the most integrated in Orcish society. However, they still represent a lower social caste than Orcs. Advanced Goblins, such as Hobgoblins, are of particular intelligence and skill, and make for warriors that are a match for Orcs. Although Goblins have their own culture and tradition separate from Orcs, the influence of Orcish society has been overwhelming and to some degree Goblin society has influenced Orcish culture.
 
 Goblins originally lived underground, and many still do. However after the Orcish civilization controlled Maga they tended to live above ground.
 
-#### Gnomes
+### Gnomes
 
 Gnomes are a subrace of Orokins, and have much more monstrous features than other settings. They appear to have physical traits of both Halflings and Goblins. They are much more magically inclined than other Orokins.
 
 Gnomes generally have blue hair.
 
-#### Ogres
+### Ogres
 
 Ogres form small clans, but are far less social and civilized than the Orcs. They tend to live in the woods, caves, or vacant ruins rather than to construct their own buildings. They are aggressive in a territorial way, but do not actively engage in battle with the Republic unless sided with an Orc tribe. They are not intelligent enough to understand the complex politics involved, and just tend to side with Orcs because of their historical connection under the Orcish empire.
 
