@@ -86,7 +86,7 @@ Among Humans, there are two subraces (excluding Halflings and Dwarves). Hammerki
 
 #### Hammerkins
 
-The Hammerkins were at one point entirely enslaved as a race by the Draculs, but were able to forcibly overthrow their masters and form their own homeland of Hammerheim in Honstrad. From the Dracul, the Hammerkins learned a great deal about magic. Among the Humans, the Hammerkins are well-known as spellcasters. The Hammerkins were unfortunately attacked by the Draculs multiple times later, forcing them to live as nomads roaming across Honstrad. Other races, including Human subraces, are often mistrusting of Hammerkins because of their history as outsiders.
+The Hammerkins were at one point entirely enslaved as a race by the Draculs, but were able to forcibly overthrow their masters and form their own homeland in the isolated Rocky Mountains on Honstrad which they referred to as Hammerheim. From the Dracul, the Hammerkins learned a great deal about magic. Among the Humans, the Hammerkins are well-known as spellcasters. The Hammerkins were unfortunately attacked by the Draculs multiple times later, forcing them to live as nomads roaming across Honstrad. Other races, including Human subraces, are often mistrusting of Hammerkins because of their history as outsiders.
 
 ##### Names
 
