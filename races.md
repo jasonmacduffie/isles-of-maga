@@ -110,6 +110,8 @@ Lacertines
 ----------
 **Description:** The Lacertines are semi-aquatic humanoids descended from lizards. They have a reputation for being thoughtful and independent, but also lazy and selfish. Their unique ancestry allows them to hold their breath comfortably for around 30 minutes if necessary. They are not as naturally social as the other races, and generally keep to small tribes at the largest. While some have adapted to civilization, it is a struggle for their nature.
 
+Lacertines have a long history of magic use, having learned to cast spells from the dragons native to Maga. There is a separate order of Lacertine magicians independent from the Mages Guild.
+
 **Restrictions:** Lacertines are required to have a minimum Intelligence of 9, and a maximum Charisma of 17 due to their solitary tendencies.
 
 **Special Abilities:** Lacertines are able to hold their breath for 30 minutes at a time comfortably. They can continue for another 5 minutes with discomfort, after which they will take damage like an ordinary Human. Because of their natural claws, unarmed melee attacks deal 1d4 damage, and may be lethal.
