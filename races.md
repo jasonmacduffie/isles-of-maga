@@ -52,7 +52,7 @@ Common female names: April, Bellatrix, Celina, Cornelia, Diane, Felicia, Lucille
 
 The Rubefel, or Wood Elves, tend to shy away from cities and prefer to live in tribes in the woods. While some have integrated into society, it is not uncommon for a Rubefel born and raised in the city to begin wandering into the woods for longer and longer hunting trips, until one day the Rubefel never returns. Traditional Rubefeli culture is very different from Magfeli culture, completely forbidding the consumption of plants and instead consuming only meat. While some keep these traditions, the Rubefel in Maga are less attached to their old traditions after eras away from Honstrad.
 
-On Honstrad, they stayed away from civilization, instead living largely in the forests undisturbed. The home of the Rubefel is Netherwood, which is a vast forest of giant trees located southwest of the Rich Coast. The reason for their relative isolation is due to the inhospitability of the forest; anyone attempting to tame the plantlife of Netherwood receives quick retaliation from the forest itself.
+On Honstrad, they stayed away from civilization, instead living largely in the forests undisturbed. The home of the Rubefel is Netherwood, which is a vast forest of giant trees located southwest of Avodan. The reason for their relative isolation is due to the inhospitability of the forest; anyone attempting to tame the plantlife of Netherwood receives quick retaliation from the forest itself.
 
 #### Noctfel
 
@@ -265,7 +265,7 @@ On Honstrad, most Draculs lived in their homeland of Grey Mountain, a huge volca
 
 Iavols are a race a humanoids with devilish features. Like the Draculs the Iavols had their own kingdoms on Honstrad but are not generally found in Maga.
 
-On Honstrad, the homeland of the Iavols was Sunset Isle. Unlike most other races, but like the Noctfel, the Iavols were serious demon worshippers. The primary Demon Lord worshipped by the Iavols was Solum, and the Iavols were harshly concerned with Solum's extreme view of justice and fair punishment.
+On Honstrad, the homeland of the Iavols was the Sunrise Isles. Unlike most other races, but like the Noctfel, the Iavols were serious demon worshippers. The primary Demon Lord worshipped by the Iavols was Solum, and the Iavols were harshly concerned with Solum's extreme view of justice and fair punishment.
 
 ### Mechanids
 
