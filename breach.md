@@ -103,7 +103,7 @@ Heavy weapons like greatswords give a bonus +1 to attacks, but allow the player 
 
 Shortbows have a range of 12 meters and longbows have a range of 24 meters. Longbows get a -1 penalty to all attacks.
 
-Ranged weapons get a -1 penalty for each time the target exceeds the range. For example, a longbow gets a -1 penalty between 22 and 42 meters, a -2 penalty between 43 and 63 meters, etc.
+Ranged weapons get a -1 penalty for each time the target exceeds the range. For example, a longbow gets a -1 penalty between 25 and 48 meters, a -2 penalty between 49 and 72 meters, etc.
 
 ### Armor
 
