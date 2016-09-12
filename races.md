@@ -84,9 +84,9 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 
 Among Humans, there are four subraces. Hammerkins are the most populous, but all subraces are fairly significant in Maga.
 
-#### Tarakins
+#### Hammerkins
 
-The Tarakins were at one point entirely enslaved as a race by the Draculs, but were able to forcibly overthrow their masters and form their own homeland of Taraheim in Honstrad. From the Dracul, the Tarakins learned a great deal about magic. Among the Humans, the Tarakins are well-known as spellcasters. The Tarakins were unfortunately attacked by the Draculs multiple times later, forcing them to live as nomads roaming across Honstrad. Other races, including Human subraces, are often mistrusting of Tarakins because of their history as outsiders.
+The Hammerkins were at one point entirely enslaved as a race by the Draculs, but were able to forcibly overthrow their masters and form their own homeland of Hammerheim in Honstrad. From the Dracul, the Hammerkins learned a great deal about magic. Among the Humans, the Hammerkins are well-known as spellcasters. The Hammerkins were unfortunately attacked by the Draculs multiple times later, forcing them to live as nomads roaming across Honstrad. Other races, including Human subraces, are often mistrusting of Hammerkins because of their history as outsiders.
 
 ##### Names
 
@@ -105,26 +105,6 @@ Northwatch names are largely influenced by Magfeli names.
 Common male names: Andre, Antoine, Ashanti, Darnell, DeAndre, DeShawn, Jamal, Malik, Marquis, Tyrone, Wayne, Xavier
 
 Common female names: Chantelle, Isis, Jada, Jasmine, Kayla, Kizzy, Layla, Makayla, Qiana, Shaniqua, Raven, Trinity
-
-#### Hammerkins
-
-The Hammerkins have the greatest influence across the Human subraces, and in fact the language called Humanish is mainly the native Hammerkin tongue with loanwords from other local Human dialects. The Hammerkins, like the Northwatches, have a history of sailing, but over oceans as well as a knack for exploration in general. The homeland of the Hammerkins, Hammerheim, is a greatly diverse land that has tropical, alpine, desert, and temperate regions as well as having a long ocean coast. The first captain to explore Maga was a Hammerkin.
-
-##### Names
-
-Common male names: Akilan, Anurag, Aravind, Ashok, Gunvantrai, Kajol, Khwaja, Manzoor, Rabindranath, Rahman, Samaresh, Samit
-
-Common female names: Balamani, Jasodhara, Meena, Neelam, Nirmal, Padma, Rimi, Samina, Smita, Sujata, Sushmita, Urvashi, Varsha
-
-#### Chugokins
-
-The Chugokins have a history of isolationism as an official policy, and have tended to be a peaceful civilization. They have had a number of civil wars resulting in the overturning of subsequent dynasties, but have not tended to war with the other races. The Chugokins, protected in their homeland of Chugoheim from the rest of Honstrad by a near-insurpassible mountain range, have managed to continually expand their wealth and knowledge. As a result, their understanding of magic, chemistry, astronomy, and medicine was well ahead of the other races prior to the colonization of Maga.
-
-##### Names
-
-Chugokin names are literal words and phrases in the native Chugokin dialect. This means that most names are unisex, moreso than other Human subraces.
-
-Common names: Baobei, Biwei, Houying, Huarui, Jin, Junhui, Ling, Linghui, Rong, Shuqing, Wenji, Yan, Ye, Ying, Yu, Yuan, Zongsu
 
 Lacertines
 ----------
