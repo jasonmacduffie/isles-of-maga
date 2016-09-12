@@ -10,6 +10,12 @@ While all of Maga is claimed by the Republic, there are many pockets of resistan
 
 The official name for Republic-minted coins made of gold, silver, and copper respectively are orims, silbrims, and cuprims, respectively. Platinum and electrum coins are not minted by the Republic, and are not used as currency.
 
+Honstrad
+--------
+Honstrad is a continent that lies between the Northfrost Ocean, Sunbound Ocean, and Atlas Ocean. Before the colonization of Maga, there were nine regions in Honstrad called Rich Coast, Cyrilia, Frostgard, Autumn Marsh, Avodan, Rocky Mountains, Netherwood, Grey Mountain, and Sunrise Isles. Each region is the homeland of nine races, respectively: Minikins, Dwarves, Noctfel, Magfel, Northwatch, Hammerkins, Rubefel, Draculs, and Iavols.
+
+![honstrad.png](honstrad.png)
+
 Underground
 -----------
 Beneath the surface, there are civilizations of various races living in the earth. Based on how deep you are, there will be different species one encounters.
