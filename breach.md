@@ -49,7 +49,7 @@ Characters can take 0 to 2 traits. Traits are qualities of a person with good an
 
 There are many races in Maga, and your choice of race changes what kinds of gifts you have access to.
 
-#### Human
+#### Human (Hammerkin)
 
 Humans are the assumed default, so they do not have many special characteristics.
 
@@ -65,7 +65,7 @@ Minikins are nimble, such that their minimum Balance score is 3. On the other ha
 
 - **Minikin luck (costs 4):** Any time you encounter a pile of treasure, you find 20% more wealth than other people.
 
-#### Elf
+#### Elf (Magfel)
 
 Elves are intelligent, such that their minimum Reason score is 3.
 
