@@ -113,6 +113,12 @@ Unarmored is the default and has no impact on defense.
 - **Mail Armor** gives a +2 bonus to Defense and a -2 penalty to Balance.
 - **Plate Armor** gives a +3 bonus to Defense and a -3 penalty to Balance.
 
+Combat
+------
+In combat, characters have a number of Action Points equal to their Balance. The character with the highest Balance moves first, and the least Balance moves last. Every turn, a player describes the actions that their character takes over the next 4 seconds, where 1 action generally takes 1 second. Therefore a character with a Balance of 4 can take 4 actions per turn, a character with a Balance of 1 can take 1 action per turn, and a character with a Balance of 10 can take 10 actions per turn. However, for each of these characters the turn lasts for 4 seconds.
+
+Melee combat attacks use Health+Melee vs. Health+Defense. Hand-to-hand attacks use Health+Unarmed vs. Health+Defense, with a -2 penalty to the attacker unless weilding knuckles. Ranged attacks use Awareness+Ranged vs. Balance+Defense.
+
 Magic
 -----
 Characters can learn magic spells as their journey progresses. Some spells are malevolent and some are benevolent, which will change which skill the spell utilizes.
