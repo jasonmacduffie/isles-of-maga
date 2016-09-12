@@ -259,9 +259,13 @@ Giants were already an uncommon sight on Honstrad, but in Maga they are nearly u
 
 Draculs are a race of humanoid, human-sized dragons without wings. They look somewhat like Lacertines, but with the color scales of their parent dragon, and more built. Draculs have different colored scales depending on what kind of dragon they descend from. They also have a tendency to inherit the personality of dragons, such as sassiness and hoarding behavior. Draculs lived in Honstrad but did not colonize Maga, and are not native to Maga. For this reason, you are unlikely to meet a Dracul unless it had come from Honstrad recently.
 
+On Honstrad, most Draculs lived in their homeland of Grey Mountain, a huge volcanic mountain containing a dragon they collectively worshipped.
+
 ### Iavols
 
 Iavols are a race a humanoids with devilish features. Like the Draculs the Iavols had their own kingdoms on Honstrad but are not generally found in Maga.
+
+On Honstrad, the homeland of the Iavols was Sunset Isle. Unlike most other races, but like the Noctfel, the Iavols were serious demon worshippers. The primary Demon Lord worshipped by the Iavols was Solum, and the Iavols were harshly concerned with Solum's extreme view of justice and fair punishment.
 
 ### Mechanids
 
