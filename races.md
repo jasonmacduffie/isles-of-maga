@@ -16,7 +16,7 @@ Dwarves
 -------
 Politically, Dwarves are the most powerful race in Maga, having initiated the revolution that overthrew the Elven Kingdoms and established the Modern Republic, and now occupy more than 50% of the Electorate. Their rule is heavy-handed, but not outrageously so to most citizens of Maga who know of the horror stories from the Elven Kingdoms. Due to their political status, Dwarves have somewhat of a privileged position in society, which some other races are wary of.
 
-In Honstrad, the Dwarves hail from the land of Cyrilia, adjacent to Autumn Marsh in the west. The Magfeli empire that ruled Miniheim and Autumn Marsh also controlled western Cyrilia, leading to a series of conflicts between the Dwarves and Magfel that are remembered to this day.
+In Honstrad, the Dwarves hail from the land of Cyrilia, adjacent to Autumn Marsh in the west. The Magfeli empire that ruled the Rich Coast and Autumn Marsh also controlled western Cyrilia, leading to a series of conflicts between the Dwarves and Magfel that are remembered to this day.
 
 #### Names
 
@@ -40,7 +40,7 @@ Among Elves, there are three subraces. Magfel are most abundant in Maga, with Ru
 
 The Magfel, or High Elves, have the greatest influence on Magan culture. They are the aristocracy of the former Elven Kingdoms that ruled over Maga, and have a natural talent for diplomacy and politics. Magfel are not as good in physical combat as Rubefel or Noctfel, but are much more talented in magic.
 
-On Honstrad, they controlled an empire that controlled their homeland of Autumn Marsh as well as Miniheim and part of Cyrilia. There were constant wars between the Magfel and the Dwarves over control over the western portions of Cyrilia.
+On Honstrad, they controlled an empire that controlled their homeland of Autumn Marsh as well as the Rich Coast and part of Cyrilia. There were constant wars between the Magfel and the Dwarves over control over the western portions of Cyrilia.
 
 ##### Names
 
@@ -52,7 +52,7 @@ Common female names: April, Bellatrix, Celina, Cornelia, Diane, Felicia, Lucille
 
 The Rubefel, or Wood Elves, tend to shy away from cities and prefer to live in tribes in the woods. While some have integrated into society, it is not uncommon for a Rubefel born and raised in the city to begin wandering into the woods for longer and longer hunting trips, until one day the Rubefel never returns. Traditional Rubefeli culture is very different from Magfeli culture, completely forbidding the consumption of plants and instead consuming only meat. While some keep these traditions, the Rubefel in Maga are less attached to their old traditions after eras away from Honstrad.
 
-On Honstrad, they stayed away from civilization, instead living largely in the forests undisturbed. The home of the Rubefel is Netherwood, which is a vast forest of giant trees located southwest of Miniheim. The reason for their relative isolation is due to the inhospitability of the forest; anyone attempting to tame the plantlife of Netherwood receives quick retaliation from the forest itself.
+On Honstrad, they stayed away from civilization, instead living largely in the forests undisturbed. The home of the Rubefel is Netherwood, which is a vast forest of giant trees located southwest of the Rich Coast. The reason for their relative isolation is due to the inhospitability of the forest; anyone attempting to tame the plantlife of Netherwood receives quick retaliation from the forest itself.
 
 #### Noctfel
 
@@ -68,7 +68,7 @@ Halflings in Maga have a bit of unique character to them. While in most settings
 
 Part of why Halflings assisted in the overthrow of the Elven Kingdoms was based on the belief that doing so would increase the influence of the Thieves Guild, that was not permitted to flourish under the Elves. Their estimation turned out to be basically correct.
 
-On Honstrad, the Halflings lived along the coastline adjacent to the Magfel in the land of Miniheim. For most of their history there, they have been under the rule of the Magfel empire that existed there with few uprisings. However, they never had a strong loyalty to the Magfel but wished to avoid the endless war that had resulted from the constant conflict between the Dwarves and Elves.
+On Honstrad, the Halflings lived along the coastline adjacent to the Magfel in the region called the Rich Coast, which they called Miniheim. For most of their history there, they have been under the rule of the Magfel empire that existed there with few uprisings. However, they never had a strong loyalty to the Magfel but wished to avoid the endless war that had resulted from the constant conflict between the Dwarves and Elves.
 
 #### Names
 
