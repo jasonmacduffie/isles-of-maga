@@ -8,7 +8,7 @@ The beast races are all given some traditional names to choose from. However, ma
 
 Note that there are no race/class restrictions whatsoever, at least from a lore perspective. Fighter/Magic-Users are common in Maga among Dwarves and Humans, and Magic-Users are common among Halflings, for example. The GM is free to restrict players in this manner, but there is no inherent reason why any race cannot become any class.
 
-The four main races are the same species, and are fully capable of conception (including Orokins). However, such crosses are very strongly prohibited by social stigma. Rules are not given for multiple race characters (there would be too many combinations) but they do exist.
+The four main races are the same species, and are fully capable of conception (including Okros). However, such crosses are very strongly prohibited by social stigma. Rules are not given for multiple race characters (there would be too many combinations) but they do exist.
 
 The distinction between subraces and races is partly arbitrary. Elves originally used the term "Human" to describe all non-Elves of the same species, such that they referred to Dwarves and Halflings as subraces of Human. However, the Dwarves and Halflings strongly identify as distinct from the other Human subraces, and have been treated as separate races since before the colonization of Maga.
 
@@ -214,10 +214,10 @@ Examples of names could be:
 - Chitwiiik
 - Kiblaaachi
 
-Orokins
+Okros
 -------
 
-Most nativists belong to the same larger race of Orokins, containing Orcs, Goblins, Gnomes, and Ogres. Orokins do not exist in Honstrad, having always lived in Maga.
+Most nativists belong to the same larger race of Okros, containing Orcs, Goblins, Gnomes, and Ogres. Okros do not exist in Honstrad, having always lived in Maga.
 
 ### Orcs
 
@@ -239,7 +239,7 @@ Goblins originally lived underground, and many still do. However after the Orcis
 
 ### Gnomes
 
-Gnomes are a subrace of Orokins, and have much more monstrous features than other settings. They appear to have physical traits of both Halflings and Goblins. They are much more magically inclined than other Orokins.
+Gnomes are a subrace of Okros, and have much more monstrous features than other settings. They appear to have physical traits of both Halflings and Goblins. They are much more magically inclined than other Okros.
 
 Gnomes generally have blue hair.
 
