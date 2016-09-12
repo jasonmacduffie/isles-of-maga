@@ -82,7 +82,7 @@ Humans occupy a rung on the power structure between Dwarves and Elves, but not i
 
 ### Subraces
 
-Among Humans, there are four subraces. Hammerkins are the most populous, but all subraces are fairly significant in Maga.
+Among Humans, there are two subraces (excluding Halflings and Dwarves). Hammerkins are more populous, but Northwatches are certainly not uncommon.
 
 #### Hammerkins
 
