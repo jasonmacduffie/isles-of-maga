@@ -26,10 +26,10 @@ Each character starts with 1 in each skill, plus a choice of 5 skills to start w
 - **Animals** is a measure of skill in handling animals.
 - **Archery** is a measure of skill in using a bow and arrow.
 - **Barter** is a measure of skill in making good deals.
-- **Benevolence** is a measure of skill in casting positive spells.
+- **Benevolence** is a measure of skill in casting "helpful" spells.
 - **Defense** is a measure of skill in dodging and blocking.
 - **Enchanting** is a measure of knowledge about magical artifacts. This is a crafting ability allowing the character to imbue items with magical effects.
-- **Malevolence** is a measure of skill in casting negative spells.
+- **Malevolence** is a measure of skill in casting "harmful" spells.
 - **Melee** is a measure of skill in fighting with a melee weapon.
 - **Security** is a measure of skill in breaking locks.
 - **Smithing** is a measure of skill in working on leather and metal. This is a crafting ability allowing the character to create weapons and armor.
@@ -135,13 +135,15 @@ Benevolent spells, in contrast, are ones that either:
 - protect someone from harm
 - diminish the harmfulness of an enemy, without direct harm to that enemy
 
+As a rule of thumb, malevolent spells are ones intended for destroying others, whereas benevolent spells are limited to nullifying the threatening potential of enemies at worst.
+
 ### Banish Demon
 
 Minimum Benevolence skill: 2
 
 Mana cost: 1
 
-Roll Energy+Benevolence vs. Energy+Defense against a target demon. If the result is 2 or greater, the demon is sent to its region of Demonia.
+Roll Reason+Benevolence vs. Energy+Defense against a target demon. If the result is 2 or greater, the demon is sent to its region of Demonia.
 
 ### Bound Weapon
 
