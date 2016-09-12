@@ -99,7 +99,7 @@ One-handed swords, maces, axes, shortbows, and knuckles, all do standard damage 
 
 Unarmed attacks take an automatic -2 penalty unless wearing knuckles.
 
-Heavy weapons like greatswords give a bonus +1 to attacks, but allow the player to attack only every other turn.
+Heavy weapons like greatswords give a bonus +1 to attacks, but cost 2 action points to use instead of 1.
 
 Shortbows have a range of 12 meters and longbows have a range of 24 meters. Longbows get a -1 penalty to all attacks.
 
@@ -123,13 +123,25 @@ Magic
 -----
 Characters can learn magic spells as their journey progresses. Some spells are malevolent and some are benevolent, which will change which skill the spell utilizes.
 
+Malevolent spells are ones that either:
+
+- directly harm an enemy
+- make an enemy more vulnerable
+- increase the ability of someone to deal damage to the enemy
+
+Benevolent spells, in contrast, are ones that either:
+
+- directly heal someone
+- protect someone from harm
+- diminish the harmfulness of an enemy, without direct harm to that enemy
+
 ### Banish Demon
 
-Minimum Malevolence skill: 2
+Minimum Benevolence skill: 2
 
 Mana cost: 1
 
-Roll Energy+Malevolence vs. Energy+Defense against a target demon. If the result is 2 or greater, the demon is sent to its region of Demonia.
+Roll Energy+Benevolence vs. Energy+Defense against a target demon. If the result is 2 or greater, the demon is sent to its region of Demonia.
 
 ### Bound Weapon
 
