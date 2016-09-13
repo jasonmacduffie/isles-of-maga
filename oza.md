@@ -20,7 +20,6 @@ The island of Oza is deforested by about half of its area, with the rest covered
 
 The Town: Koda
 --------------
-
 The players will start in the coastal town of Koda, which is on the border between the inhabited parts of Oza and the undeveloped area of Cliffwood. Most of the dungeons the players will find are in Cliffwood.
 
 Koda is a fairly large town, with a population of 2100 people. There are about 150 guards, who keep the town safe from monsters that lurk in Cliffwood. Important landmarks are:
@@ -51,7 +50,7 @@ Another major issue on Oza is demon worship. Vitarum has a fairly large followin
 
 Places of Interest
 ------------------
-The Elves never had a strong presence in the Oza region, so there are not many Elven structures although there are one or two. On the other hand, ancient Orcish structures are abundant, some in ruins and some still inhabited by monsters or reclaimed by Orcs of the Kulzari Tribe.
+The High Elves never had a strong presence in the Oza region, so there are not many Elven structures although there are one or two. On the other hand, ancient Orcish structures are abundant, some in ruins and some still inhabited by monsters or reclaimed by Orcs of the Kulzari Tribe.
 
 Many Lacertine structures can be found underwater around the town of Koda. They are difficult to get to, but a magical spell granting temporary water-breathing can allow adventurers to reach the interior, which tends to be dry and breatheable. There is notably a very large, ancient Lacertinean ruin called Bluespire a few miles from Koda's shore. However, few have tried to enter for fear of the dangers within.
 
@@ -63,7 +62,7 @@ Here are some rumors you may hear around Koda.
 - Some has a contract on his head from the Assassins Guild.
 - The Orcs are planning a raid on the town.
 - The Orcs have discovered an underground ruin filled with powerful enchanted weapons and armor.
-- A foreign Elf has rallied the Orcs against the Republic and is now leading them.
+- A foreign High Elf has rallied the Orcs against the Republic and is now leading them.
 - The owner of the Cow & Chicken Tavern, a Corvidine, privately worships Pastorum.
 - A coven of vampires worshipping Umbrarum are hiding in Cliffwood.
 - A time traveler has been looking for an artifact to bring him back to his original time.
