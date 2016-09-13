@@ -11,9 +11,7 @@ Gora
 ----
 The "good" religion in Maga is monotheistic, worshipping the deity called Gora. However, Gora does not actively perform miracles, and the power of Clerics, like Magic-Users, comes from their life energy rather than a blessing from Gora. In fact, there is no physical evidence that Gora exists, but rather his existence is based on an oral tradition dating thousands of years that eventually became a written tradition and organized into churches.
 
-During the Elven Kingdoms, these churches formed the United Church of Gora, headed by an appointed Church Father. Any religion that contradicted the teachings of the United Church was considered heretical, and the clergy of the church was able to exert quite a lot of political influence in persecuting these heretics. However, during the revolution that established the Republic, the political influence of the United Church was ousted in place of decentralized denominations, each with their own interpretation of Gora. This new religious theory was called Wordism, as each church interpreted the nature of Gora from the holy book. The United Church still exists during the Republic, but is mostly only recognized by Elves with some exception.
-
-The result of this splintering is that each Wordist Church has its own doctrine, which its Clerics uphold. Clerics may be limited in their faith to only cast spells compatible with such doctrine. For example, most churches are adamantly opposed to necrosmithing. This would mean that a faithful Cleric of one of these churches cannot summon skeletons or zombies, although a Demon Lord-aligned Cleric may be able to.
+Each church of Gora has its own doctrine, which its Clerics uphold. Clerics may be limited in their faith to only cast spells compatible with such doctrine. For example, most churches are adamantly opposed to necrosmithing. This would mean that a faithful Cleric of one of these churches cannot summon skeletons or zombies, although a Demon Lord-aligned Cleric may be able to.
 
 There are several broad denominations of Goraism, although many churches have their own individual doctrine.
 
