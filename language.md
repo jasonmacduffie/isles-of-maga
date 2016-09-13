@@ -3,7 +3,7 @@ Languages
 The language rules are substantially changed compared to the BFRPG rules. Each race has its own language, plus an additional language of "Common" which is a modernized dialect of the Magfeli language, where "Magfeli" refers to a more old-fashioned dialect. Furthermore, Magic-Users begin knowing Dragonish in addition to any other languages.
 
 Languages of the Republican races:
-- Bulgarish, the language of the Bulgars (Common alphabet)
+- Cyrilish, the language of the Bulgars (Common alphabet)
 - Keltish, the language of the Kelts (Common alphabet)
 - Vedish, the language of the Vedes (Common alphabet)
 - Avodanish, the language of the Westforts (Common alphabet)
