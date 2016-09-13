@@ -1,40 +1,72 @@
 Races/Species
 =============
-Aside from the four major races (Dwarves, Elves, Halflings, and Humans), there are four beast races: Lacertines (lizard people), Felidines (cat people), Corvidines (crow people), and Vespertines (bat people). Because the four non-beast races already have details in the BFRPG rules, they are mainly described in terms of their political relationships. The beast races have full descriptions for player characters.
+There are nine races with citizenship in the Republic: Bulgars, Kelts, Vedes, Westforts, Magfel, Noctfel, Rubefel, Lacertines and Felidines.
 
-It is up to the GM whether to include Lizard Men in the setting or to substitute them for Lacertines. To leave this ambiguous, no references to Lizard Men outside of Lacertines are made in these documents.
+Note that there are no race/class restrictions whatsoever, at least from a lore perspective. The GM is free to restrict players in this manner, but there is no inherent reason why any race cannot become any class.
 
-The beast races are all given some traditional names to choose from. However, many choose or are given names more common to other races, depending on where they are from. Some also choose descriptive titles as a substitute for their names, such as Swift-runner (for a particularly fast individual).
+Men, Elves, and Orves are all members of the same species and are fully capable of conception. However, such crosses are very strongly prohibited by social stigma. Rules are not given for multiple race characters (there would be too many combinations) but they do exist.
 
-Note that there are no race/class restrictions whatsoever, at least from a lore perspective. Fighter/Magic-Users are common in Maga among Dwarves and Humans, and Magic-Users are common among Halflings, for example. The GM is free to restrict players in this manner, but there is no inherent reason why any race cannot become any class.
+Races of Men
+------------
 
-The four main races are the same species, and are fully capable of conception (including Okros). However, such crosses are very strongly prohibited by social stigma. Rules are not given for multiple race characters (there would be too many combinations) but they do exist.
+### Bulgars
 
-The distinction between subraces and races is partly arbitrary. Elves originally used the term "Human" to describe all non-Elves of the same species, such that they referred to Dwarves and Halflings as subraces of Human. However, the Dwarves and Halflings strongly identify as distinct from the other Human subraces, and have been treated as separate races since before the colonization of Maga.
+Bulgars use the BFRPG rules for Dwarves.
 
-Dwarves
--------
-Politically, Dwarves are the most powerful race in Maga, having initiated the revolution that overthrew the Elven Kingdoms and established the Modern Republic, and now occupy more than 50% of the Electorate. Their rule is heavy-handed, but not outrageously so to most citizens of Maga who know of the horror stories from the Elven Kingdoms. Due to their political status, Dwarves have somewhat of a privileged position in society, which some other races are wary of.
+Politically, the stout Bulgars are the most powerful race in Maga, having initiated the revolution that overthrew the Magfeli Kingdoms and established the Modern Republic, and now occupy more than 50% of the electorate.
 
-In Honstrad, the Dwarves hail from the land of Cyrilia, adjacent to Autumn Marsh in the west. The Magfeli empire that ruled the Rich Coast and Autumn Marsh also controlled western Cyrilia, leading to a series of conflicts between the Dwarves and Magfel that are remembered to this day.
+In Honstrad, the Bulgars hail from the land of Cyrilia, adjacent to Autumn Marsh in the west. The Magfeli empire that ruled the Rich Coast and Autumn Marsh also controlled western Cyrilia, leading to a series of conflicts between the Bulgars and Magfel that are remembered to this day.
 
 #### Names
 
-Dwarf names are often analogous to Elf names, but written closer to their native way of speaking.
+Bulgaric names are often analogous to Magfeli names, but written closer to their native way of speaking.
 
 Common male names: Aleksey, Andrei, Boris, Dmitri, Fyodor, Isaak, Ivan, Mikhail, Nikolai, Pavel, Pyotr, Sergey, Viktor, Vladmir
 
 Common female names: Anna, Darya, Fanya, Katarina, Natalia, Olga, Polina, Sasha, Svetlana, Tamara, Tatyana, Vera, Veronika, Zoya
 
-Elves
------
-While the Dwarves are celebrated in Maga, the Elves are shunned. Once ruling several glorious kingdoms during the First Era, known as the Elven Kingdoms, since the revolution they have been completely disgraced. The Elven Kingdoms were famous for their cruelty towards non-Elves, and their numerous violent purges of Demon Lord worship. Although few Elves today were even alive during that time, the actions of the past still haunt them. Only the few descendants of those Elves who rebelled are in the Electorate, making less than 1%. Most Elves simply want to move on with life, but others long for the day of their return to rule.
+### Kelts
 
-Elves have a much shorter lifespan in Maga than in the BFRPG rules: 300 to 400 years is typical.
+Kelts use the BFRPG rules for Halflings.
 
-### Subraces
+The small and nimble Kelts are famous for their lawless tendencies. That is not to say all Kelts have criminal natures, but lawful Kelts have a reputation to overcome. The most famous pirates, brigands, and thieves have been Kelt individuals. Part of why the Kelts assisted in the overthrow of the Magfeli Kingdoms was based on the belief that doing so would increase the influence of the Thieves Guild, that was not permitted to flourish under the Magfel. Their estimation turned out to be basically correct.
 
-Among Elves, there are three subraces. Magfel are most abundant in Maga, with Rubefel and Noctfel populations being substantially lower. When discussing Elves, most people will simply refer to Magfel as "Elves" and qualify other kinds of Elves.
+On Honstrad, the Kelts lived along the coastline adjacent to the Magfel in the region called the Rich Coast, which they called Miniheim. For most of their history there, they have been under the rule of the Magfel empire that existed there with few uprisings. However, they never had a strong loyalty to the Magfel but wished to avoid the endless war that had resulted from the constant conflict between the Dwarves and Elves.
+
+#### Names
+
+Common male names:
+
+Common female names:
+
+### Vedes
+
+Vedes use the BFRPG rules for Humans.
+
+The Vedes were at one point entirely enslaved as a race by the Draculs, but were able to forcibly overthrow their masters and form their own homeland in the isolated Rocky Mountains on Honstrad. From the Dracul, the Vedes learned a great deal about magic. Among the races of Men, the Vedes are well-known as spellcasters. The Vedes were unfortunately attacked by the Draculs multiple times later, forcing them to live as nomads roaming across Honstrad.
+
+##### Names
+
+Common male names: Abdul, Ahmad, Badawi, Ezzat, Halim, Hoda, Hussain, Ibn, Mohamed, Omar, Tawfiq, Tayeb, Yusuf, Zakaria
+
+Common female names: Ayse, Azmiye, Elif, Fatma, Fawziyya, Halide, Hoda, Laila, Mai, Mona, Raja, Sabiha, Samira, Zeynep
+
+#### Westforts
+
+The Westforts have long lived in the center of Honstrad, with a long history of interaction with the Bulgars, Magfel, and Kelts. They have a long history of sailing, but mainly on seas rather than ocean travel. Westforts are also natural fighters, and are hardened from many wars to defend the strategic position of their homeland, Avodan, on the continent of Honstrad. In fact, the most common greeting among Westforts is "saker bat" literally meaning "good fight", wishing the person to fare well in battle.
+
+##### Names
+
+Westfort names are largely influenced by Magfeli names.
+
+Common male names: Andre, Antoine, Ashanti, Darnell, DeAndre, DeShawn, Jamal, Malik, Marquis, Tyrone, Wayne, Xavier
+
+Common female names: Chantelle, Isis, Jada, Jasmine, Kayla, Kizzy, Layla, Makayla, Qiana, Shaniqua, Raven, Trinity
+
+Races of Fel
+------------
+
+All races of Fel use the BFRPG stats for Elves. Elves have a much shorter lifespan in Maga than in the BFRPG rules: 300 to 400 years is typical.
 
 #### Magfel
 
@@ -59,52 +91,6 @@ On Honstrad, they stayed away from civilization, instead living largely in the f
 The Noctfel, or Dark Elves, are naturally accustomed to the cold, making Maga rather unhospitable to them. They originate in the distant northern land of Frostgard, where they had a large boating and fishing tribal culture. Like the Rubefel, the Noctfel of Maga have not universally kept their traditions alive, but still distinguish themselves culturally from Magfel and Rubefel. In particular, in their interpretations of Goraism, there is often a central theme of ancestor worship that is a sanitized version of their past of serving the Demon Lord Pastorum in Honstrad.
 
 Frostgard is a great distance away from the rest of civilization on Honstrad, leaving the Noctfel to develop their society on their own. Unlike the races on the main continent, they did not develop the same taboos regarding Demon Worship, although they recognized that there are "good" Demon Lords and "bad" Demon Lords based on the tendency of their domain. Pastorum worship was the main form of Demon Worship practiced by the Noctfel, and even today in Maga there are occasionally some Noctfel that keep their ancient ways.
-
-Halflings
----------
-Along with Humans, the Halflings (more formally Minikins) occupy a rung on the power structure between Dwarves and Elves. They assisted with the overthrow of the Elven Kingdoms, but did not play a central role. Halflings occupy around 10% of the Electorate.
-
-Halflings in Maga have a bit of unique character to them. While in most settings they are known for being good-natured, in Maga they are much more inclined to a life of crime than the other major races. That is not to say there are not lawful Halflings, but those ones have a reputation to overcome. The most famous pirates, brigands, and thieves have been Halfling individuals. Another distinction is that while Halflings in other settings tend to live in rural areas, in Maga there tend to be more in urban settings. There are nonetheless a decent number of Halfling farmers.
-
-Part of why Halflings assisted in the overthrow of the Elven Kingdoms was based on the belief that doing so would increase the influence of the Thieves Guild, that was not permitted to flourish under the Elves. Their estimation turned out to be basically correct.
-
-On Honstrad, the Halflings lived along the coastline adjacent to the Magfel in the region called the Rich Coast, which they called Miniheim. For most of their history there, they have been under the rule of the Magfel empire that existed there with few uprisings. However, they never had a strong loyalty to the Magfel but wished to avoid the endless war that had resulted from the constant conflict between the Dwarves and Elves.
-
-#### Names
-
-Common male names: Albert, Alfonz, Adolf, Bernard, Charles, Earl, Erwin, Esmond, Henry, Hubert, Lambert, Leonard, Philip, Sigmund
-
-Common female names: Adelie, Amelie, Angel, Dagger, Emily, Frida, Gertrude, Hammer, Hilda, Matilda, Thoria, Wanda, Wendy, Wolf
-
-Humans
-------
-Humans occupy a rung on the power structure between Dwarves and Elves, but not in the same way as Halflings. While the Halflings are notable for being generally benign during the revolution, Humans are notable for taking the extremes on both sides: some of the greatest heroes of the revolution, and greatest villains loyal to the Kingdoms, were Human. As a result, Humans manage to occupy around 25% of the Electorate. Their role in society is complicated by the fact that Humans held a relatively high regard in the Elven Kingdoms, being seen as greater than the other non-Elf races, although nowhere near the position of Elves. Some Humans think that life was better for them before the Republic, and seek to restore the Kingdoms back to their former glory.
-
-### Subraces
-
-Among Humans, there are two subraces (excluding Halflings and Dwarves). Hammerkins are more populous, but Northwatches are certainly not uncommon.
-
-#### Hammerkins
-
-The Hammerkins were at one point entirely enslaved as a race by the Draculs, but were able to forcibly overthrow their masters and form their own homeland in the isolated Rocky Mountains on Honstrad which they referred to as Hammerheim. From the Dracul, the Hammerkins learned a great deal about magic. Among the Humans, the Hammerkins are well-known as spellcasters. The Hammerkins were unfortunately attacked by the Draculs multiple times later, forcing them to live as nomads roaming across Honstrad. Other races, including Human subraces, are often mistrusting of Hammerkins because of their history as outsiders.
-
-##### Names
-
-Common male names: Abdul, Ahmad, Badawi, Ezzat, Halim, Hoda, Hussain, Ibn, Mohamed, Omar, Tawfiq, Tayeb, Yusuf, Zakaria
-
-Common female names: Ayse, Azmiye, Elif, Fatma, Fawziyya, Halide, Hoda, Laila, Mai, Mona, Raja, Sabiha, Samira, Zeynep
-
-#### Northwatches
-
-The Northwatch people have long lived on a border with Dwarves, Elves, and Halflings, and has a long history of interaction with these races. They have a long history of sailing, but mainly on seas rather than ocean travel. Northwatches are also natural fighters, and are hardened from many wars to defend the strategic position of their homeland, Avodan, on the continent of Honstrad. In fact, the most common greeting among Northwatches is "saker bat" literally meaning "good fight", wishing the person to fare well in battle.
-
-##### Names
-
-Northwatch names are largely influenced by Magfeli names.
-
-Common male names: Andre, Antoine, Ashanti, Darnell, DeAndre, DeShawn, Jamal, Malik, Marquis, Tyrone, Wayne, Xavier
-
-Common female names: Chantelle, Isis, Jada, Jasmine, Kayla, Kizzy, Layla, Makayla, Qiana, Shaniqua, Raven, Trinity
 
 Lacertines
 ----------
