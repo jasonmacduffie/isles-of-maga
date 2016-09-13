@@ -1,6 +1,6 @@
 Technology
 ==========
-The technology is around that of the European middle ages. The recipe for gunpowder was perfected almost right before the revolution began, and the revolution was the most extensive use of gunpowder so far on both sides. While cannons are fairly common now, especially on ships, personal firearms are still not very good even compared to a crossbow. Over time they have become more and more practical, however.
+The technology of 2E50 is approximately that of the 1500s. The recipe for gunpowder was perfected almost right before the revolution began, and the revolution was the most extensive use of gunpowder so far on both sides. While cannons are fairly common now, especially on ships, personal firearms are still not very good even compared to a crossbow. Over time they have become more and more practical, however.
 
 If a character wishes to use a pistol as a weapon, use Longbow stats for the gun and Longbow Arrow stats for ammunition. Assume that gunpowder is included with ammunition.
 
