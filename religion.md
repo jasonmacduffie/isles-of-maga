@@ -15,10 +15,6 @@ Each church of Gora has its own doctrine, which its Clerics uphold. Clerics may 
 
 There are several broad denominations of Goraism, although many churches have their own individual doctrine.
 
-### United Church
-
-The United Church is the remnants of the Elven religious hierarchy since during the Elven Kingdoms.
-
 Demon Lords
 -----------
 However, there are a large number of "evil" religions in Maga, each serving a Demon Lord. Unlike Gora, the existence of Demon Lords is undeniable and apparent. Although the worship of the Demon Lords is forbidden culturally and legally, they all have their own share of worshippers. Demon Lords are considered evil compared to Gora, and while they generally tend to be misanthropic, some actually follow a more complex grey morality. Furthermore, all the beast races traditionally worship a patron Demon Lord rather than Gora (although some do worship Gora), and have a much more positive perception of the Demon Lord they follow.
