@@ -14,7 +14,7 @@ Beneath the surface, there are civilizations of various races living in the eart
 
 ### Near Neath
 
-For the first few hundred feet exists the Near Neath. This is where Dwarves, Goblins, and other common underground races tend to live. Most do not stay permanently here, and make frequent trips to the surface.
+For the first few hundred feet exists the Near Neath. This is where Goblins and other common underground races tend to live. Most do not stay permanently here, and make frequent trips to the surface.
 
 ### Middle Neath
 
@@ -22,7 +22,7 @@ Less common underground races live in the Middle Neath, and rarely travel to the
 
 ### Far Neath
 
-The Far Neath is part of the crust that is kept warm by the planet's mantle. As one goes deeper and deeper, the earth becomes unhospitably warm.
+The Far Neath is part of the crust that is kept warm by the planet's mantle. As one goes deeper and deeper, the earth becomes unhospitably warm and contains fewer and fewer living things.
 
 ### Demonia
 
