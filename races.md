@@ -31,7 +31,7 @@ Kelts use the BFRPG rules for Halflings.
 
 The small and nimble Kelts are famous for their lawless tendencies. That is not to say all Kelts have criminal natures, but lawful Kelts have a reputation to overcome. The most famous pirates, brigands, and thieves have been Kelt individuals. Part of why the Kelts assisted in the overthrow of the Magfeli Kingdoms was based on the belief that doing so would increase the influence of the Thieves Guild, that was not permitted to flourish under the Magfel. Their estimation turned out to be basically correct.
 
-On Honstrad, the Kelts lived along the coastline adjacent to the Magfel in the region called the Rich Coast, which they called Miniheim. For most of their history there, they have been under the rule of the Magfel empire that existed there with few uprisings. However, they never had a strong loyalty to the Magfel but wished to avoid the endless war that had resulted from the constant conflict between the Dwarves and Elves.
+On Honstrad, the Kelts lived along the coastline adjacent to the Magfel in the region called the Rich Coast, which they called Miniheim. For most of their history there, they have been under the rule of the Magfel empire that existed there with few uprisings. However, they never had a strong loyalty to the Magfel but wished to avoid the endless war that had resulted from the constant conflict between the Bulgars and Magfel.
 
 #### Names
 
@@ -72,7 +72,7 @@ All races of Fel use the BFRPG stats for Elves. Elves have a much shorter lifesp
 
 The Magfel, or High Elves, have the greatest influence on Magan culture. They are the aristocracy of the former Magfeli Empire that ruled over Maga, and have a natural talent for diplomacy and politics. Magfel are not as good in physical combat as Rubefel or Noctfel, but are much more talented in magic.
 
-On Honstrad, they controlled an empire that controlled their homeland of Autumn Marsh as well as the Rich Coast and part of Cyrilia. There were constant wars between the Magfel and the Dwarves over control over the western portions of Cyrilia.
+On Honstrad, they controlled an empire that controlled their homeland of Autumn Marsh as well as the Rich Coast and part of Cyrilia. There were constant wars between the Magfel and the Bulgars over control over the western portions of Cyrilia.
 
 ##### Names
 
