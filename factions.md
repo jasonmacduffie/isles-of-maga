@@ -94,5 +94,5 @@ Aside from the Thieves Guild, there are a number of bandit and pirates that grou
 
 ### Firebeard the Pirate
 
-Firebeard is a Halfling Fighter/Magic-User that roams the high seas with his crew. He has been terrorizing the seas and plundering for decades, and has yet to be even close to captured.
+Firebeard is a Kelt Fighter/Magic-User that roams the high seas with his crew. He has been terrorizing the seas and plundering for decades, and has yet to be even close to captured.
 
