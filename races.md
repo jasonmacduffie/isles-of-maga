@@ -51,7 +51,7 @@ Common male names: Abdul, Ahmad, Badawi, Ezzat, Halim, Hoda, Hussain, Ibn, Moham
 
 Common female names: Ayse, Azmiye, Elif, Fatma, Fawziyya, Halide, Hoda, Laila, Mai, Mona, Raja, Sabiha, Samira, Zeynep
 
-#### Westforts
+### Westforts
 
 The Westforts have long lived in the center of Honstrad, with a long history of interaction with the Bulgars, Magfel, and Kelts. They have a long history of sailing, but mainly on seas rather than ocean travel. Westforts are also natural fighters, and are hardened from many wars to defend the strategic position of their homeland, Avodan, on the continent of Honstrad. In fact, the most common greeting among Westforts is "saker bat" literally meaning "good fight", wishing the person to fare well in battle.
 
@@ -68,29 +68,37 @@ Races of Fel
 
 All races of Fel use the BFRPG stats for Elves. Elves have a much shorter lifespan in Maga than in the BFRPG rules: 300 to 400 years is typical.
 
-#### Magfel
+### Magfel
 
 The Magfel, or High Elves, have the greatest influence on Magan culture. They are the aristocracy of the former Magfeli Empire that ruled over Maga, and have a natural talent for diplomacy and politics. Magfel are not as good in physical combat as Rubefel or Noctfel, but are much more talented in magic.
 
 On Honstrad, they controlled an empire that controlled their homeland of Autumn Marsh as well as the Rich Coast and part of Cyrilia. There were constant wars between the Magfel and the Bulgars over control over the western portions of Cyrilia.
 
-##### Names
+#### Names
 
 Common male names: Anthony, Augustus, Clementine, Columbus, Draconis, Ignacius, Julius, Justin, Lucius, Marcelo, Pontius, Titus
 
 Common female names: April, Bellatrix, Celina, Cornelia, Diane, Felicia, Lucille, Madonna, Matrona, Natalia, Octavia, Patricia
 
-#### Rubefel
+### Rubefel
 
 The Rubefel, or Wood Elves, tend to shy away from cities and prefer to live in tribes in the woods. While some have integrated into society, it is not uncommon for a Rubefel born and raised in the city to begin wandering into the woods for longer and longer hunting trips, until one day the Rubefel never returns. Traditional Rubefeli culture is very different from Magfeli culture, completely forbidding the consumption of plants and instead consuming only meat. While some keep these traditions, the Rubefel in Maga are less attached to their old traditions after eras away from Honstrad.
 
 On Honstrad, they stayed away from civilization, instead living largely in the forests undisturbed. The home of the Rubefel is Netherwood, which is a vast forest of giant trees located southwest of Avodan. The reason for their relative isolation is due to the inhospitability of the forest; anyone attempting to tame the plantlife of Netherwood receives quick retaliation from the forest itself.
 
-#### Noctfel
+### Noctfel
 
 The Noctfel, or Dark Elves, are naturally accustomed to the cold, making Maga rather unhospitable to them. They originate in the distant northern land of Frostgard, where they had a large boating and fishing tribal culture. Like the Rubefel, the Noctfel of Maga have not universally kept their traditions alive, but still distinguish themselves culturally from Magfel and Rubefel. In particular, in their interpretations of Goraism, there is often a central theme of ancestor worship that is a sanitized version of their past of serving the Demon Lord Pastorum in Honstrad.
 
 Frostgard is a great distance away from the rest of civilization on Honstrad, leaving the Noctfel to develop their society on their own. Unlike the races on the main continent, they did not develop the same taboos regarding Demon Worship, although they recognized that there are "good" Demon Lords and "bad" Demon Lords based on the tendency of their domain. Pastorum worship was the main form of Demon Worship practiced by the Noctfel, and even today in Maga there are occasionally some Noctfel that keep their ancient ways.
+
+Races of Orves
+--------------
+The Orves are a group of races that are of the same species of Men and Fel, but never lived on Honstrad.
+
+### Orcs
+
+The Orcs have a long history as a tribal society in Maga, although at times they have created large kingdoms that rose and fell.
 
 Non-Colonist Honstrad Races
 ---------------------------
