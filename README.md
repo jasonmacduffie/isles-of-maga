@@ -2,7 +2,7 @@ The Isles of Maga
 =================
 Isles of Maga is a role playing setting that I am creating, in particular for use with the Basic Fantasy RPG (BFRPG). However it is general enough to be used by other systems, such as FATE. The system chosen will have a huge impact on the scale and kind of adventures had, and Maga should be suitable for a wide range of such variety.
 
-The history of Maga is scattered and mysterious, and you are expected to make alterations in your campaign to suit yourself. Here is the basic information for how things work in the year 2E308 (the 308th year of the Modern Republic).
+The history of Maga is scattered and mysterious, and you are expected to make alterations in your campaign to suit yourself. Here is the basic information for how things work in the year 2E50 (the 50th year of the Modern Republic).
 
 The Isles of Maga represent one region of the entire world, called Agreus. The general setting is called Tales of the Doombound (working title). I may write a bit more about the world of Agreus in the future.
 
