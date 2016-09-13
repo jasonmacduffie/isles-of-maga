@@ -11,9 +11,7 @@ Gora
 ----
 The "good" religion in Maga is monotheistic, worshipping the deity called Gora. However, Gora does not actively perform miracles, and the power of Clerics, like Magic-Users, comes from their life energy rather than a blessing from Gora. In fact, there is no apparent physical evidence that Gora exists, although many Clerics may dispute this point.
 
-Goraism traces back to Honstrad, where most people worshipped some version of Gora localized for their culture. Each church of Gora has its own doctrine, which its Clerics uphold. Clerics may be limited in their faith to only cast spells compatible with such doctrine. For example, most churches are adamantly opposed to necrosmithing. This would mean that a faithful Cleric of one of these churches cannot summon skeletons or zombies, although a Demon Lord-aligned Cleric may be able to.
-
-There are several broad denominations of Goraism, although many churches have their own individual doctrine.
+Goraism traces back to Honstrad, where most people worshipped some version of Gora localized for their culture. Clerics of Gora are forbidden from necrosmithing and dealing with Demon Lords.
 
 Demon Lords
 -----------
