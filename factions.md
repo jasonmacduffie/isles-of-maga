@@ -1,12 +1,12 @@
 Factions
 ========
-Since the fall of the Magfeli Empire, there is no longer a single government in control of Maga. However, the Modern Republic controls the majority of it at present.
+Since the fall of the Magafeli Empire, there is no longer a single government in control of Maga. However, the Modern Republic controls the majority of it at present.
 
 Republicans
 -----------
 ![Republic Flag](republic_flag.png)
 
-Republican is a general term for those politically aligned with the Modern Republic. This includes loyal citizens of the Republic, public officials, and organizations employed by the Republic. The symbol of the Republic is a sun and moon fused together, representing the unity of races that cooperated in overthrowing the Magfeli Empire.
+Republican is a general term for those politically aligned with the Modern Republic. This includes loyal citizens of the Republic, public officials, and organizations employed by the Republic. The symbol of the Republic is a sun and moon fused together, representing the unity of races that cooperated in overthrowing the Magafeli Empire.
 
 ### The Order of Skulls
 
@@ -18,7 +18,7 @@ The Moonguard, unlike the Order of Skulls, is an officially recognized organizat
 
 Monarchists
 -----------
-A significant number of Magfel still advocate the return of the Magfeli Empire. These people are known as monarchists. While advocating monarchism is not illegal, it is cause for suspicion, and even minor rouses to action can be a basis for arrest. Many monarchists go further, plotting the overthrow of the Republic. Although they are not representative of the general public feeling, there are enough monarchists to present a real threat if they become organized. The symbol of the monarchists is a crescent moon, or "Autumn Moon", which is an ancient magical symbol strongly associated with the Magfel and sometimes Gora.
+A significant number of Magafel still advocate the return of the Magafeli Empire. These people are known as monarchists. While advocating monarchism is not illegal, it is cause for suspicion, and even minor rouses to action can be a basis for arrest. Many monarchists go further, plotting the overthrow of the Republic. Although they are not representative of the general public feeling, there are enough monarchists to present a real threat if they become organized. The symbol of the monarchists is a crescent moon, or "Autumn Moon", which is an ancient magical symbol strongly associated with the Magafel and sometimes Gora.
 
 The Order of Ancients
 ---------------------
@@ -26,7 +26,7 @@ The Order of Ancients is a secretive organization that is not aligned with the R
 
 Nativists
 ---------
-Nativists are sentient races native to Maga that fought against colonization, refusing to integrate with both the Magfeli Empire and now the Republic. To this day, Orcish Tribes and their allies continue to take up arms against the Republic and refuse integration with it out of principle. Most members of the nativist faction are Orves, but there are also members of the beast races that reject citizenship in the Republic, siding with the Nativists as well.
+Nativists are sentient races native to Maga that fought against colonization, refusing to integrate with both the Magafeli Empire and now the Republic. To this day, Orcish Tribes and their allies continue to take up arms against the Republic and refuse integration with it out of principle. Most members of the nativist faction are Orves, but there are also members of the beast races that reject citizenship in the Republic, siding with the Nativists as well.
 
 Guilds
 ------

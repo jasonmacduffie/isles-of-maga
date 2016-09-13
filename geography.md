@@ -12,7 +12,7 @@ The official name for Republic-minted coins made of gold, silver, and copper res
 
 Honstrad
 --------
-Honstrad is a continent that lies between the Northfrost Ocean, Sunbound Ocean, and Atlas Ocean. Before the colonization of Maga, there were nine regions in Honstrad called Rich Coast, Cyrilia, Frostgard, Autumn Marsh, Avodan, Rocky Mountains, Netherwood, Grey Mountain, and Sunrise Isles. Each region is the homeland of nine races, respectively: Minikins, Dwarves, Noctfel, Magfel, Northwatch, Hammerkins, Rubefel, Draculs, and Iavols.
+Honstrad is a continent that lies between the Northfrost Ocean, Sunbound Ocean, and Atlas Ocean. Before the colonization of Maga, there were nine regions in Honstrad called Rich Coast, Cyrilia, Frostgard, Autumn Marsh, Avodan, Rocky Mountains, Netherwood, Grey Mountain, and Sunrise Isles. Each region is the homeland of nine races, respectively: Minikins, Dwarves, Noctfel, Magafel, Northwatch, Hammerkins, Rubefel, Draculs, and Iavols.
 
 ![honstrad.png](honstrad.png)
 
