@@ -14,3 +14,7 @@ More than a millenium after Honstrad was discovered, the other races rose up aga
 Second Era: The Modern Republic
 ------------------------------
 Maga is now 50 years into the establishment of the Republic. Although the largest portion of the Magafeli Empire has fallen, some remnants stand against the Republic.
+
+All races have representation in the Republic except for Lacertines and Felidines.
+
+The president of the last 50 years has been Vladmir Lesko, who has had a policy of expanding the Republic into the remaining islands. However, Lesko's health has been in decline, and public opinion has begun turning away from the objective of total control of Maga.
