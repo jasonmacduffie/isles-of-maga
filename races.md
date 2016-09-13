@@ -100,6 +100,18 @@ The Orves are a group of races that are of the same species of Men and Fel, but 
 
 The Orcs have a long history as a tribal society in Maga, although at times they have created large kingdoms that rose and fell.
 
+### Goblins
+
+Goblins are less built and somewhat less intelligent than Orcs.
+
+### Gnomes
+
+Gnomes are the most intelligent race of the Orves. Unlike Gnomes in other settings, these ones have more Goblin-like features.
+
+### Ogres
+
+Ogres are the least intelligent race of the Orves, but also the most physically powerful.
+
 Non-Colonist Honstrad Races
 ---------------------------
 These races exist in the world of Agreus, but did not join the colonization and are not native to Maga.
