@@ -70,7 +70,7 @@ All races of Fel use the BFRPG stats for Elves. Elves have a much shorter lifesp
 
 #### Magfel
 
-The Magfel, or High Elves, have the greatest influence on Magan culture. They are the aristocracy of the former Elven Kingdoms that ruled over Maga, and have a natural talent for diplomacy and politics. Magfel are not as good in physical combat as Rubefel or Noctfel, but are much more talented in magic.
+The Magfel, or High Elves, have the greatest influence on Magan culture. They are the aristocracy of the former Magfeli Empire that ruled over Maga, and have a natural talent for diplomacy and politics. Magfel are not as good in physical combat as Rubefel or Noctfel, but are much more talented in magic.
 
 On Honstrad, they controlled an empire that controlled their homeland of Autumn Marsh as well as the Rich Coast and part of Cyrilia. There were constant wars between the Magfel and the Dwarves over control over the western portions of Cyrilia.
 
@@ -104,7 +104,7 @@ On Honstrad, most Draculs lived in their homeland of Grey Mountain, a huge volca
 
 ### Iavols
 
-Iavols are a race a humanoids with devilish features. Like the Draculs the Iavols had their own kingdoms on Honstrad but are not generally found in Maga.
+Iavols are a race a humanoids with devilish features. Like the Draculs the Iavols had their own kingdom on Honstrad but are not generally found in Maga.
 
 On Honstrad, the homeland of the Iavols was the Sunrise Isles. Unlike most other races, but like the Noctfel, the Iavols were serious demon worshippers. The primary Demon Lord worshipped by the Iavols was Solum, and the Iavols were harshly concerned with Solum's extreme view of justice and fair punishment.
 
