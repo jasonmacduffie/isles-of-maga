@@ -18,6 +18,8 @@ Other languages:
 - Gnomish, the language of the Gnomes (Orcish alphabet)
 - Goblinish, the language of the Goblins (Orcish alphabet)
 - Ogrish, the language of the Ogres (Orcish alphabet)
+- Corvidinean, the language of the Corvidines (no written language)
+- Vespertinean, the language of the Vespertines (no written language)
 - Demonish, the language of Demons (Demonish alphabet)
 - Dragonish, the language of Dragons (Dragonish alphabet)
 - Giantish, the language of Giants (Giantish alphabet)
