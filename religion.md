@@ -9,9 +9,9 @@ Religion is one of the ways people are tied together. Often times those who come
 
 Gora
 ----
-The "good" religion in Maga is monotheistic, worshipping the deity called Gora. However, Gora does not actively perform miracles, and the power of Clerics, like Magic-Users, comes from their life energy rather than a blessing from Gora. In fact, there is no physical evidence that Gora exists, but rather his existence is based on an oral tradition dating thousands of years that eventually became a written tradition and organized into churches.
+The "good" religion in Maga is monotheistic, worshipping the deity called Gora. However, Gora does not actively perform miracles, and the power of Clerics, like Magic-Users, comes from their life energy rather than a blessing from Gora. In fact, there is no apparent physical evidence that Gora exists, although many Clerics may dispute this point.
 
-Each church of Gora has its own doctrine, which its Clerics uphold. Clerics may be limited in their faith to only cast spells compatible with such doctrine. For example, most churches are adamantly opposed to necrosmithing. This would mean that a faithful Cleric of one of these churches cannot summon skeletons or zombies, although a Demon Lord-aligned Cleric may be able to.
+Goraism traces back to Honstrad, where most people worshipped some version of Gora localized for their culture. Each church of Gora has its own doctrine, which its Clerics uphold. Clerics may be limited in their faith to only cast spells compatible with such doctrine. For example, most churches are adamantly opposed to necrosmithing. This would mean that a faithful Cleric of one of these churches cannot summon skeletons or zombies, although a Demon Lord-aligned Cleric may be able to.
 
 There are several broad denominations of Goraism, although many churches have their own individual doctrine.
 
