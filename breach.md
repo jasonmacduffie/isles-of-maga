@@ -49,38 +49,6 @@ Characters can take 0 to 2 traits. Traits are qualities of a person with good an
 
 There are many races in Maga, and your choice of race changes what kinds of gifts you have access to.
 
-#### Human (Hammerkin)
-
-Humans are the assumed default, so they do not have many special characteristics.
-
-##### Gift options
-
-- **Diplomatic heritage (costs 4):** Your humanity brings you to seek more diplomatic solutions. Once per day, take +4 on a Speech roll instead of rolling the dice.
-
-#### Minikin
-
-Minikins are nimble, such that their minimum Balance score is 3. On the other hand they tend to be frail, such that their maximum Health score is 8.
-
-##### Gift options
-
-- **Minikin luck (costs 4):** Any time you encounter a pile of treasure, you find 20% more wealth than other people.
-
-#### Elf (Magfel)
-
-Elves are intelligent, such that their minimum Reason score is 3.
-
-##### Gift options
-
-- **Magic blood (costs 4):** You have magic coursing through your veins. Add the character's Malevolence or Benevolence skill (whichever is higher) to the daily pool of Spirit Points.
-
-#### Dwarf
-
-Dwarves are resilient, such that their minimum Energy score is 3. On the other hand they tend to be brash, such that their maximum Charm score is 8.
-
-##### Gift options
-
-- **Adrenaline rush (costs 4):** Your warrior nature allows you to shrug off wounds. Once per day, remove a Minor Hurt or lesser injury from your character.
-
 Advancement
 -----------
 
