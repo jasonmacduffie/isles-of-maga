@@ -26,6 +26,5 @@ License: CC BY-SA 4.0+. See LICENSE for details. Also, you have permission to di
 10. [Languages](language.md)
 11. [Factions](factions.md)
 12. [Calendar and Birthsigns](calendar.md)
-13. [Drugs](drugs.md)
-14. [Artifacts](artifacts.md)
-15. [Oza Province](oza.md) (An example region to play in)
+13. [Artifacts](artifacts.md)
+14. [Oza Province](oza.md) (An example region to play in)
