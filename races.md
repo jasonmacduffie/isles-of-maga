@@ -19,7 +19,7 @@ In Honstrad, the Bulgars hail from the land of Cyrilia, adjacent to Autumn Marsh
 
 #### Names
 
-Bulgaric names are often analogous to Magafeli names, but written closer to their native way of speaking.
+Bulgar names are often analogous to Magafeli names, but written closer to their native way of speaking.
 
 Common male names: Aleksey, Andrei, Boris, Dmitri, Fyodor, Isaak, Ivan, Mikhail, Nikolai, Pavel, Pyotr, Sergey, Viktor, Vladmir
 
