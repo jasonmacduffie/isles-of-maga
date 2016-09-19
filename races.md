@@ -11,7 +11,7 @@ Races of Men
 
 ### Bulgars
 
-Bulgars use the BFRPG rules for Dwarves.
+Bulgars use the BFRPG rules for Dwarves, except that they have the same age range as Humans.
 
 Politically, the stout Bulgars are the most powerful race in Maga, having initiated the revolution that overthrew the Magafeli Kingdoms and established the Modern Republic, and now occupy more than 50% of the electorate.
 
