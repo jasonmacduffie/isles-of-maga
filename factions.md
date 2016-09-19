@@ -18,7 +18,7 @@ The Moonguard, unlike the Order of Skulls, is an officially recognized organizat
 
 Monarchists
 -----------
-A significant number of Magafel still advocate the return of the Magafeli Empire. These people are known as monarchists. While advocating monarchism is not illegal, it is cause for suspicion, and even minor rouses to action can be a basis for arrest. Many monarchists go further, plotting the overthrow of the Republic. Although they are not representative of the general public feeling, there are enough monarchists to present a real threat if they become organized. The symbol of the monarchists is a crescent moon, or "Autumn Moon", which is an ancient magical symbol strongly associated with the Magafel and sometimes Gora.
+A significant number of Magafel still advocate the return of the Magafeli Empire. These people are known as monarchists. The symbol of the monarchists is a crescent moon, or "Autumn Moon", which is an ancient magical symbol strongly associated with the Magafel and sometimes Gora.
 
 The Order of Ancients
 ---------------------
