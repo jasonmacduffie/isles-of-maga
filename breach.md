@@ -87,6 +87,17 @@ In combat, characters have a number of Action Points equal to their Balance. The
 
 Melee combat attacks use Health+Melee vs. Health+Defense. Hand-to-hand attacks use Health+Unarmed vs. Health+Defense, with a -2 penalty to the attacker unless weilding knuckles. Ranged attacks use Awareness+Ranged vs. Balance+Defense.
 
+Morale
+------
+Creatures generally have two values relating to willingess to fight. These scores both range from 1 to 10:
+
+- 1) Aggression applies when the creature is initially encountered. Creatures which are highly aggressive would rather fight than flee. On the other hand, creatures which are not aggressive would rather avoid fighting.
+- 2) Morale applies when the creature receives a Major Hurt or worse. Creatures with a high morale will fight to the death, ignoring any wounds it incurs. On the other hand, creatures with low morale will run away quickly after seeing the fight will be more difficult than anticipated.
+
+The default morale and aggression is 4, with 1 being very averse to combat and 10 being very willing to fight. A creature tests its own morale against a static target of 4, with adjustments made for the stress of the environment. If the result is 4 or greater, the creature will begin or continue fighting. If the result is 3 or less, the creature will run away or surrender.
+
+An undead creature can be forced to make a morale check once during combat by a Cleric of Gora or a Cleric of Pestium. Instead of comparing morale to 4, the morale is rolled against the Cleric's static Energy score. If the roll fails against the Cleric of Gora, the undead creature runs away. If the roll fails against the Cleric of Pestium, the undead creature is now under the control of the Cleric.
+
 Magic
 -----
 Characters can learn magic spells as their journey progresses. Some spells are malevolent and some are benevolent, which will change which skill the spell utilizes.
