@@ -33,6 +33,12 @@ The small and nimble Kelts are famous for their lawless tendencies. That is not 
 
 On Honstrad, the Kelts lived along the coastline adjacent to the Magafel in the region called the Rich Coast. For most of their history there, they have been under the rule of the Magafel empire that existed there with few uprisings. However, they never had a strong loyalty to the Magafel but wished to avoid the endless war that had resulted from the constant conflict between the Bulgars and Magafel.
 
+#### Names
+
+Common male names: Aidan, Alastar, Brannon, Brian, Clancy, Connor, Dorian, Enri, Folan, Gilroy, Keban, Nolan, Oscar, Owen, Torin
+
+Common female names: Alana, Bebin, Bridget, Darina, Fiona, Ilia, Kathleen, Maureen, Mona, Nessa, Nora, Rois, Shiela, Tulia
+
 ### Vedes
 
 Vedes use the BFRPG rules for Humans.
